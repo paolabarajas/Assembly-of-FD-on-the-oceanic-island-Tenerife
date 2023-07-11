@@ -1,0 +1,2251 @@
+ID sampled leaves,IDmaster,Species ,total number of individuals collected for leaves,number of leaves ,total fresh mass (g) ,total dry mass (g) ,Leaf dry mass (g). Formula =G2/E2,LDMC (mg/g)
+451,1,Adenocarpus foliolosus (Aiton) DC.,3,50,0.13,0.06,0.0012,461.5384615
+901,1,Adenocarpus foliolosus (Aiton) DC.,3,100,0.23,0.09,0.0009,391.3043478
+1,1,Adenocarpus foliolosus (Aiton) DC.,3,,,,,
+1351,1,Adenocarpus foliolosus (Aiton) DC.,3,,,,,
+1801,1,Adenocarpus foliolosus (Aiton) DC.,3,,,,,
+1352,2,Adenocarpus viscosus (Willd.) Webb & Berthel.,3,50,0.3,0.13,0.0026,433.3333333
+902,2,Adenocarpus viscosus (Willd.) Webb & Berthel.,3,100,0.43,0.2,0.002,465.1162791
+452,2,Adenocarpus viscosus (Willd.) Webb & Berthel.,3,100,0.52,0.2,0.002,384.6153846
+2,2,Adenocarpus viscosus (Willd.) Webb & Berthel.,3,,,,,
+1802,2,Adenocarpus viscosus (Willd.) Webb & Berthel.,3,,,,,
+453,3,Aeonium arboreum (L.) Webb & Berthel.,3,10,37.43,2.84,0.284,75.8749666
+3,3,Aeonium arboreum (L.) Webb & Berthel.,3,10,23.8,1.48,0.148,62.18487395
+903,3,Aeonium arboreum (L.) Webb & Berthel.,3,10,29.38,1.62,0.162,55.13955071
+1353,3,Aeonium arboreum (L.) Webb & Berthel.,3,,,,,
+1803,3,Aeonium arboreum (L.) Webb & Berthel.,3,,,,,
+4,4,Aeonium canariense (L.) Webb & Berthel.,3,5,319.63,19.18,3.836,60.00688296
+454,4,Aeonium canariense (L.) Webb & Berthel.,3,5,201.97,6.58,1.316,32.57909591
+904,4,Aeonium canariense (L.) Webb & Berthel.,3,5,175.8,5.17,1.034,29.40841866
+1354,4,Aeonium canariense (L.) Webb & Berthel.,3,,,,,
+1804,4,Aeonium canariense (L.) Webb & Berthel.,3,,,,,
+905,5,Aeonium ciliatum (Willd.) Webb & Berthel.,2,10,22.63,1.86,0.186,82.19178082
+5,5,Aeonium ciliatum (Willd.) Webb & Berthel.,2,10,71,5.17,0.517,72.81690141
+455,5,Aeonium ciliatum (Willd.) Webb & Berthel.,2,10,22.62,1.38,0.138,61.00795756
+1355,5,Aeonium ciliatum (Willd.) Webb & Berthel.,2,,,,,
+1805,5,Aeonium ciliatum (Willd.) Webb & Berthel.,2,,,,,
+456,6,Aeonium cuneatum Webb & Berthel.,2,5,165.32,7.37,1.474,44.58020808
+906,6,Aeonium cuneatum Webb & Berthel.,2,5,176.33,5.95,1.19,33.74354903
+6,6,Aeonium cuneatum Webb & Berthel.,2,20,670.94,25.74,1.287,38.36408621
+1356,6,Aeonium cuneatum Webb & Berthel.,2,,,,,
+1806,6,Aeonium cuneatum Webb & Berthel.,2,,,,,
+7,7,Aeonium decorum Webb ex Bolle,,,,,,
+457,7,Aeonium decorum Webb ex Bolle,,,,,,
+907,7,Aeonium decorum Webb ex Bolle,,,,,,
+1357,7,Aeonium decorum Webb ex Bolle,,,,,,
+1807,7,Aeonium decorum Webb ex Bolle,,,,,,
+8,8,Aeonium haworthii (Salm-Dyck ex Webb & Berthel.) Webb & Berthel.,3,10,25.84,1.74,0.174,67.3374613
+908,8,Aeonium haworthii (Salm-Dyck ex Webb & Berthel.) Webb & Berthel.,3,10,23.87,1.47,0.147,61.58357771
+458,8,Aeonium haworthii (Salm-Dyck ex Webb & Berthel.) Webb & Berthel.,3,10,16.5,0.77,0.077,46.66666667
+1358,8,Aeonium haworthii (Salm-Dyck ex Webb & Berthel.) Webb & Berthel.,3,,,,,
+1808,8,Aeonium haworthii (Salm-Dyck ex Webb & Berthel.) Webb & Berthel.,3,,,,,
+459,9,Aeonium lindleyi Webb & Berthel.,2,10,12.55,0.44,0.044,35.05976096
+909,9,Aeonium lindleyi Webb & Berthel.,2,10,12,0.35,0.035,29.16666667
+9,9,Aeonium lindleyi Webb & Berthel.,2,20,23.74,0.49,0.0245,20.64026959
+1359,9,Aeonium lindleyi Webb & Berthel.,2,,,,,
+1809,9,Aeonium lindleyi Webb & Berthel.,2,,,,,
+910,10,Aeonium pseudourbicum A. Bañares,3,5,56.25,4.34,0.868,77.15555556
+460,10,Aeonium pseudourbicum A. Bañares,3,10,185.21,13.56,1.356,73.2141893
+10,10,Aeonium pseudourbicum A. Bañares,3,10,146.33,9.75,0.975,66.63021937
+1360,10,Aeonium pseudourbicum A. Bañares,3,,,,,
+1810,10,Aeonium pseudourbicum A. Bañares,3,,,,,
+11,11,Aeonium sedifolium (Webb ex Bolle) Pit. & Proust,3,30,1.95,0.18,0.006,92.30769231
+461,11,Aeonium sedifolium (Webb ex Bolle) Pit. & Proust,3,50,2.4,0.18,0.0036,75
+911,11,Aeonium sedifolium (Webb ex Bolle) Pit. & Proust,3,50,6.55,0.4,0.008,61.06870229
+1361,11,Aeonium sedifolium (Webb ex Bolle) Pit. & Proust,3,,,,,
+1811,11,Aeonium sedifolium (Webb ex Bolle) Pit. & Proust,3,,,,,
+912,12,Aeonium smithii (Sims) Webb & Berthel.,3,5,7.13,0.36,0.072,50.49088359
+462,12,Aeonium smithii (Sims) Webb & Berthel.,3,10,11.66,0.71,0.071,60.89193825
+12,12,Aeonium smithii (Sims) Webb & Berthel.,3,10,9.13,0.39,0.039,42.71631982
+1362,12,Aeonium smithii (Sims) Webb & Berthel.,3,,,,,
+1812,12,Aeonium smithii (Sims) Webb & Berthel.,3,,,,,
+13,13,Aeonium spathulatum (Hornem.) Praeger,3,20,2.76,0.25,0.0125,90.57971014
+463,13,Aeonium spathulatum (Hornem.) Praeger,3,20,3.81,0.31,0.0155,81.3648294
+913,13,Aeonium spathulatum (Hornem.) Praeger,3,20,3.32,0.19,0.0095,57.22891566
+1363,13,Aeonium spathulatum (Hornem.) Praeger,3,,,,,
+1813,13,Aeonium spathulatum (Hornem.) Praeger,3,,,,,
+14,14,Aeonium tabulaeforme (Haw.) Webb & Berthel.,1,10,17.55,0.84,0.084,47.86324786
+914,14,Aeonium tabulaeforme (Haw.) Webb & Berthel.,1,10,18.95,0.66,0.066,34.82849604
+464,14,Aeonium tabulaeforme (Haw.) Webb & Berthel.,1,10,23.85,0.8,0.08,33.54297694
+1364,14,Aeonium tabulaeforme (Haw.) Webb & Berthel.,1,,,,,
+1814,14,Aeonium tabulaeforme (Haw.) Webb & Berthel.,1,,,,,
+915,15,Aeonium urbicum (C. Sm. ex Buch) Webb & Berthel.,2,10,102.35,7.33,0.733,71.61700049
+465,15,Aeonium urbicum (C. Sm. ex Buch) Webb & Berthel.,2,10,156.15,11.02,1.102,70.57316683
+15,15,Aeonium urbicum (C. Sm. ex Buch) Webb & Berthel.,2,20,296.26,29.61,1.4805,99.94599338
+1365,15,Aeonium urbicum (C. Sm. ex Buch) Webb & Berthel.,2,,,,,
+1815,15,Aeonium urbicum (C. Sm. ex Buch) Webb & Berthel.,2,,,,,
+466,16,Aeonium volkerii Hernández & A. Bañares,3,10,12.49,0.76,0.076,60.84867894
+16,16,Aeonium volkerii Hernández & A. Bañares,3,10,7.17,0.41,0.041,57.18270572
+916,16,Aeonium volkerii Hernández & A. Bañares,3,10,10.42,0.56,0.056,53.7428023
+1366,16,Aeonium volkerii Hernández & A. Bañares,3,,,,,
+1816,16,Aeonium volkerii Hernández & A. Bañares,3,,,,,
+917,17,Aichryson laxum (Haw.) Bramwell,3,10,10.84,0.87,0.087,80.25830258
+467,17,Aichryson laxum (Haw.) Bramwell,3,10,3.34,0.16,0.016,47.90419162
+17,17,Aichryson laxum (Haw.) Bramwell,3,10,3.5,0.14,0.014,40
+1367,17,Aichryson laxum (Haw.) Bramwell,3,,,,,
+1817,17,Aichryson laxum (Haw.) Bramwell,3,,,,,
+468,18,Aichryson pachycaulon Bolle,2,10,4.98,0.22,0.022,44.17670683
+918,18,Aichryson pachycaulon Bolle,2,10,7.04,0.24,0.024,34.09090909
+18,18,Aichryson pachycaulon Bolle,2,20,17.02,0.88,0.044,51.70387779
+1368,18,Aichryson pachycaulon Bolle,2,,,,,
+1818,18,Aichryson pachycaulon Bolle,2,,,,,
+469,19,Aichryson parlatorei Bolle,5,10,1.51,0.08,0.008,52.98013245
+19,19,Aichryson parlatorei Bolle,5,10,1.13,0.05,0.005,44.24778761
+1369,19,Aichryson parlatorei Bolle,5,10,1.51,0.05,0.005,33.11258278
+1819,19,Aichryson parlatorei Bolle,5,10,0.97,0.03,0.003,30.92783505
+919,19,Aichryson parlatorei Bolle,5,10,1.47,0.03,0.003,20.40816327
+20,20,Aichryson porphyrogennetos Bolle,,,,,,
+470,20,Aichryson porphyrogennetos Bolle,,,,,,
+920,20,Aichryson porphyrogennetos Bolle,,,,,,
+1370,20,Aichryson porphyrogennetos Bolle,,,,,,
+1820,20,Aichryson porphyrogennetos Bolle,,,,,,
+471,21,Aichryson punctatum (C. Sm. ex Buch) Webb & Berthel.,3,5,0.88,0.04,0.008,45.45454545
+921,21,Aichryson punctatum (C. Sm. ex Buch) Webb & Berthel.,3,10,2.63,0.13,0.013,49.42965779
+21,21,Aichryson punctatum (C. Sm. ex Buch) Webb & Berthel.,3,10,2.06,0.07,0.007,33.98058252
+1371,21,Aichryson punctatum (C. Sm. ex Buch) Webb & Berthel.,3,,,,,
+1821,21,Aichryson punctatum (C. Sm. ex Buch) Webb & Berthel.,3,,,,,
+22,22,Aichryson tortuosum (Aiton) Webb & Berthel.,,,,,,
+472,22,Aichryson tortuosum (Aiton) Webb & Berthel.,,,,,,
+922,22,Aichryson tortuosum (Aiton) Webb & Berthel.,,,,,,
+1372,22,Aichryson tortuosum (Aiton) Webb & Berthel.,,,,,,
+1822,22,Aichryson tortuosum (Aiton) Webb & Berthel.,,,,,,
+23,23,Aizoon canariense L.,3,9,1.56,0.18,0.02,115.3846154
+473,23,Aizoon canariense L.,3,10,1.9,0.19,0.019,100
+923,23,Aizoon canariense L.,3,20,2.87,0.29,0.0145,101.0452962
+1373,23,Aizoon canariense L.,3,,,,,
+1823,23,Aizoon canariense L.,3,,,,,
+924,24,Allagopappus canariensis (Willd.) Greuter,3,50,1.59,0.5,0.01,314.4654088
+24,24,Allagopappus canariensis (Willd.) Greuter,3,50,1.28,0.34,0.0068,265.625
+474,24,Allagopappus canariensis (Willd.) Greuter,3,50,2.12,0.51,0.0102,240.5660377
+1374,24,Allagopappus canariensis (Willd.) Greuter,3,,,,,
+1824,24,Allagopappus canariensis (Willd.) Greuter,3,,,,,
+884,435,Allium canariense,5,2,0.75,0.09,0.045,120
+2234,435,Allium canariense,5,2,1.16,0.1,0.05,86.20689655
+1784,435,Allium canariense,5,2,1.43,0.12,0.06,83.91608392
+434,435,Allium canariense,5,3,1.32,0.14,0.046666667,106.0606061
+1334,435,Allium canariense,5,3,1.23,0.12,0.04,97.56097561
+25,25,Ammodaucus nanocarpus (Beltrán-Tej.) P. Pérez & A. Velasco,,,,,,
+475,25,Ammodaucus nanocarpus (Beltrán-Tej.) P. Pérez & A. Velasco,,,,,,
+925,25,Ammodaucus nanocarpus (Beltrán-Tej.) P. Pérez & A. Velasco,,,,,,
+1375,25,Ammodaucus nanocarpus (Beltrán-Tej.) P. Pérez & A. Velasco,,,,,,
+1825,25,Ammodaucus nanocarpus (Beltrán-Tej.) P. Pérez & A. Velasco,,,,,,
+26,26,Anagyris latifolia Brouss. ex Willd.,,,,,,
+476,26,Anagyris latifolia Brouss. ex Willd.,,,,,,
+926,26,Anagyris latifolia Brouss. ex Willd.,,,,,,
+1376,26,Anagyris latifolia Brouss. ex Willd.,,,,,,
+1826,26,Anagyris latifolia Brouss. ex Willd.,,,,,,
+477,27,Andryala pinnatifida Aiton,2,20,2.73,0.32,0.016,117.2161172
+927,27,Andryala pinnatifida Aiton,2,20,2.72,0.3,0.015,110.2941176
+27,27,Andryala pinnatifida Aiton,2,,,,,
+1377,27,Andryala pinnatifida Aiton,2,,,,,
+1827,27,Andryala pinnatifida Aiton,2,,,,,
+928,28,Anisantha rubens (L.),3,6,0.03,0.01,0.001666667,333.3333333
+478,28,Anisantha rubens (L.),3,25,0.1,0.06,0.0024,600
+28,28,Anisantha rubens (L.),3,25,0.11,0.04,0.0016,363.6363636
+1378,28,Anisantha rubens (L.),3,,,,,
+1828,28,Anisantha rubens (L.),3,,,,,
+479,29,Apollonias barbujana (Cav.) Bornm.,2,10,11.18,5.99,0.599,535.7781753
+29,29,Apollonias barbujana (Cav.) Bornm.,2,10,4.66,2.32,0.232,497.8540773
+929,29,Apollonias barbujana (Cav.) Bornm.,2,20,25.47,12.01,0.6005,471.5351394
+1379,29,Apollonias barbujana (Cav.) Bornm.,2,21,19.38,7.23,0.344285714,373.0650155
+1829,29,Apollonias barbujana (Cav.) Bornm.,2,21,22.1,8.12,0.386666667,367.4208145
+480,30,Arbutus canariensis Veill.,2,10,30.8,13.12,1.312,425.974026
+30,30,Arbutus canariensis Veill.,2,10,13.7,5.66,0.566,413.1386861
+930,30,Arbutus canariensis Veill.,2,,,,,
+1380,30,Arbutus canariensis Veill.,2,,,,,
+1830,30,Arbutus canariensis Veill.,2,,,,,
+31,31,Argyranthemum adauctum (Link) Humphries,3,10,1.77,0.26,0.026,146.8926554
+481,31,Argyranthemum adauctum (Link) Humphries,3,10,4.19,0.6,0.06,143.1980907
+931,31,Argyranthemum adauctum (Link) Humphries,3,10,6.18,0.51,0.051,82.52427184
+1381,31,Argyranthemum adauctum (Link) Humphries,3,,,,,
+1831,31,Argyranthemum adauctum (Link) Humphries,3,,,,,
+1382,32,Argyranthemum broussonetii (Pers.) Humphries,3,10,2.39,0.4,0.04,167.3640167
+482,32,Argyranthemum broussonetii (Pers.) Humphries,3,10,8.9,1.3,0.13,146.0674157
+932,32,Argyranthemum broussonetii (Pers.) Humphries,3,10,5.53,0.64,0.064,115.7323689
+32,32,Argyranthemum broussonetii (Pers.) Humphries,3,20,42.07,7.17,0.3585,170.4302353
+1832,32,Argyranthemum broussonetii (Pers.) Humphries,3,,,,,
+483,33,Argyranthemum coronopifolium (Willd.) Humphries,3,10,5.08,0.61,0.061,120.0787402
+933,33,Argyranthemum coronopifolium (Willd.) Humphries,3,10,3.78,0.35,0.035,92.59259259
+33,33,Argyranthemum coronopifolium (Willd.) Humphries,3,10,7.45,0.67,0.067,89.93288591
+1383,33,Argyranthemum coronopifolium (Willd.) Humphries,3,,,,,
+1833,33,Argyranthemum coronopifolium (Willd.) Humphries,3,,,,,
+934,34,Argyranthemum foeniculaceum (Willd.) Webb ex Sch. Bip.,3,20,1.71,0.31,0.0155,181.2865497
+34,34,Argyranthemum foeniculaceum (Willd.) Webb ex Sch. Bip.,3,20,2.44,0.39,0.0195,159.8360656
+484,34,Argyranthemum foeniculaceum (Willd.) Webb ex Sch. Bip.,3,20,3.49,0.48,0.024,137.5358166
+1384,34,Argyranthemum foeniculaceum (Willd.) Webb ex Sch. Bip.,3,,,,,
+1834,34,Argyranthemum foeniculaceum (Willd.) Webb ex Sch. Bip.,3,,,,,
+35,35,Argyranthemum frutescens (L.) Sch. Bip.,1,10,5.1,0.26,0.026,50.98039216
+485,35,Argyranthemum frutescens (L.) Sch. Bip.,1,,,,,
+935,35,Argyranthemum frutescens (L.) Sch. Bip.,1,,,,,
+1385,35,Argyranthemum frutescens (L.) Sch. Bip.,1,,,,,
+1835,35,Argyranthemum frutescens (L.) Sch. Bip.,1,,,,,
+448,450,Argyranthemum frutescens sub. frutescens,2,10,1.78,0.23,0.023,129.2134831
+898,450,Argyranthemum frutescens sub. frutescens,2,,,,,
+1348,450,Argyranthemum frutescens sub. frutescens,2,,,,,
+1798,450,Argyranthemum frutescens sub. frutescens,2,,,,,
+2248,450,Argyranthemum frutescens sub. frutescens,2,,,,,
+449,451,Argyranthemum frutescens sub. gracilescens,1,20,2.01,0.29,0.0145,144.278607
+899,451,Argyranthemum frutescens sub. gracilescens,1,,,,,
+1349,451,Argyranthemum frutescens sub. gracilescens,1,,,,,
+1799,451,Argyranthemum frutescens sub. gracilescens,1,,,,,
+2249,451,Argyranthemum frutescens sub. gracilescens,1,,,,,
+900,452,Argyranthemum frutescens sub. succulentum,3,10,1.97,0.18,0.018,91.37055838
+1350,452,Argyranthemum frutescens sub. succulentum,3,20,2.24,0.21,0.0105,93.75
+450,452,Argyranthemum frutescens sub. succulentum,3,20,5.31,0.24,0.012,45.19774011
+1800,452,Argyranthemum frutescens sub. succulentum,3,,,,,
+2250,452,Argyranthemum frutescens sub. succulentum,3,,,,,
+486,36,Argyranthemum gracile Sch. Bip.,3,15,0.59,0.17,0.011333333,288.1355932
+936,36,Argyranthemum gracile Sch. Bip.,3,15,0.42,0.12,0.008,285.7142857
+36,36,Argyranthemum gracile Sch. Bip.,3,20,1.33,0.16,0.008,120.3007519
+1386,36,Argyranthemum gracile Sch. Bip.,3,,,,,
+1836,36,Argyranthemum gracile Sch. Bip.,3,,,,,
+487,37,Argyranthemum lemsii Humphries,3,10,1.49,0.31,0.031,208.0536913
+37,37,Argyranthemum lemsii Humphries,3,10,2.2,0.35,0.035,159.0909091
+937,37,Argyranthemum lemsii Humphries,3,10,2.59,0.38,0.038,146.7181467
+1387,37,Argyranthemum lemsii Humphries,3,,,,,
+1837,37,Argyranthemum lemsii Humphries,3,,,,,
+38,38,Argyranthemum sundingii L. Borgen,1,6,0.34,0.11,0.018333333,323.5294118
+488,38,Argyranthemum sundingii L. Borgen,1,,,,,
+938,38,Argyranthemum sundingii L. Borgen,1,,,,,
+1388,38,Argyranthemum sundingii L. Borgen,1,,,,,
+1838,38,Argyranthemum sundingii L. Borgen,1,,,,,
+489,39,Argyranthemum tenerifae Humphries,3,10,2.23,0.36,0.036,161.4349776
+39,39,Argyranthemum tenerifae Humphries,3,20,2.23,0.44,0.022,197.309417
+939,39,Argyranthemum tenerifae Humphries,3,30,3.47,0.67,0.022333333,193.0835735
+1389,39,Argyranthemum tenerifae Humphries,3,,,,,
+1839,39,Argyranthemum tenerifae Humphries,3,,,,,
+888,439,Argyranthemum vincentii,3,10,2.87,0.55,0.055,191.6376307
+1338,439,Argyranthemum vincentii,3,10,6.92,1.29,0.129,186.416185
+438,439,Argyranthemum vincentii,3,10,6.45,0.84,0.084,130.2325581
+1788,439,Argyranthemum vincentii,3,,,,,
+2238,439,Argyranthemum vincentii,3,,,,,
+40,40,Arisarum simorrhinum Durieu in Duch.,5,10,16.79,1.47,0.147,87.55211435
+490,40,Arisarum simorrhinum Durieu in Duch.,5,,,,,
+940,40,Arisarum simorrhinum Durieu in Duch.,5,,,,,
+1390,40,Arisarum simorrhinum Durieu in Duch.,5,,,,,
+1840,40,Arisarum simorrhinum Durieu in Duch.,5,,,,,
+41,41,Aristida adscensionis L.,3,10,0.51,0.23,0.023,450.9803922
+941,41,Aristida adscensionis L.,3,20,0.36,0.17,0.0085,472.2222222
+491,41,Aristida adscensionis L.,3,20,0.35,0.16,0.008,457.1428571
+1391,41,Aristida adscensionis L.,3,,,,,
+1841,41,Aristida adscensionis L.,3,,,,,
+42,42,Arrhenatherum calderae A. Hansen,3,20,1.22,0.46,0.023,377.0491803
+942,42,Arrhenatherum calderae A. Hansen,3,20,1.05,0.39,0.0195,371.4285714
+492,42,Arrhenatherum calderae A. Hansen,3,20,1.38,0.48,0.024,347.826087
+1392,42,Arrhenatherum calderae A. Hansen,3,,,,,
+1842,42,Arrhenatherum calderae A. Hansen,3,,,,,
+493,43,Artemisia ramosa C. Sm. in Buch,3,50,0.52,0.12,0.0024,230.7692308
+43,43,Artemisia ramosa C. Sm. in Buch,3,50,0.73,0.15,0.003,205.4794521
+943,43,Artemisia ramosa C. Sm. in Buch,3,100,1.61,0.63,0.0063,391.3043478
+1393,43,Artemisia ramosa C. Sm. in Buch,3,,,,,
+1843,43,Artemisia ramosa C. Sm. in Buch,3,,,,,
+44,44,Artemisia reptans C. Sm. in Buch,3,30,0.62,0.09,0.003,145.1612903
+944,44,Artemisia reptans C. Sm. in Buch,3,100,0.54,0.17,0.0017,314.8148148
+494,44,Artemisia reptans C. Sm. in Buch,3,100,0.79,0.2,0.002,253.164557
+1394,44,Artemisia reptans C. Sm. in Buch,3,,,,,
+1844,44,Artemisia reptans C. Sm. in Buch,3,,,,,
+1395,45,Artemisia thuscula Cav.,2,10,1.75,0.47,0.047,268.5714286
+945,45,Artemisia thuscula Cav.,2,20,4.21,1.58,0.079,375.2969121
+45,45,Artemisia thuscula Cav.,2,20,3.52,1,0.05,284.0909091
+495,45,Artemisia thuscula Cav.,2,,,,,
+1845,45,Artemisia thuscula Cav.,2,,,,,
+46,46,Arthrocnemum macrostachyum (Moric.) Moris in Moris & Delponte,,,,,,
+496,46,Arthrocnemum macrostachyum (Moric.) Moris in Moris & Delponte,,,,,,
+946,46,Arthrocnemum macrostachyum (Moric.) Moris in Moris & Delponte,,,,,,
+1396,46,Arthrocnemum macrostachyum (Moric.) Moris in Moris & Delponte,,,,,,
+1846,46,Arthrocnemum macrostachyum (Moric.) Moris in Moris & Delponte,,,,,,
+882,433,Aspalthium bituminosum,2,10,1.9,0.51,0.051,268.4210526
+1332,433,Aspalthium bituminosum,2,10,4.06,1.03,0.103,253.6945813
+432,433,Aspalthium bituminosum,2,,,,,
+1782,433,Aspalthium bituminosum,2,,,,,
+2232,433,Aspalthium bituminosum,2,,,,,
+47,47,Asparagus arborescens Willd.,4,10,1.3,0.42,0.042,323.0769231
+947,47,Asparagus arborescens Willd.,4,30,1.02,0.33,0.011,323.5294118
+1397,47,Asparagus arborescens Willd.,4,50,1.05,0.33,0.0066,314.2857143
+497,47,Asparagus arborescens Willd.,4,,,,,
+1847,47,Asparagus arborescens Willd.,4,,,,,
+48,48,Asparagus fallax Svent.,1,100,0.34,0.11,0.0011,323.5294118
+498,48,Asparagus fallax Svent.,1,,,,,
+948,48,Asparagus fallax Svent.,1,,,,,
+1398,48,Asparagus fallax Svent.,1,,,,,
+1848,48,Asparagus fallax Svent.,1,,,,,
+49,49,Asparagus pastorianus Webb & Berthel.,3,50,0.65,0.17,0.0034,261.5384615
+499,49,Asparagus pastorianus Webb & Berthel.,3,100,1.03,0.22,0.0022,213.592233
+949,49,Asparagus pastorianus Webb & Berthel.,3,100,1.12,0.22,0.0022,196.4285714
+1399,49,Asparagus pastorianus Webb & Berthel.,3,,,,,
+1849,49,Asparagus pastorianus Webb & Berthel.,3,,,,,
+950,50,Asparagus plocamoides Webb ex Svent.,3,50,0.28,0.14,0.0028,500
+500,50,Asparagus plocamoides Webb ex Svent.,3,100,0.43,0.18,0.0018,418.6046512
+50,50,Asparagus plocamoides Webb ex Svent.,3,100,0.67,0.28,0.0028,417.9104478
+1400,50,Asparagus plocamoides Webb ex Svent.,3,,,,,
+1850,50,Asparagus plocamoides Webb ex Svent.,3,,,,,
+51,51,Asparagus scoparius Lowe,2,50,0.05,0.02,0.0004,400
+501,51,Asparagus scoparius Lowe,2,100,0.03,0.01,0.0001,333.3333333
+951,51,Asparagus scoparius Lowe,2,,,,,
+1401,51,Asparagus scoparius Lowe,2,,,,,
+1851,51,Asparagus scoparius Lowe,2,,,,,
+952,52,Asparagus umbellatus Link,3,50,0.43,0.19,0.0038,441.8604651
+502,52,Asparagus umbellatus Link,3,100,0.25,0.08,0.0008,320
+52,52,Asparagus umbellatus Link,3,100,0.89,0.14,0.0014,157.3033708
+1402,52,Asparagus umbellatus Link,3,,,,,
+1852,52,Asparagus umbellatus Link,3,,,,,
+53,53,Astragalus hamosus L.,,,,,,
+503,53,Astragalus hamosus L.,,,,,,
+953,53,Astragalus hamosus L.,,,,,,
+1403,53,Astragalus hamosus L.,,,,,,
+1853,53,Astragalus hamosus L.,,,,,,
+954,54,Astydamia latifolia (L. f.) Baill.,3,5,177.59,12.51,2.502,70.44315558
+504,54,Astydamia latifolia (L. f.) Baill.,3,5,326.71,21.69,4.338,66.38915246
+54,54,Astydamia latifolia (L. f.) Baill.,3,10,275.11,17.43,1.743,63.35647559
+1404,54,Astydamia latifolia (L. f.) Baill.,3,,,,,
+1854,54,Astydamia latifolia (L. f.) Baill.,3,,,,,
+55,55,Atalanthus arboreus (DC.) Sw.,1,10,3.6,0.72,0.072,200
+505,55,Atalanthus arboreus (DC.) Sw.,1,,,,,
+955,55,Atalanthus arboreus (DC.) Sw.,1,,,,,
+1405,55,Atalanthus arboreus (DC.) Sw.,1,,,,,
+1855,55,Atalanthus arboreus (DC.) Sw.,1,,,,,
+506,56,Atalanthus capillaris (Svent.) A. Hansen & Sunding,3,5,3.05,0.7,0.14,229.5081967
+956,56,Atalanthus capillaris (Svent.) A. Hansen & Sunding,3,5,1.84,0.35,0.07,190.2173913
+56,56,Atalanthus capillaris (Svent.) A. Hansen & Sunding,3,10,4.46,0.83,0.083,186.0986547
+1406,56,Atalanthus capillaris (Svent.) A. Hansen & Sunding,3,,,,,
+1856,56,Atalanthus capillaris (Svent.) A. Hansen & Sunding,3,,,,,
+957,57,Atalanthus microcarpus (Boulos) A. Hansen & Sunding,3,10,1.36,0.33,0.033,242.6470588
+507,57,Atalanthus microcarpus (Boulos) A. Hansen & Sunding,3,10,2.87,0.66,0.066,229.9651568
+57,57,Atalanthus microcarpus (Boulos) A. Hansen & Sunding,3,10,2.71,0.51,0.051,188.1918819
+1407,57,Atalanthus microcarpus (Boulos) A. Hansen & Sunding,3,,,,,
+1857,57,Atalanthus microcarpus (Boulos) A. Hansen & Sunding,3,,,,,
+958,58,Atalanthus pinnatus (L. f.) D. Don,3,10,3.83,0.82,0.082,214.0992167
+508,58,Atalanthus pinnatus (L. f.) D. Don,3,10,2.45,0.46,0.046,187.755102
+58,58,Atalanthus pinnatus (L. f.) D. Don,3,10,4.77,0.66,0.066,138.3647799
+1408,58,Atalanthus pinnatus (L. f.) D. Don,3,,,,,
+1858,58,Atalanthus pinnatus (L. f.) D. Don,3,,,,,
+59,59,Atalanthus regis-jubae (Pit.) A. Hansen & Sunding,,,,,,
+509,59,Atalanthus regis-jubae (Pit.) A. Hansen & Sunding,,,,,,
+959,59,Atalanthus regis-jubae (Pit.) A. Hansen & Sunding,,,,,,
+1409,59,Atalanthus regis-jubae (Pit.) A. Hansen & Sunding,,,,,,
+1859,59,Atalanthus regis-jubae (Pit.) A. Hansen & Sunding,,,,,,
+60,60,Atractylis preauxiana Sch. Bip.,,,,,,
+510,60,Atractylis preauxiana Sch. Bip.,,,,,,
+960,60,Atractylis preauxiana Sch. Bip.,,,,,,
+1410,60,Atractylis preauxiana Sch. Bip.,,,,,,
+1860,60,Atractylis preauxiana Sch. Bip.,,,,,,
+61,61,"Avena canariensis R. Baum, Rajhathy & D. R. Sampson",,,,,,
+511,61,"Avena canariensis R. Baum, Rajhathy & D. R. Sampson",,,,,,
+961,61,"Avena canariensis R. Baum, Rajhathy & D. R. Sampson",,,,,,
+1411,61,"Avena canariensis R. Baum, Rajhathy & D. R. Sampson",,,,,,
+1861,61,"Avena canariensis R. Baum, Rajhathy & D. R. Sampson",,,,,,
+512,62,Avena fatua L.,3,5,0.18,0.07,0.014,388.8888889
+962,62,Avena fatua L.,3,5,0.17,0.05,0.01,294.1176471
+62,62,Avena fatua L.,3,10,4.82,0.94,0.094,195.0207469
+1412,62,Avena fatua L.,3,,,,,
+1862,62,Avena fatua L.,3,,,,,
+513,63,Bencomia caudata (Aiton) Webb & Berthel.,4,4,16.22,6.2,1.55,382.244143
+963,63,Bencomia caudata (Aiton) Webb & Berthel.,4,5,24.29,9.21,1.842,379.1683821
+1413,63,Bencomia caudata (Aiton) Webb & Berthel.,4,5,17.4,5.65,1.13,324.7126437
+63,63,Bencomia caudata (Aiton) Webb & Berthel.,4,20,4.61,1.8,0.09,390.4555315
+1863,63,Bencomia caudata (Aiton) Webb & Berthel.,4,,,,,
+964,64,Bencomia exstipulata Svent.,3,5,4.54,1.71,0.342,376.6519824
+64,64,Bencomia exstipulata Svent.,3,10,9.68,4.08,0.408,421.4876033
+514,64,Bencomia exstipulata Svent.,3,10,12.25,4.95,0.495,404.0816327
+1414,64,Bencomia exstipulata Svent.,3,,,,,
+1864,64,Bencomia exstipulata Svent.,3,,,,,
+515,65,Bosea yervamora L.,3,9,9.88,2.79,0.31,282.388664
+965,65,Bosea yervamora L.,3,10,5.09,1.38,0.138,271.1198428
+65,65,Bosea yervamora L.,3,10,9.21,2.12,0.212,230.184582
+1415,65,Bosea yervamora L.,3,,,,,
+1865,65,Bosea yervamora L.,3,,,,,
+516,66,Brachypodium arbuscula Knoche,3,20,0.28,0.11,0.0055,392.8571429
+66,66,Brachypodium arbuscula Knoche,3,20,0.68,0.24,0.012,352.9411765
+966,66,Brachypodium arbuscula Knoche,3,20,0.74,0.25,0.0125,337.8378378
+1416,66,Brachypodium arbuscula Knoche,3,,,,,
+1866,66,Brachypodium arbuscula Knoche,3,,,,,
+67,67,Brassica bourgeaui (Webb ex Christ) Kuntze,,,,,,
+517,67,Brassica bourgeaui (Webb ex Christ) Kuntze,,,,,,
+967,67,Brassica bourgeaui (Webb ex Christ) Kuntze,,,,,,
+1417,67,Brassica bourgeaui (Webb ex Christ) Kuntze,,,,,,
+1867,67,Brassica bourgeaui (Webb ex Christ) Kuntze,,,,,,
+68,68,Bryonia verrucosa Dryand.,1,10,27.15,3.51,0.351,129.281768
+518,68,Bryonia verrucosa Dryand.,1,,,,,
+968,68,Bryonia verrucosa Dryand.,1,,,,,
+1418,68,Bryonia verrucosa Dryand.,1,,,,,
+1868,68,Bryonia verrucosa Dryand.,1,,,,,
+519,69,Bufonia paniculata F. Dubois ex Delarbre,3,50,0.03,0.03,0.0006,1000
+69,69,Bufonia paniculata F. Dubois ex Delarbre,3,50,0.06,0.05,0.001,833.3333333
+969,69,Bufonia paniculata F. Dubois ex Delarbre,3,50,0.03,0.02,0.0004,666.6666667
+1419,69,Bufonia paniculata F. Dubois ex Delarbre,3,,,,,
+1869,69,Bufonia paniculata F. Dubois ex Delarbre,3,,,,,
+970,70,Bupleurum salicifolium R. Br. in Buch,3,10,2.55,1.16,0.116,454.9019608
+520,70,Bupleurum salicifolium R. Br. in Buch,3,10,3.09,1.22,0.122,394.8220065
+70,70,Bupleurum salicifolium R. Br. in Buch,3,10,2.35,0.88,0.088,374.4680851
+1420,70,Bupleurum salicifolium R. Br. in Buch,3,,,,,
+1870,70,Bupleurum salicifolium R. Br. in Buch,3,,,,,
+71,71,Bupleurum semicompositum L.,,,,,,
+521,71,Bupleurum semicompositum L.,,,,,,
+971,71,Bupleurum semicompositum L.,,,,,,
+1421,71,Bupleurum semicompositum L.,,,,,,
+1871,71,Bupleurum semicompositum L.,,,,,,
+972,72,Bystropogon canariensis (L.) L’Hér.,1,10,6.23,2.52,0.252,404.494382
+72,72,Bystropogon canariensis (L.) L’Hér.,1,20,5.99,2.64,0.132,440.7345576
+522,72,Bystropogon canariensis (L.) L’Hér.,1,20,8.78,3.29,0.1645,374.715262
+1422,72,Bystropogon canariensis (L.) L’Hér.,1,,,,,
+1872,72,Bystropogon canariensis (L.) L’Hér.,1,,,,,
+73,73,Bystropogon odoratissimus Bolle,1,10,1.53,0.77,0.077,503.2679739
+523,73,Bystropogon odoratissimus Bolle,1,,,,,
+973,73,Bystropogon odoratissimus Bolle,1,,,,,
+1423,73,Bystropogon odoratissimus Bolle,1,,,,,
+1873,73,Bystropogon odoratissimus Bolle,1,,,,,
+74,74,Bystropogon origanifolius L’Hér.,3,10,1.07,0.28,0.028,261.682243
+974,74,Bystropogon origanifolius L’Hér.,3,20,1.7,0.54,0.027,317.6470588
+524,74,Bystropogon origanifolius L’Hér.,3,20,0.81,0.22,0.011,271.6049383
+1424,74,Bystropogon origanifolius L’Hér.,3,,,,,
+1874,74,Bystropogon origanifolius L’Hér.,3,,,,,
+975,75,Bystropogon plumosus (L. f.) L’Hér.,3,15,1.02,0.48,0.032,470.5882353
+75,75,Bystropogon plumosus (L. f.) L’Hér.,3,20,1.56,0.55,0.0275,352.5641026
+525,75,Bystropogon plumosus (L. f.) L’Hér.,3,20,1.46,0.49,0.0245,335.6164384
+1425,75,Bystropogon plumosus (L. f.) L’Hér.,3,,,,,
+1875,75,Bystropogon plumosus (L. f.) L’Hér.,3,,,,,
+76,76,Campanula dichotoma L.,3,5,0.18,0.05,0.01,277.7777778
+526,76,Campanula dichotoma L.,3,5,0.12,0.03,0.006,250
+976,76,Campanula dichotoma L.,3,5,0.08,0.02,0.004,250
+1426,76,Campanula dichotoma L.,3,,,,,
+1876,76,Campanula dichotoma L.,3,,,,,
+977,77,Campylanthus salsoloides (L. f.) Roth,3,25,2.37,0.58,0.0232,244.7257384
+77,77,Campylanthus salsoloides (L. f.) Roth,3,20,3.55,0.64,0.032,180.2816901
+527,77,Campylanthus salsoloides (L. f.) Roth,3,25,2.37,0.43,0.0172,181.4345992
+1427,77,Campylanthus salsoloides (L. f.) Roth,3,,,,,
+1877,77,Campylanthus salsoloides (L. f.) Roth,3,,,,,
+978,78,Canarina canariensis (L.) Vatke,3,10,5.71,0.98,0.098,171.6287215
+78,78,Canarina canariensis (L.) Vatke,3,10,7.84,1.08,0.108,137.755102
+528,78,Canarina canariensis (L.) Vatke,3,10,2.95,0.32,0.032,108.4745763
+1428,78,Canarina canariensis (L.) Vatke,3,,,,,
+1878,78,Canarina canariensis (L.) Vatke,3,,,,,
+979,79,Carduus clavulatus Link,3,5,29.98,5.26,1.052,175.4503002
+529,79,Carduus clavulatus Link,3,9,11.21,2.01,0.223333333,179.3041927
+79,79,Carduus clavulatus Link,3,5,180.01,17.21,3.442,95.60579968
+1429,79,Carduus clavulatus Link,3,,,,,
+1879,79,Carduus clavulatus Link,3,,,,,
+980,80,Carduus volutarioides Reyes-Betancort,3,10,0.46,0.17,0.017,369.5652174
+530,80,Carduus volutarioides Reyes-Betancort,3,10,0.71,0.2,0.02,281.6901408
+80,80,Carduus volutarioides Reyes-Betancort,3,10,0.23,0.06,0.006,260.8695652
+1430,80,Carduus volutarioides Reyes-Betancort,3,,,,,
+1880,80,Carduus volutarioides Reyes-Betancort,3,,,,,
+81,81,Carex canariensis Kük.,3,10,2.66,0.78,0.078,293.2330827
+981,81,Carex canariensis Kük.,3,10,3.4,0.8,0.08,235.2941176
+531,81,Carex canariensis Kük.,3,10,2.45,0.54,0.054,220.4081633
+1431,81,Carex canariensis Kük.,3,,,,,
+1881,81,Carex canariensis Kük.,3,,,,,
+532,82,Carex paniculata L.,3,10,3.13,0.92,0.092,293.9297125
+982,82,Carex paniculata L.,3,10,6.77,1.97,0.197,290.9896603
+82,82,Carex paniculata L.,3,10,8.07,2.3,0.23,285.0061958
+1432,82,Carex paniculata L.,3,,,,,
+1882,82,Carex paniculata L.,3,,,,,
+83,83,Carex perraudieriana Gay ex Bornm.,3,10,16.03,3.62,0.362,225.8265752
+533,83,Carex perraudieriana Gay ex Bornm.,3,10,10.07,2.08,0.208,206.5541212
+983,83,Carex perraudieriana Gay ex Bornm.,3,10,9.11,1.79,0.179,196.4873765
+1433,83,Carex perraudieriana Gay ex Bornm.,3,,,,,
+1883,83,Carex perraudieriana Gay ex Bornm.,3,,,,,
+984,84,Carlina salicifolia (L. f.) Cav.,2,10,4.54,1.73,0.173,381.0572687
+534,84,Carlina salicifolia (L. f.) Cav.,2,10,5.71,1.96,0.196,343.2574431
+84,84,Carlina salicifolia (L. f.) Cav.,2,20,5.36,1.62,0.081,302.238806
+1434,84,Carlina salicifolia (L. f.) Cav.,2,,,,,
+1884,84,Carlina salicifolia (L. f.) Cav.,2,,,,,
+85,85,Carlina xeranthemoides L. f.,3,10,1.52,0.44,0.044,289.4736842
+985,85,Carlina xeranthemoides L. f.,3,20,1.47,0.42,0.021,285.7142857
+535,85,Carlina xeranthemoides L. f.,3,20,1.92,0.51,0.0255,265.625
+1435,85,Carlina xeranthemoides L. f.,3,,,,,
+1885,85,Carlina xeranthemoides L. f.,3,,,,,
+536,86,Ceballosia fruticosa (L. f.) G. Kunkel,3,10,1.3,0.37,0.037,284.6153846
+86,86,Ceballosia fruticosa (L. f.) G. Kunkel,3,10,4.35,0.86,0.086,197.7011494
+986,86,Ceballosia fruticosa (L. f.) G. Kunkel,3,20,1.41,0.37,0.0185,262.4113475
+1436,86,Ceballosia fruticosa (L. f.) G. Kunkel,3,,,,,
+1886,86,Ceballosia fruticosa (L. f.) G. Kunkel,3,,,,,
+987,87,Cedronella canariensis (L.) Webb & Berthel.,3,10,5.47,0.98,0.098,179.1590494
+537,87,Cedronella canariensis (L.) Webb & Berthel.,3,10,5.45,0.84,0.084,154.1284404
+87,87,Cedronella canariensis (L.) Webb & Berthel.,3,10,18.57,2.33,0.233,125.4711901
+1437,87,Cedronella canariensis (L.) Webb & Berthel.,3,,,,,
+1887,87,Cedronella canariensis (L.) Webb & Berthel.,3,,,,,
+88,88,Cerastium sventenii Jalas,,,,,,
+538,88,Cerastium sventenii Jalas,,,,,,
+988,88,Cerastium sventenii Jalas,,,,,,
+1438,88,Cerastium sventenii Jalas,,,,,,
+1888,88,Cerastium sventenii Jalas,,,,,,
+89,89,Ceropegia dichotoma Haw.,3,10,0.65,0.06,0.006,92.30769231
+539,89,Ceropegia dichotoma Haw.,3,16,0.96,0.12,0.0075,125
+989,89,Ceropegia dichotoma Haw.,3,,,,,
+1439,89,Ceropegia dichotoma Haw.,3,,,,,
+1889,89,Ceropegia dichotoma Haw.,3,,,,,
+90,90,Ceropegia fusca Bolle,3,10,0.14,0.03,0.003,214.2857143
+540,90,Ceropegia fusca Bolle,3,,,,,
+990,90,Ceropegia fusca Bolle,3,,,,,
+1440,90,Ceropegia fusca Bolle,3,,,,,
+1890,90,Ceropegia fusca Bolle,3,,,,,
+991,91,Chamaecytisus proliferus (L. f.) Link,2,10,0.66,0.29,0.029,439.3939394
+1441,91,Chamaecytisus proliferus (L. f.) Link,2,20,0.75,0.37,0.0185,493.3333333
+541,91,Chamaecytisus proliferus (L. f.) Link,2,20,1.11,0.49,0.0245,441.4414414
+91,91,Chamaecytisus proliferus (L. f.) Link,2,20,0.68,0.25,0.0125,367.6470588
+1891,91,Chamaecytisus proliferus (L. f.) Link,2,,,,,
+92,92,Cheirolophus burchardii Susanna,3,10,9.4,2.09,0.209,222.3404255
+542,92,Cheirolophus burchardii Susanna,3,10,6,1.21,0.121,201.6666667
+992,92,Cheirolophus burchardii Susanna,3,10,4.23,0.67,0.067,158.392435
+1442,92,Cheirolophus burchardii Susanna,3,,,,,
+1892,92,Cheirolophus burchardii Susanna,3,,,,,
+93,93,Cheirolophus canariensis (Brouss. ex Willd.) Holub,2,20,4.69,1.46,0.073,311.3006397
+543,93,Cheirolophus canariensis (Brouss. ex Willd.) Holub,2,20,5.44,1.58,0.079,290.4411765
+993,93,Cheirolophus canariensis (Brouss. ex Willd.) Holub,2,,,,,
+1443,93,Cheirolophus canariensis (Brouss. ex Willd.) Holub,2,,,,,
+1893,93,Cheirolophus canariensis (Brouss. ex Willd.) Holub,2,,,,,
+94,94,Cheirolophus metlesicsii Montelongo,,,,,,
+544,94,Cheirolophus metlesicsii Montelongo,,,,,,
+994,94,Cheirolophus metlesicsii Montelongo,,,,,,
+1444,94,Cheirolophus metlesicsii Montelongo,,,,,,
+1894,94,Cheirolophus metlesicsii Montelongo,,,,,,
+95,95,Cheirolophus tagananensis (Svent.) Holub,,,,,,
+545,95,Cheirolophus tagananensis (Svent.) Holub,,,,,,
+995,95,Cheirolophus tagananensis (Svent.) Holub,,,,,,
+1445,95,Cheirolophus tagananensis (Svent.) Holub,,,,,,
+1895,95,Cheirolophus tagananensis (Svent.) Holub,,,,,,
+546,96,Cheirolophus teydis (C. Sm. in Buch) G. López,3,10,3.62,0.87,0.087,240.3314917
+996,96,Cheirolophus teydis (C. Sm. in Buch) G. López,3,10,1.56,0.35,0.035,224.3589744
+96,96,Cheirolophus teydis (C. Sm. in Buch) G. López,3,10,2.24,0.48,0.048,214.2857143
+1446,96,Cheirolophus teydis (C. Sm. in Buch) G. López,3,,,,,
+1896,96,Cheirolophus teydis (C. Sm. in Buch) G. López,3,,,,,
+997,97,Cheirolophus webbianus (Sch. Bip.) Holub,3,10,3.69,0.88,0.088,238.4823848
+547,97,Cheirolophus webbianus (Sch. Bip.) Holub,3,10,4.23,0.93,0.093,219.858156
+97,97,Cheirolophus webbianus (Sch. Bip.) Holub,3,10,6.16,1.05,0.105,170.4545455
+1447,97,Cheirolophus webbianus (Sch. Bip.) Holub,3,,,,,
+1897,97,Cheirolophus webbianus (Sch. Bip.) Holub,3,,,,,
+98,98,Chelidonium majus L.,,,,,,
+548,98,Chelidonium majus L.,,,,,,
+998,98,Chelidonium majus L.,,,,,,
+1448,98,Chelidonium majus L.,,,,,,
+1898,98,Chelidonium majus L.,,,,,,
+549,99,Chenoleoides tomentosa (Lowe) Botsch.,3,40,0.23,0.03,0.00075,130.4347826
+99,99,Chenoleoides tomentosa (Lowe) Botsch.,3,40,0.24,0.02,0.0005,83.33333333
+999,99,Chenoleoides tomentosa (Lowe) Botsch.,3,100,0.59,0.11,0.0011,186.440678
+1449,99,Chenoleoides tomentosa (Lowe) Botsch.,3,,,,,
+1899,99,Chenoleoides tomentosa (Lowe) Botsch.,3,,,,,
+100,100,Chenopodium coronopus Moq. in DC.,,,,,,
+550,100,Chenopodium coronopus Moq. in DC.,,,,,,
+1000,100,Chenopodium coronopus Moq. in DC.,,,,,,
+1450,100,Chenopodium coronopus Moq. in DC.,,,,,,
+1900,100,Chenopodium coronopus Moq. in DC.,,,,,,
+101,101,Cicer canariense A. Santos & G. P. Lewis,,,,,,
+551,101,Cicer canariense A. Santos & G. P. Lewis,,,,,,
+1001,101,Cicer canariense A. Santos & G. P. Lewis,,,,,,
+1451,101,Cicer canariense A. Santos & G. P. Lewis,,,,,,
+1901,101,Cicer canariense A. Santos & G. P. Lewis,,,,,,
+102,102,Cistus chinamadensis A. Bañares & P. Romero,,,,,,
+552,102,Cistus chinamadensis A. Bañares & P. Romero,,,,,,
+1002,102,Cistus chinamadensis A. Bañares & P. Romero,,,,,,
+1452,102,Cistus chinamadensis A. Bañares & P. Romero,,,,,,
+1902,102,Cistus chinamadensis A. Bañares & P. Romero,,,,,,
+440,441,Cistus monspeliensis,0,,,,,
+890,441,Cistus monspeliensis,0,,,,,
+1340,441,Cistus monspeliensis,0,,,,,
+1790,441,Cistus monspeliensis,0,,,,,
+2240,441,Cistus monspeliensis,0,,,,,
+1003,103,Cistus osbaeckiaefolius Webb ex Christ,3,10,2.68,1.04,0.104,388.0597015
+553,103,Cistus osbaeckiaefolius Webb ex Christ,3,10,3.5,1.29,0.129,368.5714286
+103,103,Cistus osbaeckiaefolius Webb ex Christ,3,10,3.5,1.26,0.126,360
+1453,103,Cistus osbaeckiaefolius Webb ex Christ,3,,,,,
+1903,103,Cistus osbaeckiaefolius Webb ex Christ,3,,,,,
+1004,104,Cistus symphytifolius Lam.,2,10,4.88,2.92,0.292,598.3606557
+554,104,Cistus symphytifolius Lam.,2,15,5.67,1.82,0.121333333,320.9876543
+104,104,Cistus symphytifolius Lam.,2,,,,,
+1454,104,Cistus symphytifolius Lam.,2,,,,,
+1904,104,Cistus symphytifolius Lam.,2,,,,,
+1005,105,Convolvulus canariensis L.,2,10,7.73,2.39,0.239,309.1849935
+555,105,Convolvulus canariensis L.,2,10,8.38,2.41,0.241,287.5894988
+105,105,Convolvulus canariensis L.,2,20,19.02,7.06,0.353,371.1882229
+1455,105,Convolvulus canariensis L.,2,,,,,
+1905,105,Convolvulus canariensis L.,2,,,,,
+556,106,Convolvulus floridus L. f.,3,10,6.89,2.37,0.237,343.9767779
+106,106,Convolvulus floridus L. f.,3,10,5.01,1.39,0.139,277.4451098
+1006,106,Convolvulus floridus L. f.,3,,,,,
+1456,106,Convolvulus floridus L. f.,3,,,,,
+1906,106,Convolvulus floridus L. f.,3,,,,,
+107,107,Convolvulus fruticulosus Desr.,3,20,1.89,0.52,0.026,275.1322751
+1007,107,Convolvulus fruticulosus Desr.,3,30,1.29,0.39,0.013,302.3255814
+557,107,Convolvulus fruticulosus Desr.,3,50,1.07,0.44,0.0088,411.2149533
+1457,107,Convolvulus fruticulosus Desr.,3,,,,,
+1907,107,Convolvulus fruticulosus Desr.,3,,,,,
+108,108,Convolvulus perraudieri Coss.,3,20,1.52,0.55,0.0275,361.8421053
+1008,108,Convolvulus perraudieri Coss.,3,20,1.53,0.44,0.022,287.5816993
+558,108,Convolvulus perraudieri Coss.,3,40,1.4,0.56,0.014,400
+1458,108,Convolvulus perraudieri Coss.,3,,,,,
+1908,108,Convolvulus perraudieri Coss.,3,,,,,
+109,109,Convolvulus scoparius L. f.,3,50,1.14,0.33,0.0066,289.4736842
+1009,109,Convolvulus scoparius L. f.,3,100,0.9,0.36,0.0036,400
+559,109,Convolvulus scoparius L. f.,3,100,1.09,0.43,0.0043,394.4954128
+1459,109,Convolvulus scoparius L. f.,3,,,,,
+1909,109,Convolvulus scoparius L. f.,3,,,,,
+110,110,Convolvulus volubilis Link in Buch,,,,,,
+560,110,Convolvulus volubilis Link in Buch,,,,,,
+1010,110,Convolvulus volubilis Link in Buch,,,,,,
+1460,110,Convolvulus volubilis Link in Buch,,,,,,
+1910,110,Convolvulus volubilis Link in Buch,,,,,,
+1011,111,Crambe arborea Webb ex Christ,3,3,78.72,12.99,4.33,165.0152439
+561,111,Crambe arborea Webb ex Christ,3,5,40.59,8.8,1.76,216.802168
+111,111,Crambe arborea Webb ex Christ,3,10,10.28,2.1,0.21,204.2801556
+1461,111,Crambe arborea Webb ex Christ,3,,,,,
+1911,111,Crambe arborea Webb ex Christ,3,,,,,
+112,112,Crambe laevigata DC. ex Christ,,,,,,
+562,112,Crambe laevigata DC. ex Christ,,,,,,
+1012,112,Crambe laevigata DC. ex Christ,,,,,,
+1462,112,Crambe laevigata DC. ex Christ,,,,,,
+1912,112,Crambe laevigata DC. ex Christ,,,,,,
+113,113,Crambe scaberrima Webb ex Bramwell,3,5,26.02,3.81,0.762,146.4258263
+1013,113,Crambe scaberrima Webb ex Bramwell,3,9,30.88,6.3,0.7,204.015544
+563,113,Crambe scaberrima Webb ex Bramwell,3,10,27.78,5.39,0.539,194.024478
+1463,113,Crambe scaberrima Webb ex Bramwell,3,,,,,
+1913,113,Crambe scaberrima Webb ex Bramwell,3,,,,,
+1014,114,Crambe strigosa L’Hér.,2,3,34.32,5.35,1.783333333,155.8857809
+564,114,Crambe strigosa L’Hér.,2,4,37.01,5.15,1.2875,139.1515807
+114,114,Crambe strigosa L’Hér.,2,20,64.48,9.2,0.46,142.6799007
+1464,114,Crambe strigosa L’Hér.,2,,,,,
+1914,114,Crambe strigosa L’Hér.,2,,,,,
+565,115,Crithmum maritimum L.,3,10,18.28,2.49,0.249,136.214442
+1015,115,Crithmum maritimum L.,3,10,25.54,3.35,0.335,131.1667972
+115,115,Crithmum maritimum L.,3,10,26.14,2.65,0.265,101.3771997
+1465,115,Crithmum maritimum L.,3,,,,,
+1915,115,Crithmum maritimum L.,3,,,,,
+1016,116,Cryptotaenia elegans Webb ex Bolle,3,5,5.32,0.8,0.16,150.3759398
+116,116,Cryptotaenia elegans Webb ex Bolle,3,10,10.04,1.56,0.156,155.3784861
+566,116,Cryptotaenia elegans Webb ex Bolle,3,10,5.15,0.74,0.074,143.6893204
+1466,116,Cryptotaenia elegans Webb ex Bolle,3,,,,,
+1916,116,Cryptotaenia elegans Webb ex Bolle,3,,,,,
+117,117,Cynara cardunculus L.,1,3,190.91,35.4,11.8,185.4276884
+567,117,Cynara cardunculus L.,1,,,,,
+1017,117,Cynara cardunculus L.,1,,,,,
+1467,117,Cynara cardunculus L.,1,,,,,
+1917,117,Cynara cardunculus L.,1,,,,,
+118,118,Cyperus capitatus Vand.,,,,,,
+568,118,Cyperus capitatus Vand.,,,,,,
+1018,118,Cyperus capitatus Vand.,,,,,,
+1468,118,Cyperus capitatus Vand.,,,,,,
+1918,118,Cyperus capitatus Vand.,,,,,,
+119,119,Cyperus teneriffae Poir.,5,25,0.77,0.12,0.0048,155.8441558
+569,119,Cyperus teneriffae Poir.,5,,,,,
+1019,119,Cyperus teneriffae Poir.,5,,,,,
+1469,119,Cyperus teneriffae Poir.,5,,,,,
+1919,119,Cyperus teneriffae Poir.,5,,,,,
+1470,120,Dactylis metlesicsii Schönfelder & Ludwig,4,10,1.25,0.49,0.049,392
+570,120,Dactylis metlesicsii Schönfelder & Ludwig,4,10,1.97,0.67,0.067,340.1015228
+1020,120,Dactylis metlesicsii Schönfelder & Ludwig,4,10,1.51,0.48,0.048,317.8807947
+120,120,Dactylis metlesicsii Schönfelder & Ludwig,4,,,,,
+1920,120,Dactylis metlesicsii Schönfelder & Ludwig,4,,,,,
+121,121,Dactylis smithii Link,3,20,1.04,0.34,0.017,326.9230769
+571,121,Dactylis smithii Link,3,20,0.78,0.25,0.0125,320.5128205
+1021,121,Dactylis smithii Link,3,20,0.69,0.22,0.011,318.8405797
+1471,121,Dactylis smithii Link,3,,,,,
+1921,121,Dactylis smithii Link,3,,,,,
+1339,440,Daphne gnidium,3,20,1.12,0.38,0.019,339.2857143
+1789,440,Daphne gnidium,3,20,0.91,0.27,0.0135,296.7032967
+889,440,Daphne gnidium,3,30,1.49,0.39,0.013,261.7449664
+439,440,Daphne gnidium,3,,,,,
+2239,440,Daphne gnidium,3,,,,,
+572,122,Descurainia bourgeauana (E. Fourn.) O. E. Schulz,3,50,1.05,0.3,0.006,285.7142857
+1022,122,Descurainia bourgeauana (E. Fourn.) O. E. Schulz,3,80,0.4,0.14,0.00175,350
+122,122,Descurainia bourgeauana (E. Fourn.) O. E. Schulz,3,70,0.78,0.23,0.003285714,294.8717949
+1472,122,Descurainia bourgeauana (E. Fourn.) O. E. Schulz,3,,,,,
+1922,122,Descurainia bourgeauana (E. Fourn.) O. E. Schulz,3,,,,,
+1023,123,Descurainia gonzalesii Svent.,3,30,1.28,0.35,0.011666667,273.4375
+573,123,Descurainia gonzalesii Svent.,3,70,0.93,0.28,0.004,301.0752688
+123,123,Descurainia gonzalesii Svent.,3,70,1.58,0.43,0.006142857,272.1518987
+1473,123,Descurainia gonzalesii Svent.,3,,,,,
+1923,123,Descurainia gonzalesii Svent.,3,,,,,
+1024,124,Descurainia lemsii Bramwell,3,30,1.38,0.42,0.014,304.3478261
+124,124,Descurainia lemsii Bramwell,3,40,1.46,0.36,0.009,246.5753425
+574,124,Descurainia lemsii Bramwell,3,100,1.17,0.38,0.0038,324.7863248
+1474,124,Descurainia lemsii Bramwell,3,,,,,
+1924,124,Descurainia lemsii Bramwell,3,,,,,
+125,125,Descurainia millefolia (Jacq.)  Webb & Berthel.,3,10,0.43,0.06,0.006,139.5348837
+1025,125,Descurainia millefolia (Jacq.)  Webb & Berthel.,3,25,0.76,0.26,0.0104,342.1052632
+575,125,Descurainia millefolia (Jacq.)  Webb & Berthel.,3,100,0.72,0.28,0.0028,388.8888889
+1475,125,Descurainia millefolia (Jacq.)  Webb & Berthel.,3,,,,,
+1925,125,Descurainia millefolia (Jacq.)  Webb & Berthel.,3,,,,,
+1026,126,Dicheranthus plocamoides Webb,3,30,1.3,0.37,0.012333333,284.6153846
+126,126,Dicheranthus plocamoides Webb,3,40,2.04,0.57,0.01425,279.4117647
+576,126,Dicheranthus plocamoides Webb,3,100,2.06,0.68,0.0068,330.0970874
+1476,126,Dicheranthus plocamoides Webb,3,,,,,
+1926,126,Dicheranthus plocamoides Webb,3,,,,,
+127,127,Dorycnium broussonetii (Choisy ex Ser. in DC.) Webb & Berthel.,,,,,,
+577,127,Dorycnium broussonetii (Choisy ex Ser. in DC.) Webb & Berthel.,,,,,,
+1027,127,Dorycnium broussonetii (Choisy ex Ser. in DC.) Webb & Berthel.,,,,,,
+1477,127,Dorycnium broussonetii (Choisy ex Ser. in DC.) Webb & Berthel.,,,,,,
+1927,127,Dorycnium broussonetii (Choisy ex Ser. in DC.) Webb & Berthel.,,,,,,
+128,128,Dorycnium eriophthalmum Webb & Berthel.,,,,,,
+578,128,Dorycnium eriophthalmum Webb & Berthel.,,,,,,
+1028,128,Dorycnium eriophthalmum Webb & Berthel.,,,,,,
+1478,128,Dorycnium eriophthalmum Webb & Berthel.,,,,,,
+1928,128,Dorycnium eriophthalmum Webb & Berthel.,,,,,,
+129,129,Dorycnium spectabile (Choisy ex Ser. in DC.) Webb & Berthel.,3,10,1.69,0.52,0.052,307.6923077
+579,129,Dorycnium spectabile (Choisy ex Ser. in DC.) Webb & Berthel.,3,10,1.96,0.54,0.054,275.5102041
+1029,129,Dorycnium spectabile (Choisy ex Ser. in DC.) Webb & Berthel.,3,15,1.59,0.48,0.032,301.8867925
+1479,129,Dorycnium spectabile (Choisy ex Ser. in DC.) Webb & Berthel.,,,,,,
+1929,129,Dorycnium spectabile (Choisy ex Ser. in DC.) Webb & Berthel.,,,,,,
+130,130,Dracaena draco L.,2,2,66.66,14.63,7.315,219.4719472
+580,130,Dracaena draco L.,2,5,188.01,31.58,6.316,167.9697888
+1030,130,Dracaena draco L.,2,,,,,
+1480,130,Dracaena draco L.,2,,,,,
+1930,130,Dracaena draco L.,2,,,,,
+1031,131,Dracunculus canariensis Kunth,3,3,17.01,1.71,0.57,100.5291005
+131,131,Dracunculus canariensis Kunth,3,4,20.06,2.16,0.54,107.6769691
+581,131,Dracunculus canariensis Kunth,3,5,20.85,2.24,0.448,107.4340528
+1481,131,Dracunculus canariensis Kunth,3,,,,,
+1931,131,Dracunculus canariensis Kunth,3,,,,,
+132,132,Drimia maritima (L.) Stearn,3,5,85.79,8.84,1.768,103.0423126
+582,132,Drimia maritima (L.) Stearn,3,6,36.28,3.81,0.635,105.016538
+1032,132,Drimia maritima (L.) Stearn,3,10,43.76,3.99,0.399,91.17915905
+1482,132,Drimia maritima (L.) Stearn,3,,,,,
+1932,132,Drimia maritima (L.) Stearn,3,,,,,
+583,133,Drusa glandulosa (Poir.) Bornm.,3,5,0.8,0.13,0.026,162.5
+1033,133,Drusa glandulosa (Poir.) Bornm.,3,10,0.95,0.13,0.013,136.8421053
+133,133,Drusa glandulosa (Poir.) Bornm.,3,10,3.24,0.36,0.036,111.1111111
+1483,133,Drusa glandulosa (Poir.) Bornm.,3,,,,,
+1933,133,Drusa glandulosa (Poir.) Bornm.,3,,,,,
+584,134,Ebingeria elegans (Lowe) Chrtek & Krísa,3,6,0.31,0.1,0.016666667,322.5806452
+134,134,Ebingeria elegans (Lowe) Chrtek & Krísa,3,10,0.68,0.13,0.013,191.1764706
+1034,134,Ebingeria elegans (Lowe) Chrtek & Krísa,3,15,0.64,0.12,0.008,187.5
+1484,134,Ebingeria elegans (Lowe) Chrtek & Krísa,3,,,,,
+1934,134,Ebingeria elegans (Lowe) Chrtek & Krísa,3,,,,,
+585,135,Echium aculeatum Poir.,3,20,4.24,0.89,0.0445,209.9056604
+1035,135,Echium aculeatum Poir.,3,20,1.35,0.25,0.0125,185.1851852
+135,135,Echium aculeatum Poir.,3,20,3.67,0.65,0.0325,177.1117166
+1485,135,Echium aculeatum Poir.,3,,,,,
+1935,135,Echium aculeatum Poir.,3,,,,,
+586,136,Echium auberianum Webb & Berthel.,3,4,17.26,2.88,0.72,166.8597914
+1036,136,Echium auberianum Webb & Berthel.,3,5,15.64,2.65,0.53,169.4373402
+136,136,Echium auberianum Webb & Berthel.,3,8,31.19,4.83,0.60375,154.8573261
+1486,136,Echium auberianum Webb & Berthel.,3,,,,,
+1936,136,Echium auberianum Webb & Berthel.,3,,,,,
+137,137,Echium bonnetii Coincy,3,10,0.87,0.19,0.019,218.3908046
+1037,137,Echium bonnetii Coincy,3,10,0.96,0.12,0.012,125
+587,137,Echium bonnetii Coincy,3,20,1.76,0.35,0.0175,198.8636364
+1487,137,Echium bonnetii Coincy,3,,,,,
+1937,137,Echium bonnetii Coincy,3,,,,,
+588,138,Echium giganteum L. f.,2,10,6.5,1.27,0.127,195.3846154
+138,138,Echium giganteum L. f.,2,10,13.22,2.05,0.205,155.0680787
+1038,138,Echium giganteum L. f.,2,,,,,
+1488,138,Echium giganteum L. f.,2,,,,,
+1938,138,Echium giganteum L. f.,2,,,,,
+1039,139,Echium leucophaeum Webb ex Sprague & Hutch.,3,10,3.73,1.02,0.102,273.458445
+589,139,Echium leucophaeum Webb ex Sprague & Hutch.,3,10,2.8,0.64,0.064,228.5714286
+139,139,Echium leucophaeum Webb ex Sprague & Hutch.,3,20,5.06,1.27,0.0635,250.9881423
+1489,139,Echium leucophaeum Webb ex Sprague & Hutch.,3,,,,,
+1939,139,Echium leucophaeum Webb ex Sprague & Hutch.,3,,,,,
+1040,140,Echium simplex DC.,3,3,165.79,18.7,6.233333333,112.7932927
+590,140,Echium simplex DC.,3,5,89.08,11.74,2.348,131.791648
+140,140,Echium simplex DC.,3,5,265.81,30.57,6.114,115.0069599
+1490,140,Echium simplex DC.,3,,,,,
+1940,140,Echium simplex DC.,3,,,,,
+141,141,Echium strictum L. f.,3,5,10.46,1.92,0.384,183.5564054
+1041,141,Echium strictum L. f.,3,10,4.02,1.04,0.104,258.7064677
+591,141,Echium strictum L. f.,3,10,7.53,1.79,0.179,237.7158035
+1491,141,Echium strictum L. f.,3,,,,,
+1941,141,Echium strictum L. f.,3,,,,,
+142,142,Echium sventenii Bramwell,,,,,,
+592,142,Echium sventenii Bramwell,,,,,,
+1042,142,Echium sventenii Bramwell,,,,,,
+1492,142,Echium sventenii Bramwell,,,,,,
+1942,142,Echium sventenii Bramwell,,,,,,
+1043,143,Echium triste Svent.,4,6,2.19,0.47,0.078333333,214.6118721
+593,143,Echium triste Svent.,4,10,2.83,0.59,0.059,208.4805654
+1493,143,Echium triste Svent.,4,10,1.83,0.34,0.034,185.7923497
+143,143,Echium triste Svent.,4,10,4.29,0.55,0.055,128.2051282
+1943,143,Echium triste Svent.,4,,,,,
+1944,144,Echium virescens DC.,4,10,6.36,1.96,0.196,308.1761006
+1494,144,Echium virescens DC.,4,10,15.38,4.24,0.424,275.6827048
+594,144,Echium virescens DC.,4,10,5.81,1.5,0.15,258.1755594
+1044,144,Echium virescens DC.,4,10,5.2,1.27,0.127,244.2307692
+144,144,Echium virescens DC.,4,20,19.91,4.49,0.2245,225.5148167
+595,145,Echium wildpretii Pearson ex Hook. f.,3,5,24.38,5.27,1.054,216.1607875
+1045,145,Echium wildpretii Pearson ex Hook. f.,3,8,51.15,9.93,1.24125,194.1348974
+145,145,Echium wildpretii Pearson ex Hook. f.,3,10,87.13,17.11,1.711,196.3732354
+1495,145,Echium wildpretii Pearson ex Hook. f.,3,,,,,
+1945,145,Echium wildpretii Pearson ex Hook. f.,3,,,,,
+146,146,Ephedra altissima Desf.,,,,,,
+596,146,Ephedra altissima Desf.,,,,,,
+1046,146,Ephedra altissima Desf.,,,,,,
+1496,146,Ephedra altissima Desf.,,,,,,
+1946,146,Ephedra altissima Desf.,,,,,,
+1047,147,Ephedra fragilis Desf.,3,10,4.22,1.77,0.177,419.4312796
+147,147,Ephedra fragilis Desf.,3,,,,,
+597,147,Ephedra fragilis Desf.,3,,,,,
+1497,147,Ephedra fragilis Desf.,3,,,,,
+1947,147,Ephedra fragilis Desf.,3,,,,,
+148,148,Ephedra major Host,2,,,,,
+598,148,Ephedra major Host,2,,,,,
+1048,148,Ephedra major Host,2,,,,,
+1498,148,Ephedra major Host,2,,,,,
+1948,148,Ephedra major Host,2,,,,,
+149,149,Erica arborea L.,3,100,0.17,0.09,0.0009,529.4117647
+599,149,Erica arborea L.,3,100,0.16,0.08,0.0008,500
+1049,149,Erica arborea L.,3,100,0.13,0.06,0.0006,461.5384615
+1499,149,Erica arborea L.,3,,,,,
+1949,149,Erica arborea L.,3,,,,,
+150,150,Erica platycodon (Webb & Berthel.) Rivas-Mart. & al.,3,100,0.54,0.31,0.0031,574.0740741
+600,150,Erica platycodon (Webb & Berthel.) Rivas-Mart. & al.,3,100,0.55,0.29,0.0029,527.2727273
+1050,150,Erica platycodon (Webb & Berthel.) Rivas-Mart. & al.,3,100,0.35,0.15,0.0015,428.5714286
+1500,150,Erica platycodon (Webb & Berthel.) Rivas-Mart. & al.,3,,,,,
+1950,150,Erica platycodon (Webb & Berthel.) Rivas-Mart. & al.,3,,,,,
+1051,151,Erigeron calderae A. Hansen,3,8,1.45,0.3,0.0375,206.8965517
+601,151,Erigeron calderae A. Hansen,3,10,2.06,0.4,0.04,194.1747573
+151,151,Erigeron calderae A. Hansen,3,10,2.67,0.48,0.048,179.7752809
+1501,151,Erigeron calderae A. Hansen,3,,,,,
+1951,151,Erigeron calderae A. Hansen,3,,,,,
+152,152,Erucastrum canariense Webb & Berthel.,,,,,,
+602,152,Erucastrum canariense Webb & Berthel.,,,,,,
+1052,152,Erucastrum canariense Webb & Berthel.,,,,,,
+1502,152,Erucastrum canariense Webb & Berthel.,,,,,,
+1952,152,Erucastrum canariense Webb & Berthel.,,,,,,
+153,153,Erucastrum cardaminoides (Webb ex Christ) O. E. Schulz,,,,,,
+603,153,Erucastrum cardaminoides (Webb ex Christ) O. E. Schulz,,,,,,
+1053,153,Erucastrum cardaminoides (Webb ex Christ) O. E. Schulz,,,,,,
+1503,153,Erucastrum cardaminoides (Webb ex Christ) O. E. Schulz,,,,,,
+1953,153,Erucastrum cardaminoides (Webb ex Christ) O. E. Schulz,,,,,,
+1054,154,Erysimum bicolor (Hornem.) DC.,3,20,1,0.26,0.013,260
+154,154,Erysimum bicolor (Hornem.) DC.,3,20,0.94,0.2,0.01,212.7659574
+604,154,Erysimum bicolor (Hornem.) DC.,3,20,1.22,0.18,0.009,147.5409836
+1504,154,Erysimum bicolor (Hornem.) DC.,3,,,,,
+1954,154,Erysimum bicolor (Hornem.) DC.,3,,,,,
+1055,155,Erysimum scoparium (Brouss. ex Willd.) Wettst.,3,20,1.51,0.36,0.018,238.410596
+605,155,Erysimum scoparium (Brouss. ex Willd.) Wettst.,3,20,1.55,0.34,0.017,219.3548387
+155,155,Erysimum scoparium (Brouss. ex Willd.) Wettst.,3,20,2.04,0.44,0.022,215.6862745
+1505,155,Erysimum scoparium (Brouss. ex Willd.) Wettst.,3,,,,,
+1955,155,Erysimum scoparium (Brouss. ex Willd.) Wettst.,3,,,,,
+156,156,Euphorbia aphylla Brouss. ex Willd.,3,,,,,
+606,156,Euphorbia aphylla Brouss. ex Willd.,3,,,,,
+1056,156,Euphorbia aphylla Brouss. ex Willd.,3,,,,,
+1506,156,Euphorbia aphylla Brouss. ex Willd.,3,,,,,
+1956,156,Euphorbia aphylla Brouss. ex Willd.,3,,,,,
+1057,157,Euphorbia atropurpurea (Brouss.) Webb & Berthel.,3,10,3.77,0.72,0.072,190.9814324
+607,157,Euphorbia atropurpurea (Brouss.) Webb & Berthel.,3,10,3.44,0.65,0.065,188.9534884
+157,157,Euphorbia atropurpurea (Brouss.) Webb & Berthel.,3,20,4.99,1.12,0.056,224.4488978
+1507,157,Euphorbia atropurpurea (Brouss.) Webb & Berthel.,3,,,,,
+1957,157,Euphorbia atropurpurea (Brouss.) Webb & Berthel.,3,,,,,
+1058,158,Euphorbia balsamifera Aiton,3,10,1.16,0.31,0.031,267.2413793
+608,158,Euphorbia balsamifera Aiton,3,10,1.4,0.27,0.027,192.8571429
+158,158,Euphorbia balsamifera Aiton,3,30,1.32,0.36,0.012,272.7272727
+1508,158,Euphorbia balsamifera Aiton,3,,,,,
+1958,158,Euphorbia balsamifera Aiton,3,,,,,
+159,159,Euphorbia bourgeauana Gay ex Boiss. in DC.,1,15,2.97,0.67,0.044666667,225.5892256
+609,159,Euphorbia bourgeauana Gay ex Boiss. in DC.,1,,,,,
+1059,159,Euphorbia bourgeauana Gay ex Boiss. in DC.,1,,,,,
+1509,159,Euphorbia bourgeauana Gay ex Boiss. in DC.,1,,,,,
+1959,159,Euphorbia bourgeauana Gay ex Boiss. in DC.,1,,,,,
+160,160,Euphorbia canariensis L.,0,,,,,
+610,160,Euphorbia canariensis L.,0,,,,,
+1060,160,Euphorbia canariensis L.,0,,,,,
+1510,160,Euphorbia canariensis L.,0,,,,,
+1960,160,Euphorbia canariensis L.,0,,,,,
+161,161,Euphorbia lamarckii Sweet,3,10,1.99,0.42,0.042,211.0552764
+611,161,Euphorbia lamarckii Sweet,3,20,2.15,0.38,0.019,176.744186
+1061,161,Euphorbia lamarckii Sweet,3,30,1.4,0.33,0.011,235.7142857
+1511,161,Euphorbia lamarckii Sweet,3,,,,,
+1961,161,Euphorbia lamarckii Sweet,3,,,,,
+612,162,Euphorbia mellifera Aiton,2,3,1.52,0.27,0.09,177.6315789
+162,162,Euphorbia mellifera Aiton,2,10,1.63,0.38,0.038,233.1288344
+1062,162,Euphorbia mellifera Aiton,2,,,,,
+1512,162,Euphorbia mellifera Aiton,2,,,,,
+1962,162,Euphorbia mellifera Aiton,2,,,,,
+163,163,Ferula linkii Webb,1,20,18.86,3.71,0.1855,196.7126193
+613,163,Ferula linkii Webb,1,,,,,
+1063,163,Ferula linkii Webb,1,,,,,
+1513,163,Ferula linkii Webb,1,,,,,
+1963,163,Ferula linkii Webb,1,,,,,
+614,164,Festuca agustinii Linding.,2,10,1.29,0.45,0.045,348.8372093
+164,164,Festuca agustinii Linding.,2,10,1.82,0.62,0.062,340.6593407
+1064,164,Festuca agustinii Linding.,2,,,,,
+1514,164,Festuca agustinii Linding.,2,,,,,
+1964,164,Festuca agustinii Linding.,2,,,,,
+165,165,Forsskaolea angustifolia Retz.,3,10,1.32,0.3,0.03,227.2727273
+615,165,Forsskaolea angustifolia Retz.,3,10,0.62,0.14,0.014,225.8064516
+1065,165,Forsskaolea angustifolia Retz.,3,30,1.35,0.41,0.013666667,303.7037037
+1515,165,Forsskaolea angustifolia Retz.,3,,,,,
+1965,165,Forsskaolea angustifolia Retz.,3,,,,,
+166,166,Frankenia capitata Webb & Berthel.,3,50,0.04,0.04,0.0008,1000
+616,166,Frankenia capitata Webb & Berthel.,3,100,0.08,0.06,0.0006,750
+1066,166,Frankenia capitata Webb & Berthel.,3,100,0.09,0.05,0.0005,555.5555556
+1516,166,Frankenia capitata Webb & Berthel.,,,,,,
+1966,166,Frankenia capitata Webb & Berthel.,,,,,,
+617,167,Frankenia ericifolia C. Sm. ex DC.,2,50,0.06,0.03,0.0006,500
+167,167,Frankenia ericifolia C. Sm. ex DC.,2,100,0.17,0.06,0.0006,352.9411765
+1067,167,Frankenia ericifolia C. Sm. ex DC.,2,,,,,
+1517,167,Frankenia ericifolia C. Sm. ex DC.,2,,,,,
+1967,167,Frankenia ericifolia C. Sm. ex DC.,2,,,,,
+618,168,Fumaria coccinea Lowe ex Pugsley,3,20,0.34,0.08,0.004,235.2941176
+1068,168,Fumaria coccinea Lowe ex Pugsley,3,15,0.59,0.09,0.006,152.5423729
+168,168,Fumaria coccinea Lowe ex Pugsley,3,30,0.46,0.05,0.001666667,108.6956522
+1518,168,Fumaria coccinea Lowe ex Pugsley,3,,,,,
+1968,168,Fumaria coccinea Lowe ex Pugsley,3,,,,,
+619,169,Fumaria montana Schmidt,3,10,0.67,0.1,0.01,149.2537313
+169,169,Fumaria montana Schmidt,3,20,2.54,0.28,0.014,110.2362205
+1069,169,Fumaria montana Schmidt,3,30,0.54,0.08,0.002666667,148.1481481
+1519,169,Fumaria montana Schmidt,3,,,,,
+1969,169,Fumaria montana Schmidt,3,,,,,
+441,442,Galium scabrum,0,,,,,
+891,442,Galium scabrum,0,,,,,
+1341,442,Galium scabrum,0,,,,,
+1791,442,Galium scabrum,0,,,,,
+2241,442,Galium scabrum,0,,,,,
+442,443,Geranium canariense,,20,93.82,16.68,0.834,177.7872522
+892,443,Geranium canariense,,,,,,
+1342,443,Geranium canariense,,,,,,
+1792,443,Geranium canariense,,,,,,
+2242,443,Geranium canariense,,,,,,
+620,170,Geranium reuteri Aedo & Muñoz Garm.,3,5,15.78,2.37,0.474,150.1901141
+1070,170,Geranium reuteri Aedo & Muñoz Garm.,3,5,17.75,2.23,0.446,125.6338028
+170,170,Geranium reuteri Aedo & Muñoz Garm.,3,10,17.24,2.14,0.214,124.1299304
+1520,170,Geranium reuteri Aedo & Muñoz Garm.,3,,,,,
+1970,170,Geranium reuteri Aedo & Muñoz Garm.,3,,,,,
+621,171,Gesnouinia arborea (L. f.) Gaudich.,2,10,1.26,0.42,0.042,333.3333333
+1071,171,Gesnouinia arborea (L. f.) Gaudich.,2,10,1.69,0.53,0.053,313.6094675
+171,171,Gesnouinia arborea (L. f.) Gaudich.,2,20,17.82,5.64,0.282,316.4983165
+1521,171,Gesnouinia arborea (L. f.) Gaudich.,2,,,,,
+1971,171,Gesnouinia arborea (L. f.) Gaudich.,2,,,,,
+172,172,Globularia salicina Lam.,3,20,1.73,0.18,0.009,104.0462428
+1072,172,Globularia salicina Lam.,3,20,3.7,1.84,0.092,497.2972973
+622,172,Globularia salicina Lam.,3,20,3.91,1.72,0.086,439.8976982
+1522,172,Globularia salicina Lam.,3,,,,,
+1972,172,Globularia salicina Lam.,3,,,,,
+1073,173,Gonospermum fruticosum (Buch) Less.,3,8,5.08,1.37,0.17125,269.6850394
+623,173,Gonospermum fruticosum (Buch) Less.,3,10,2.92,0.79,0.079,270.5479452
+173,173,Gonospermum fruticosum (Buch) Less.,3,10,12.46,2.07,0.207,166.1316212
+1523,173,Gonospermum fruticosum (Buch) Less.,3,,,,,
+1973,173,Gonospermum fruticosum (Buch) Less.,3,,,,,
+624,174,Gonospermum revolutum (C. Sm in Buch) Sch. Bip.,3,10,19.63,3.41,0.341,173.7137035
+174,174,Gonospermum revolutum (C. Sm in Buch) Sch. Bip.,3,10,17.14,2.92,0.292,170.361727
+1074,174,Gonospermum revolutum (C. Sm in Buch) Sch. Bip.,3,10,28.69,4.79,0.479,166.9571279
+1524,174,Gonospermum revolutum (C. Sm in Buch) Sch. Bip.,3,,,,,
+1974,174,Gonospermum revolutum (C. Sm in Buch) Sch. Bip.,3,,,,,
+1975,175,Greenovia aizoon Bolle,5,10,1.47,0.13,0.013,88.43537415
+175,175,Greenovia aizoon Bolle,5,10,3.08,0.18,0.018,58.44155844
+625,175,Greenovia aizoon Bolle,5,10,2.58,0.15,0.015,58.13953488
+1525,175,Greenovia aizoon Bolle,5,10,2.61,0.14,0.014,53.63984674
+1075,175,Greenovia aizoon Bolle,5,10,1.76,0.09,0.009,51.13636364
+1076,176,Greenovia aurea (C. Sm. ex Hornem.) Webb & Berthel.,3,6,85.05,12.95,2.158333333,152.2633745
+626,176,Greenovia aurea (C. Sm. ex Hornem.) Webb & Berthel.,3,10,109.07,8.95,0.895,82.05739433
+176,176,Greenovia aurea (C. Sm. ex Hornem.) Webb & Berthel.,3,10,150.95,8,0.8,52.99768135
+1526,176,Greenovia aurea (C. Sm. ex Hornem.) Webb & Berthel.,3,,,,,
+1976,176,Greenovia aurea (C. Sm. ex Hornem.) Webb & Berthel.,3,,,,,
+627,177,Greenovia dodrentalis (Willd.) Webb & Berthel.,3,10,30.16,2.46,0.246,81.56498674
+1077,177,Greenovia dodrentalis (Willd.) Webb & Berthel.,3,10,31.09,1.9,0.19,61.11289804
+177,177,Greenovia dodrentalis (Willd.) Webb & Berthel.,3,10,16.89,1.01,0.101,59.79869745
+1527,177,Greenovia dodrentalis (Willd.) Webb & Berthel.,3,,,,,
+1977,177,Greenovia dodrentalis (Willd.) Webb & Berthel.,3,,,,,
+178,178,Gymnocarpos decandrus Forssk.,3,30,1.23,0.12,0.004,97.56097561
+628,178,Gymnocarpos decandrus Forssk.,3,50,1.76,0.26,0.0052,147.7272727
+1078,178,Gymnocarpos decandrus Forssk.,3,100,1.36,0.23,0.0023,169.1176471
+1528,178,Gymnocarpos decandrus Forssk.,3,,,,,
+1978,178,Gymnocarpos decandrus Forssk.,3,,,,,
+179,179,Habenaria tridactylites Lindl.,5,2,2.97,0.17,0.085,57.23905724
+1979,179,Habenaria tridactylites Lindl.,5,2,2.69,0.14,0.07,52.04460967
+1079,179,Habenaria tridactylites Lindl.,5,2,2.62,0.13,0.065,49.61832061
+629,179,Habenaria tridactylites Lindl.,5,2,3.25,0.13,0.065,40
+1529,179,Habenaria tridactylites Lindl.,5,2,2.31,0.09,0.045,38.96103896
+180,180,Heberdenia excelsa (Aiton) Banks ex DC.,1,15,9.79,4.31,0.287333333,440.2451481
+630,180,Heberdenia excelsa (Aiton) Banks ex DC.,1,,,,,
+1080,180,Heberdenia excelsa (Aiton) Banks ex DC.,1,,,,,
+1530,180,Heberdenia excelsa (Aiton) Banks ex DC.,1,,,,,
+1980,180,Heberdenia excelsa (Aiton) Banks ex DC.,1,,,,,
+631,181,Hedera canariensis Willd.,3,5,14.45,5.25,1.05,363.3217993
+1081,181,Hedera canariensis Willd.,3,5,11.19,3.74,0.748,334.2269884
+181,181,Hedera canariensis Willd.,3,10,17.42,5.18,0.518,297.3593571
+1531,181,Hedera canariensis Willd.,3,,,,,
+1981,181,Hedera canariensis Willd.,3,,,,,
+182,182,Helianthemum broussonetii Dunal ex DC.,3,10,2.23,0.54,0.054,242.1524664
+632,182,Helianthemum broussonetii Dunal ex DC.,3,20,1.35,0.35,0.0175,259.2592593
+1082,182,Helianthemum broussonetii Dunal ex DC.,3,20,1.95,0.46,0.023,235.8974359
+1532,182,Helianthemum broussonetii Dunal ex DC.,3,,,,,
+1982,182,Helianthemum broussonetii Dunal ex DC.,3,,,,,
+633,183,Helianthemum canariense (Jacq.) Pers.,3,30,0.62,0.28,0.009333333,451.6129032
+1083,183,Helianthemum canariense (Jacq.) Pers.,3,30,0.47,0.19,0.006333333,404.2553191
+183,183,Helianthemum canariense (Jacq.) Pers.,3,100,0.68,0.19,0.0019,279.4117647
+1533,183,Helianthemum canariense (Jacq.) Pers.,3,,,,,
+1983,183,Helianthemum canariense (Jacq.) Pers.,3,,,,,
+1084,184,Helianthemum juliae Wildpret,3,30,1.98,0.51,0.017,257.5757576
+184,184,Helianthemum juliae Wildpret,3,40,0.84,0.28,0.007,333.3333333
+634,184,Helianthemum juliae Wildpret,3,40,0.74,0.23,0.00575,310.8108108
+1534,184,Helianthemum juliae Wildpret,3,,,,,
+1984,184,Helianthemum juliae Wildpret,3,,,,,
+185,185,Helianthemum teneriffae Coss.,,,,,,
+635,185,Helianthemum teneriffae Coss.,,,,,,
+1085,185,Helianthemum teneriffae Coss.,,,,,,
+1535,185,Helianthemum teneriffae Coss.,,,,,,
+1985,185,Helianthemum teneriffae Coss.,,,,,,
+186,186,Heliotropium ramosissimum (Lehm.) DC.,3,10,1.63,0.27,0.027,165.6441718
+1086,186,Heliotropium ramosissimum (Lehm.) DC.,3,15,4.95,1.19,0.079333333,240.4040404
+636,186,Heliotropium ramosissimum (Lehm.) DC.,3,20,1.23,0.24,0.012,195.1219512
+1536,186,Heliotropium ramosissimum (Lehm.) DC.,3,,,,,
+1986,186,Heliotropium ramosissimum (Lehm.) DC.,3,,,,,
+187,187,Herniaria canariensis Chaudhri,2,100,0.09,0.03,0.0003,333.3333333
+637,187,Herniaria canariensis Chaudhri,2,100,0.12,0.04,0.0004,333.3333333
+1087,187,Herniaria canariensis Chaudhri,2,,,,,
+1537,187,Herniaria canariensis Chaudhri,2,,,,,
+1987,187,Herniaria canariensis Chaudhri,2,,,,,
+188,188,Himantoglossum metlesicsianum (W. P. Teschner) P. Delforge,,,,,,
+638,188,Himantoglossum metlesicsianum (W. P. Teschner) P. Delforge,,,,,,
+1088,188,Himantoglossum metlesicsianum (W. P. Teschner) P. Delforge,,,,,,
+1538,188,Himantoglossum metlesicsianum (W. P. Teschner) P. Delforge,,,,,,
+1988,188,Himantoglossum metlesicsianum (W. P. Teschner) P. Delforge,,,,,,
+189,189,Hyparrhenia hirta (L.) Stapf in Prain,1,10,0.71,0.22,0.022,309.8591549
+639,189,Hyparrhenia hirta (L.) Stapf in Prain,1,,,,,
+1089,189,Hyparrhenia hirta (L.) Stapf in Prain,1,,,,,
+1539,189,Hyparrhenia hirta (L.) Stapf in Prain,1,,,,,
+1989,189,Hyparrhenia hirta (L.) Stapf in Prain,1,,,,,
+1343,444,Hyparrhenia sinaica,3,5,0.33,0.23,0.046,696.969697
+443,444,Hyparrhenia sinaica,3,5,0.55,0.37,0.074,672.7272727
+893,444,Hyparrhenia sinaica,3,5,0.47,0.29,0.058,617.0212766
+1793,444,Hyparrhenia sinaica,3,,,,,
+2243,444,Hyparrhenia sinaica,3,,,,,
+1090,190,Hypericum canariense L.,3,20,1.13,0.57,0.0285,504.4247788
+640,190,Hypericum canariense L.,3,30,1.51,0.6,0.02,397.3509934
+190,190,Hypericum canariense L.,3,30,1.51,0.48,0.016,317.8807947
+1540,190,Hypericum canariense L.,3,,,,,
+1990,190,Hypericum canariense L.,3,,,,,
+641,191,Hypericum glandulosum Aiton,3,10,0.78,0.23,0.023,294.8717949
+191,191,Hypericum glandulosum Aiton,3,10,0.95,0.24,0.024,252.6315789
+1091,191,Hypericum glandulosum Aiton,3,30,1.09,0.34,0.011333333,311.9266055
+1541,191,Hypericum glandulosum Aiton,3,,,,,
+1991,191,Hypericum glandulosum Aiton,3,,,,,
+642,192,Hypericum grandifolium Choisy,3,10,2.28,0.56,0.056,245.6140351
+1092,192,Hypericum grandifolium Choisy,3,10,4.78,1,0.1,209.2050209
+192,192,Hypericum grandifolium Choisy,3,20,5.06,1.82,0.091,359.6837945
+1542,192,Hypericum grandifolium Choisy,3,,,,,
+1992,192,Hypericum grandifolium Choisy,3,,,,,
+894,445,Hypericum perforatum,3,20,0.68,0.28,0.014,411.7647059
+444,445,Hypericum perforatum,3,20,0.95,0.32,0.016,336.8421053
+1344,445,Hypericum perforatum,3,20,1.18,0.35,0.0175,296.6101695
+1794,445,Hypericum perforatum,3,,,,,
+2244,445,Hypericum perforatum,3,,,,,
+1093,193,Hypericum reflexum L. f.,3,30,1.2,0.53,0.017666667,441.6666667
+643,193,Hypericum reflexum L. f.,3,30,1.62,0.59,0.019666667,364.1975309
+193,193,Hypericum reflexum L. f.,3,30,2.47,0.63,0.021,255.0607287
+1543,193,Hypericum reflexum L. f.,3,,,,,
+1993,193,Hypericum reflexum L. f.,3,,,,,
+644,194,Hypochoeris oligocephala (Svent. & Bramwell) Lack,3,20,1.61,0.25,0.0125,155.2795031
+194,194,Hypochoeris oligocephala (Svent. & Bramwell) Lack,3,20,1.7,0.25,0.0125,147.0588235
+1094,194,Hypochoeris oligocephala (Svent. & Bramwell) Lack,3,20,2.33,0.3,0.015,128.7553648
+1544,194,Hypochoeris oligocephala (Svent. & Bramwell) Lack,,,,,,
+1994,194,Hypochoeris oligocephala (Svent. & Bramwell) Lack,,,,,,
+195,195,Ilex canariensis Poir.,1,15,18.5,8.53,0.568666667,461.0810811
+645,195,Ilex canariensis Poir.,1,,,,,
+1095,195,Ilex canariensis Poir.,1,,,,,
+1545,195,Ilex canariensis Poir.,1,,,,,
+1995,195,Ilex canariensis Poir.,1,,,,,
+196,196,Ilex perado Aiton,1,15,28.9,10.4,0.693333333,359.8615917
+646,196,Ilex perado Aiton,1,,,,,
+1096,196,Ilex perado Aiton,1,,,,,
+1546,196,Ilex perado Aiton,1,,,,,
+1996,196,Ilex perado Aiton,1,,,,,
+1097,197,Isoplexis canariensis (L.) J. W. Loudon,3,5,4.89,1.2,0.24,245.398773
+647,197,Isoplexis canariensis (L.) J. W. Loudon,3,8,5.11,1.03,0.12875,201.5655577
+197,197,Isoplexis canariensis (L.) J. W. Loudon,3,20,14.63,4.12,0.206,281.6131237
+1547,197,Isoplexis canariensis (L.) J. W. Loudon,3,,,,,
+1997,197,Isoplexis canariensis (L.) J. W. Loudon,3,,,,,
+1098,198,Ixanthus viscosus (Sm.) Griseb.,2,10,11.39,2.31,0.231,202.809482
+648,198,Ixanthus viscosus (Sm.) Griseb.,2,20,39.23,9.44,0.472,240.6321693
+198,198,Ixanthus viscosus (Sm.) Griseb.,2,20,24.5,4.52,0.226,184.4897959
+1548,198,Ixanthus viscosus (Sm.) Griseb.,2,,,,,
+1998,198,Ixanthus viscosus (Sm.) Griseb.,2,,,,,
+649,199,Jasminum odoratissimum L.,3,10,3.88,1.7,0.17,438.1443299
+1099,199,Jasminum odoratissimum L.,3,10,5.54,2.4,0.24,433.2129964
+199,199,Jasminum odoratissimum L.,3,10,6.1,2.26,0.226,370.4918033
+1549,199,Jasminum odoratissimum L.,3,,,,,
+1999,199,Jasminum odoratissimum L.,3,,,,,
+200,200,Juniperus cedrus Webb & Berthel.,3,50,0.26,0.17,0.0034,653.8461538
+650,200,Juniperus cedrus Webb & Berthel.,3,50,0.39,0.21,0.0042,538.4615385
+1100,200,Juniperus cedrus Webb & Berthel.,3,50,0.41,0.22,0.0044,536.5853659
+1550,200,Juniperus cedrus Webb & Berthel.,3,,,,,
+2000,200,Juniperus cedrus Webb & Berthel.,3,,,,,
+201,201,Juniperus turbinata Guss.,3,,,,,
+651,201,Juniperus turbinata Guss.,3,,,,,
+1101,201,Juniperus turbinata Guss.,3,,,,,
+1551,201,Juniperus turbinata Guss.,3,,,,,
+2001,201,Juniperus turbinata Guss.,3,,,,,
+202,202,Justicia hyssopifolia L.,3,10,2.69,0.53,0.053,197.0260223
+1102,202,Justicia hyssopifolia L.,3,10,4.14,0.7,0.07,169.0821256
+652,202,Justicia hyssopifolia L.,3,20,3.11,0.75,0.0375,241.1575563
+1552,202,Justicia hyssopifolia L.,3,,,,,
+2002,202,Justicia hyssopifolia L.,3,,,,,
+653,203,Kickxia sagittata (Poir.) Rothm.,4,39,0.14,0.05,0.001282051,357.1428571
+1103,203,Kickxia sagittata (Poir.) Rothm.,4,40,0.17,0.06,0.0015,352.9411765
+1553,203,Kickxia sagittata (Poir.) Rothm.,4,40,0.24,0.06,0.0015,250
+203,203,Kickxia sagittata (Poir.) Rothm.,4,100,0.9,0.21,0.0021,233.3333333
+2003,203,Kickxia sagittata (Poir.) Rothm.,4,,,,,
+654,204,Kickxia scoparia (Brouss. ex Spreng.) G. Kunkel & Sunding,3,12,0.01,0.01,0.000833333,1000
+204,204,Kickxia scoparia (Brouss. ex Spreng.) G. Kunkel & Sunding,3,18,0.03,0.01,0.000555556,333.3333333
+1104,204,Kickxia scoparia (Brouss. ex Spreng.) G. Kunkel & Sunding,3,25,0.05,0.01,0.0004,200
+1554,204,Kickxia scoparia (Brouss. ex Spreng.) G. Kunkel & Sunding,3,,,,,
+2004,204,Kickxia scoparia (Brouss. ex Spreng.) G. Kunkel & Sunding,3,,,,,
+655,205,Kleinia neriifolia Haw.,3,10,12.97,1.5,0.15,115.6515035
+205,205,Kleinia neriifolia Haw.,3,10,27.35,2.36,0.236,86.28884826
+1105,205,Kleinia neriifolia Haw.,3,10,14.44,1.22,0.122,84.48753463
+1555,205,Kleinia neriifolia Haw.,3,,,,,
+2005,205,Kleinia neriifolia Haw.,3,,,,,
+206,206,Kunkeliella psilotoclada (Svent.) Stearn,,,,,,
+656,206,Kunkeliella psilotoclada (Svent.) Stearn,,,,,,
+1106,206,Kunkeliella psilotoclada (Svent.) Stearn,,,,,,
+1556,206,Kunkeliella psilotoclada (Svent.) Stearn,,,,,,
+2006,206,Kunkeliella psilotoclada (Svent.) Stearn,,,,,,
+1107,207,Kunkeliella retamoides A. Santos,1,10,4.31,1.53,0.153,354.9883991
+207,207,Kunkeliella retamoides A. Santos,1,,,,,
+657,207,Kunkeliella retamoides A. Santos,1,,,,,
+1557,207,Kunkeliella retamoides A. Santos,1,,,,,
+2007,207,Kunkeliella retamoides A. Santos,1,,,,,
+208,208,Kunkeliella subsucculenta Kämmer,,,,,,
+658,208,Kunkeliella subsucculenta Kämmer,,,,,,
+1108,208,Kunkeliella subsucculenta Kämmer,,,,,,
+1558,208,Kunkeliella subsucculenta Kämmer,,,,,,
+2008,208,Kunkeliella subsucculenta Kämmer,,,,,,
+209,209,Laphangium teydeum Wildpret & Greuter,1,40,0.91,,0,0
+659,209,Laphangium teydeum Wildpret & Greuter,1,,,,,
+1109,209,Laphangium teydeum Wildpret & Greuter,1,,,,,
+1559,209,Laphangium teydeum Wildpret & Greuter,1,,,,,
+2009,209,Laphangium teydeum Wildpret & Greuter,1,,,,,
+660,210,Launaea arborescens (Batt.) Murb.,4,10,0.38,0.11,0.011,289.4736842
+210,210,Launaea arborescens (Batt.) Murb.,4,10,0.59,0.13,0.013,220.3389831
+1110,210,Launaea arborescens (Batt.) Murb.,4,20,0.32,0.07,0.0035,218.75
+1560,210,Launaea arborescens (Batt.) Murb.,4,20,0.39,0.07,0.0035,179.4871795
+2010,210,Launaea arborescens (Batt.) Murb.,4,,,,,
+661,211,"Laurus novocanariensis Rivas-Mart., Lousa, Fern. Prieto, E. Días, J.C. Costa & C. Aguiar",2,10,6.44,3.59,0.359,557.4534161
+211,211,"Laurus novocanariensis Rivas-Mart., Lousa, Fern. Prieto, E. Días, J.C. Costa & C. Aguiar",2,10,6,3,0.3,500
+1111,211,"Laurus novocanariensis Rivas-Mart., Lousa, Fern. Prieto, E. Días, J.C. Costa & C. Aguiar",2,,,,,
+1561,211,"Laurus novocanariensis Rivas-Mart., Lousa, Fern. Prieto, E. Días, J.C. Costa & C. Aguiar",2,,,,,
+2011,211,"Laurus novocanariensis Rivas-Mart., Lousa, Fern. Prieto, E. Días, J.C. Costa & C. Aguiar",2,,,,,
+662,212,Lavandula buchii Webb,3,10,2.41,0.63,0.063,261.4107884
+1112,212,Lavandula buchii Webb,3,10,4.89,1.04,0.104,212.6789366
+212,212,Lavandula buchii Webb,3,10,3.34,0.63,0.063,188.6227545
+1562,212,Lavandula buchii Webb,3,,,,,
+2012,212,Lavandula buchii Webb,3,,,,,
+1113,213,Lavandula canariensis Mill.,4,10,1.6,0.51,0.051,318.75
+1563,213,Lavandula canariensis Mill.,4,10,2.37,0.59,0.059,248.9451477
+663,213,Lavandula canariensis Mill.,4,20,7.81,2.08,0.104,266.3252241
+213,213,Lavandula canariensis Mill.,4,10,3.41,0.36,0.036,105.5718475
+2013,213,Lavandula canariensis Mill.,4,,,,,
+664,214,Lavandula minutolii Bolle,3,10,2.16,0.7,0.07,324.0740741
+1114,214,Lavandula minutolii Bolle,3,10,1.91,0.58,0.058,303.6649215
+1564,214,Lavandula minutolii Bolle,3,20,3.15,1.18,0.059,374.6031746
+214,214,Lavandula minutolii Bolle,3,,,,,
+2014,214,Lavandula minutolii Bolle,3,,,,,
+1115,215,Lavatera acerifolia Cav.,3,5,3.24,0.92,0.184,283.9506173
+665,215,Lavatera acerifolia Cav.,3,7,1.75,0.55,0.078571429,314.2857143
+215,215,Lavatera acerifolia Cav.,3,10,4.8,1.29,0.129,268.75
+1565,215,Lavatera acerifolia Cav.,3,,,,,
+2015,215,Lavatera acerifolia Cav.,3,,,,,
+216,216,Limonium arborescens (Brouss.) Kuntze,1,10,12.8,4.79,0.479,374.21875
+666,216,Limonium arborescens (Brouss.) Kuntze,1,,,,,
+1116,216,Limonium arborescens (Brouss.) Kuntze,1,,,,,
+1566,216,Limonium arborescens (Brouss.) Kuntze,1,,,,,
+2016,216,Limonium arborescens (Brouss.) Kuntze,1,,,,,
+217,217,Limonium fruticans (Webb) Kuntze,,,,,,
+667,217,Limonium fruticans (Webb) Kuntze,,,,,,
+1117,217,Limonium fruticans (Webb) Kuntze,,,,,,
+1567,217,Limonium fruticans (Webb) Kuntze,,,,,,
+2017,217,Limonium fruticans (Webb) Kuntze,,,,,,
+668,218,Limonium imbricatum (Webb ex Girard) C. F. Hubb.,3,6,10.58,2.59,0.431666667,244.8015123
+218,218,Limonium imbricatum (Webb ex Girard) C. F. Hubb.,3,8,19.57,4.36,0.545,222.7899847
+1118,218,Limonium imbricatum (Webb ex Girard) C. F. Hubb.,3,8,11.75,2.51,0.31375,213.6170213
+1568,218,Limonium imbricatum (Webb ex Girard) C. F. Hubb.,3,,,,,
+2018,218,Limonium imbricatum (Webb ex Girard) C. F. Hubb.,3,,,,,
+1119,219,Limonium macrophyllum (Brouss.) Kuntze,3,4,55.42,10.33,2.5825,186.3948033
+669,219,Limonium macrophyllum (Brouss.) Kuntze,3,7,42.9,6.75,0.964285714,157.3426573
+219,219,Limonium macrophyllum (Brouss.) Kuntze,3,10,51.94,9.04,0.904,174.0469773
+1569,219,Limonium macrophyllum (Brouss.) Kuntze,3,,,,,
+2019,219,Limonium macrophyllum (Brouss.) Kuntze,3,,,,,
+1120,220,Limonium pectinatum (Aiton) Kuntze,4,20,0.58,0.13,0.0065,224.137931
+1570,220,Limonium pectinatum (Aiton) Kuntze,4,30,0.71,0.22,0.007333333,309.8591549
+670,220,Limonium pectinatum (Aiton) Kuntze,4,20,0.67,0.13,0.0065,194.0298507
+220,220,Limonium pectinatum (Aiton) Kuntze,4,20,2.66,0.38,0.019,142.8571429
+2020,220,Limonium pectinatum (Aiton) Kuntze,4,,,,,
+221,221,Limonium perezii (Stapf) C. F. Hubb.,,,,,,
+671,221,Limonium perezii (Stapf) C. F. Hubb.,,,,,,
+1121,221,Limonium perezii (Stapf) C. F. Hubb.,,,,,,
+1571,221,Limonium perezii (Stapf) C. F. Hubb.,,,,,,
+2021,221,Limonium perezii (Stapf) C. F. Hubb.,,,,,,
+222,222,Limonium spectabile (Svent.) G. Kunkel & Sunding,,,,,,
+672,222,Limonium spectabile (Svent.) G. Kunkel & Sunding,,,,,,
+1122,222,Limonium spectabile (Svent.) G. Kunkel & Sunding,,,,,,
+1572,222,Limonium spectabile (Svent.) G. Kunkel & Sunding,,,,,,
+2022,222,Limonium spectabile (Svent.) G. Kunkel & Sunding,,,,,,
+223,223,Lobularia canariensis (DC.) L. Borgen ,4,20,0.37,0.08,0.004,216.2162162
+1123,223,Lobularia canariensis (DC.) L. Borgen ,4,100,0.55,0.17,0.0017,309.0909091
+1573,223,Lobularia canariensis (DC.) L. Borgen ,4,100,0.35,0.09,0.0009,257.1428571
+673,223,Lobularia canariensis (DC.) L. Borgen ,4,,,,,
+2023,223,Lobularia canariensis (DC.) L. Borgen ,4,20,0.28,,0,0
+224,224,Lolium canariense Steud.,1,20,0.27,0.1,0.005,370.3703704
+674,224,Lolium canariense Steud.,1,,,,,
+1124,224,Lolium canariense Steud.,1,,,,,
+1574,224,Lolium canariense Steud.,1,,,,,
+2024,224,Lolium canariense Steud.,1,,,,,
+225,225,"Lolium edwardii H. Scholz, Stierstorfer & v.Gaisberg",,,,,,
+675,225,"Lolium edwardii H. Scholz, Stierstorfer & v.Gaisberg",,,,,,
+1125,225,"Lolium edwardii H. Scholz, Stierstorfer & v.Gaisberg",,,,,,
+1575,225,"Lolium edwardii H. Scholz, Stierstorfer & v.Gaisberg",,,,,,
+2025,225,"Lolium edwardii H. Scholz, Stierstorfer & v.Gaisberg",,,,,,
+226,226,Lolium lowei Menezes,,,,,,
+676,226,Lolium lowei Menezes,,,,,,
+1126,226,Lolium lowei Menezes,,,,,,
+1576,226,Lolium lowei Menezes,,,,,,
+2026,226,Lolium lowei Menezes,,,,,,
+227,227,Lotus berthelotii Masf.,1,7,0.16,0.04,0.005714286,250
+677,227,Lotus berthelotii Masf.,1,,,,,
+1127,227,Lotus berthelotii Masf.,1,,,,,
+1577,227,Lotus berthelotii Masf.,1,,,,,
+2027,227,Lotus berthelotii Masf.,1,,,,,
+895,446,Lotus berthelotii x maculatus (HYBRID),1,,,,,
+1345,446,Lotus berthelotii x maculatus (HYBRID),1,,,,,
+1795,446,Lotus berthelotii x maculatus (HYBRID),1,,,,,
+2245,446,Lotus berthelotii x maculatus (HYBRID),1,,,,,
+678,228,Lotus campylocladus Webb & Berthel.,3,50,0.56,0.19,0.0038,339.2857143
+1128,228,Lotus campylocladus Webb & Berthel.,3,50,0.93,0.26,0.0052,279.5698925
+228,228,Lotus campylocladus Webb & Berthel.,3,70,1.31,0.32,0.004571429,244.2748092
+1578,228,Lotus campylocladus Webb & Berthel.,3,,,,,
+2028,228,Lotus campylocladus Webb & Berthel.,3,,,,,
+1129,229,Lotus dumetorum Webb ex R. P. Murray,3,6,1.36,0.24,0.04,176.4705882
+229,229,Lotus dumetorum Webb ex R. P. Murray,3,20,0.59,0.11,0.0055,186.440678
+679,229,Lotus dumetorum Webb ex R. P. Murray,3,60,1.11,0.22,0.003666667,198.1981982
+1579,229,Lotus dumetorum Webb ex R. P. Murray,3,,,,,
+2029,229,Lotus dumetorum Webb ex R. P. Murray,3,,,,,
+230,230,Lotus glaucus Dryand. in Aiton,,,,,,
+680,230,Lotus glaucus Dryand. in Aiton,,,,,,
+1130,230,Lotus glaucus Dryand. in Aiton,,,,,,
+1580,230,Lotus glaucus Dryand. in Aiton,,,,,,
+2030,230,Lotus glaucus Dryand. in Aiton,,,,,,
+445,446,Lotus hybrid,1,20,0.48,0.09,0.0045,187.5
+231,231,Lotus maculatus Breitf.,2,10,0.33,0.04,0.004,121.2121212
+681,231,Lotus maculatus Breitf.,2,20,0.35,0.07,0.0035,200
+1131,231,Lotus maculatus Breitf.,2,,,,,
+1581,231,Lotus maculatus Breitf.,2,,,,,
+2031,231,Lotus maculatus Breitf.,2,,,,,
+232,232,Lotus mascaensis Burchard,4,20,0.18,0.08,0.004,444.4444444
+682,232,Lotus mascaensis Burchard,4,30,0.32,0.13,0.004333333,406.25
+1582,232,Lotus mascaensis Burchard,4,30,0.4,0.16,0.005333333,400
+1132,232,Lotus mascaensis Burchard,4,30,0.41,0.11,0.003666667,268.2926829
+2032,232,Lotus mascaensis Burchard,1,,,,,
+1133,233,Lotus sessilifolius DC.,4,20,0.28,0.06,0.003,214.2857143
+683,233,Lotus sessilifolius DC.,4,20,0.24,0.05,0.0025,208.3333333
+1583,233,Lotus sessilifolius DC.,4,50,0.53,0.13,0.0026,245.2830189
+233,233,Lotus sessilifolius DC.,4,100,0.23,0.05,0.0005,217.3913043
+2033,233,Lotus sessilifolius DC.,4,,,,,
+1584,234,"Lotus tenellus (Lowe) Sandral, A. Santos & D.D. Sokoloff",3,40,0.53,0.11,0.00275,207.5471698
+234,234,"Lotus tenellus (Lowe) Sandral, A. Santos & D.D. Sokoloff",3,20,0.5,0.04,0.002,80
+684,234,"Lotus tenellus (Lowe) Sandral, A. Santos & D.D. Sokoloff",3,50,1.09,0.13,0.0026,119.266055
+1134,234,"Lotus tenellus (Lowe) Sandral, A. Santos & D.D. Sokoloff",3,,,,,
+2034,234,"Lotus tenellus (Lowe) Sandral, A. Santos & D.D. Sokoloff",3,,,,,
+235,235,Luzula canariensis Poir.,1,10,3.87,0.89,0.089,229.9741602
+1135,235,Luzula canariensis Poir.,1,10,4.39,1,0.1,227.7904328
+685,235,Luzula canariensis Poir.,1,10,5.79,1.12,0.112,193.4369603
+1585,235,Luzula canariensis Poir.,1,,,,,
+2035,235,Luzula canariensis Poir.,1,,,,,
+1136,236,Lycium intricatum Boiss.,1,40,1.68,0.18,0.0045,107.1428571
+236,236,Lycium intricatum Boiss.,1,50,1.05,0.08,0.0016,76.19047619
+686,236,Lycium intricatum Boiss.,1,100,1.71,0.23,0.0023,134.502924
+1586,236,Lycium intricatum Boiss.,1,,,,,
+2036,236,Lycium intricatum Boiss.,1,,,,,
+237,237,Mairetis microsperma (Boiss.) I. M. Johnst.,1,20,0.07,0.03,0.0015,428.5714286
+687,237,Mairetis microsperma (Boiss.) I. M. Johnst.,1,20,0.16,0.06,0.003,375
+1137,237,Mairetis microsperma (Boiss.) I. M. Johnst.,1,20,0.13,0.04,0.002,307.6923077
+1587,237,Mairetis microsperma (Boiss.) I. M. Johnst.,1,,,,,
+2037,237,Mairetis microsperma (Boiss.) I. M. Johnst.,1,,,,,
+688,238,Marcetella moquiniana (Webb & Berthel.) Svent.,2,10,3.27,1.19,0.119,363.9143731
+238,238,Marcetella moquiniana (Webb & Berthel.) Svent.,2,10,6.17,2,0.2,324.1491086
+1138,238,Marcetella moquiniana (Webb & Berthel.) Svent.,2,,,,,
+1588,238,Marcetella moquiniana (Webb & Berthel.) Svent.,2,,,,,
+2038,238,Marcetella moquiniana (Webb & Berthel.) Svent.,2,,,,,
+239,239,Maytenus canariensis (Loes.) G. Kunkel & Sunding,3,10,7.03,2.95,0.295,419.6301565
+689,239,Maytenus canariensis (Loes.) G. Kunkel & Sunding,3,10,7.04,2.82,0.282,400.5681818
+1139,239,Maytenus canariensis (Loes.) G. Kunkel & Sunding,3,10,8.14,2.88,0.288,353.8083538
+1589,239,Maytenus canariensis (Loes.) G. Kunkel & Sunding,3,,,,,
+2039,239,Maytenus canariensis (Loes.) G. Kunkel & Sunding,3,,,,,
+240,240,Medicago laciniata (L.) Mill.,3,20,0.19,0.06,0.003,315.7894737
+1140,240,Medicago laciniata (L.) Mill.,3,20,0.16,0.03,0.0015,187.5
+690,240,Medicago laciniata (L.) Mill.,3,20,0.15,0.02,0.001,133.3333333
+1590,240,Medicago laciniata (L.) Mill.,3,,,,,
+2040,240,Medicago laciniata (L.) Mill.,3,,,,,
+241,241,Medicago littoralis Rohde ex Loisel.,,,,,,
+691,241,Medicago littoralis Rohde ex Loisel.,,,,,,
+1141,241,Medicago littoralis Rohde ex Loisel.,,,,,,
+1591,241,Medicago littoralis Rohde ex Loisel.,,,,,,
+2041,241,Medicago littoralis Rohde ex Loisel.,,,,,,
+692,242,Melica ciliata L.,4,5,0.47,0.17,0.034,361.7021277
+242,242,Melica ciliata L.,4,5,0.62,0.21,0.042,338.7096774
+1592,242,Melica ciliata L.,4,10,0.38,0.18,0.018,473.6842105
+1142,242,Melica ciliata L.,4,7,0.69,0.21,0.03,304.3478261
+2042,242,Melica ciliata L.,4,,,,,
+1143,243,Melica minuta L.,3,10,0.71,0.29,0.029,408.4507042
+693,243,Melica minuta L.,3,10,0.7,0.28,0.028,400
+243,243,Melica minuta L.,3,20,0.56,0.27,0.0135,482.1428571
+1593,243,Melica minuta L.,3,,,,,
+2043,243,Melica minuta L.,3,,,,,
+1144,244,Mercurialis canariensis Obbard & S.A. Harris,3,5,0.83,0.19,0.038,228.9156627
+244,244,Mercurialis canariensis Obbard & S.A. Harris,3,10,4.69,0.91,0.091,194.0298507
+694,244,Mercurialis canariensis Obbard & S.A. Harris,3,10,5.98,1.09,0.109,182.2742475
+1594,244,Mercurialis canariensis Obbard & S.A. Harris,3,,,,,
+2044,244,Mercurialis canariensis Obbard & S.A. Harris,3,,,,,
+887,438,Micromeria densiflora,3,100,0.31,0.1,0.001,322.5806452
+1337,438,Micromeria densiflora,3,100,0.19,0.05,0.0005,263.1578947
+437,438,Micromeria densiflora,3,100,0.37,0.09,0.0009,243.2432432
+1787,438,Micromeria densiflora,3,,,,,
+2237,438,Micromeria densiflora,3,,,,,
+245,245,Micromeria glomerata P. Pérez,,,,,,
+695,245,Micromeria glomerata P. Pérez,,,,,,
+1145,245,Micromeria glomerata P. Pérez,,,,,,
+1595,245,Micromeria glomerata P. Pérez,,,,,,
+2045,245,Micromeria glomerata P. Pérez,,,,,,
+246,246,Micromeria hyssopifolia Webb & Berthel.,3,50,0.08,0.02,0.0004,250
+1146,246,Micromeria hyssopifolia Webb & Berthel.,3,100,0.08,0.04,0.0004,500
+696,246,Micromeria hyssopifolia Webb & Berthel.,3,100,0.07,0.03,0.0003,428.5714286
+1596,246,Micromeria hyssopifolia Webb & Berthel.,3,,,,,
+2046,246,Micromeria hyssopifolia Webb & Berthel.,3,,,,,
+1147,247,Micromeria lachnophylla Webb & Berthel.,3,100,0.16,0.08,0.0008,500
+247,247,Micromeria lachnophylla Webb & Berthel.,3,100,0.12,0.04,0.0004,333.3333333
+697,247,Micromeria lachnophylla Webb & Berthel.,3,100,0.14,0.03,0.0003,214.2857143
+1597,247,Micromeria lachnophylla Webb & Berthel.,3,,,,,
+2047,247,Micromeria lachnophylla Webb & Berthel.,3,,,,,
+248,248,Micromeria lasiophylla Webb & Berthel.,1,100,0.14,0.09,0.0009,642.8571429
+698,248,Micromeria lasiophylla Webb & Berthel.,1,,,,,
+1148,248,Micromeria lasiophylla Webb & Berthel.,1,,,,,
+1598,248,Micromeria lasiophylla Webb & Berthel.,1,,,,,
+2048,248,Micromeria lasiophylla Webb & Berthel.,1,,,,,
+249,249,Micromeria rivas-martinezii Wildpret,,,,,,
+699,249,Micromeria rivas-martinezii Wildpret,,,,,,
+1149,249,Micromeria rivas-martinezii Wildpret,,,,,,
+1599,249,Micromeria rivas-martinezii Wildpret,,,,,,
+2049,249,Micromeria rivas-martinezii Wildpret,,,,,,
+700,250,Micromeria teneriffae (Poir.) Benth.,3,100,0.46,0.22,0.0022,478.2608696
+1150,250,Micromeria teneriffae (Poir.) Benth.,3,100,0.29,0.13,0.0013,448.2758621
+250,250,Micromeria teneriffae (Poir.) Benth.,3,100,0.15,0.04,0.0004,266.6666667
+1600,250,Micromeria teneriffae (Poir.) Benth.,3,,,,,
+2050,250,Micromeria teneriffae (Poir.) Benth.,3,,,,,
+251,251,Micromeria varia Benth.,3,50,0.07,0.02,0.0004,285.7142857
+1151,251,Micromeria varia Benth.,3,100,0.08,0.04,0.0004,500
+701,251,Micromeria varia Benth.,3,100,0.11,0.03,0.0003,272.7272727
+1601,251,Micromeria varia Benth.,3,,,,,
+2051,251,Micromeria varia Benth.,3,,,,,
+252,252,Minuartia webbii McNeill & Bramwell,,,,,,
+702,252,Minuartia webbii McNeill & Bramwell,,,,,,
+1152,252,Minuartia webbii McNeill & Bramwell,,,,,,
+1602,252,Minuartia webbii McNeill & Bramwell,,,,,,
+2052,252,Minuartia webbii McNeill & Bramwell,,,,,,
+253,253,Monanthes anagensis Praeger,3,20,1.79,0.08,0.004,44.69273743
+703,253,Monanthes anagensis Praeger,3,100,3.55,0.2,0.002,56.33802817
+1153,253,Monanthes anagensis Praeger,3,100,5.19,0.29,0.0029,55.87668593
+1603,253,Monanthes anagensis Praeger,3,,,,,
+2053,253,Monanthes anagensis Praeger,3,,,,,
+254,254,Monanthes brachycaulos (Webb in Webb & Berthel.) Lowe,3,60,1.21,0.04,0.000666667,33.05785124
+704,254,Monanthes brachycaulos (Webb in Webb & Berthel.) Lowe,3,100,1.91,0.09,0.0009,47.12041885
+1154,254,Monanthes brachycaulos (Webb in Webb & Berthel.) Lowe,3,100,2.59,0.11,0.0011,42.47104247
+1604,254,Monanthes brachycaulos (Webb in Webb & Berthel.) Lowe,3,,,,,
+2054,254,Monanthes brachycaulos (Webb in Webb & Berthel.) Lowe,3,,,,,
+255,255,Monanthes icterica (Webb ex Bolle) Christ,,,,,,
+705,255,Monanthes icterica (Webb ex Bolle) Christ,,,,,,
+1155,255,Monanthes icterica (Webb ex Bolle) Christ,,,,,,
+1605,255,Monanthes icterica (Webb ex Bolle) Christ,,,,,,
+2055,255,Monanthes icterica (Webb ex Bolle) Christ,,,,,,
+706,256,Monanthes laxiflora (DC.) Bolle ex Börnm.,2,20,2.96,0.18,0.009,60.81081081
+1156,256,Monanthes laxiflora (DC.) Bolle ex Börnm.,2,30,4.38,0.21,0.007,47.94520548
+256,256,Monanthes laxiflora (DC.) Bolle ex Börnm.,2,,,,,
+1606,256,Monanthes laxiflora (DC.) Bolle ex Börnm.,2,,,,,
+2056,256,Monanthes laxiflora (DC.) Bolle ex Börnm.,2,,,,,
+257,257,Monanthes minima (Bolle) Christ,,,,,,
+707,257,Monanthes minima (Bolle) Christ,,,,,,
+1157,257,Monanthes minima (Bolle) Christ,,,,,,
+1607,257,Monanthes minima (Bolle) Christ,,,,,,
+2057,257,Monanthes minima (Bolle) Christ,,,,,,
+708,258,Monanthes pallens (Webb ex Christ) Christ,5,100,0.18,0.02,0.0002,111.1111111
+2058,258,Monanthes pallens (Webb ex Christ) Christ,5,50,0.41,0.02,0.0004,48.7804878
+1158,258,Monanthes pallens (Webb ex Christ) Christ,5,50,0.42,0.02,0.0004,47.61904762
+1608,258,Monanthes pallens (Webb ex Christ) Christ,5,50,0.48,0.02,0.0004,41.66666667
+258,258,Monanthes pallens (Webb ex Christ) Christ,5,40,0.39,0.01,0.00025,25.64102564
+709,259,Monanthes polyphylla Haw.,2,100,0.14,0.02,0.0002,142.8571429
+259,259,Monanthes polyphylla Haw.,2,40,0.16,0.01,0.00025,62.5
+1159,259,Monanthes polyphylla Haw.,2,,,,,
+1609,259,Monanthes polyphylla Haw.,2,,,,,
+2059,259,Monanthes polyphylla Haw.,2,,,,,
+260,260,Monanthes wildpretii A. Bañares & S. Scholz,,,,,,
+710,260,Monanthes wildpretii A. Bañares & S. Scholz,,,,,,
+1160,260,Monanthes wildpretii A. Bañares & S. Scholz,,,,,,
+1610,260,Monanthes wildpretii A. Bañares & S. Scholz,,,,,,
+2060,260,Monanthes wildpretii A. Bañares & S. Scholz,,,,,,
+261,261,Myrica faya Aiton,1,10,2.21,0.92,0.092,416.2895928
+711,261,Myrica faya Aiton,1,,,,,
+1161,261,Myrica faya Aiton,1,,,,,
+1611,261,Myrica faya Aiton,1,,,,,
+2061,261,Myrica faya Aiton,1,,,,,
+262,263,Navaea phoenicea (Vent.) Webb & Berthel.,1,5,6.99,1.4,0.28,200.286123
+712,263,Navaea phoenicea (Vent.) Webb & Berthel.,1,,,,,
+1162,263,Navaea phoenicea (Vent.) Webb & Berthel.,1,,,,,
+1612,263,Navaea phoenicea (Vent.) Webb & Berthel.,1,,,,,
+2062,263,Navaea phoenicea (Vent.) Webb & Berthel.,1,,,,,
+1333,434,Neochamaelea pulverulenta,3,20,1.78,0.56,0.028,314.6067416
+433,434,Neochamaelea pulverulenta,3,20,2.17,0.58,0.029,267.281106
+883,434,Neochamaelea pulverulenta,3,20,1.57,0.4,0.02,254.7770701
+1783,434,Neochamaelea pulverulenta,3,,,,,
+2233,434,Neochamaelea pulverulenta,3,,,,,
+263,264,Nepeta teydea Webb & Berthel.,3,10,1.99,0.43,0.043,216.080402
+1163,264,Nepeta teydea Webb & Berthel.,3,10,1.59,0.34,0.034,213.836478
+713,264,Nepeta teydea Webb & Berthel.,3,10,2.19,0.46,0.046,210.0456621
+1613,264,Nepeta teydea Webb & Berthel.,3,,,,,
+2063,264,Nepeta teydea Webb & Berthel.,3,,,,,
+264,265,Ocotea foetens (Aiton) Baill.,1,20,11.25,5.39,0.2695,479.1111111
+714,265,Ocotea foetens (Aiton) Baill.,1,,,,,
+1164,265,Ocotea foetens (Aiton) Baill.,1,,,,,
+1614,265,Ocotea foetens (Aiton) Baill.,1,,,,,
+2064,265,Ocotea foetens (Aiton) Baill.,1,,,,,
+265,266,Olea cerasiformis Rivas-Mart. & del Arco ,2,20,3.22,1.57,0.0785,487.5776398
+715,266,Olea cerasiformis Rivas-Mart. & del Arco ,2,20,2.81,1.31,0.0655,466.1921708
+1165,266,Olea cerasiformis Rivas-Mart. & del Arco ,2,,,,,
+1615,266,Olea cerasiformis Rivas-Mart. & del Arco ,2,,,,,
+2065,266,Olea cerasiformis Rivas-Mart. & del Arco ,2,,,,,
+266,267,Oligomeris linifolia (Vahl) J. F. Macbr.,3,20,0.15,0.06,0.003,400
+1166,267,Oligomeris linifolia (Vahl) J. F. Macbr.,3,20,0.19,0.05,0.0025,263.1578947
+716,267,Oligomeris linifolia (Vahl) J. F. Macbr.,3,20,0.17,0.04,0.002,235.2941176
+1616,267,Oligomeris linifolia (Vahl) J. F. Macbr.,3,,,,,
+2066,267,Oligomeris linifolia (Vahl) J. F. Macbr.,3,,,,,
+267,268,Ononis angustissima Lam.,3,50,0.56,0.21,0.0042,375
+717,268,Ononis angustissima Lam.,3,50,0.59,0.2,0.004,338.9830508
+1167,268,Ononis angustissima Lam.,3,50,1.02,0.34,0.0068,333.3333333
+1617,268,Ononis angustissima Lam.,3,,,,,
+2067,268,Ononis angustissima Lam.,3,,,,,
+268,269,Ononis hesperia (Maire) H. Förther & D. Podlech,,,,,,
+718,269,Ononis hesperia (Maire) H. Förther & D. Podlech,,,,,,
+1168,269,Ononis hesperia (Maire) H. Förther & D. Podlech,,,,,,
+1618,269,Ononis hesperia (Maire) H. Förther & D. Podlech,,,,,,
+2068,269,Ononis hesperia (Maire) H. Förther & D. Podlech,,,,,,
+719,270,Orchis patens Desf.,2,4,1.87,0.2,0.05,106.9518717
+269,270,Orchis patens Desf.,2,4,1.03,0.1,0.025,97.08737864
+1169,270,Orchis patens Desf.,2,,,,,
+1619,270,Orchis patens Desf.,2,,,,,
+2069,270,Orchis patens Desf.,2,,,,,
+270,271,Orobanche berthelotii Webb & Berthel.,,,,,,
+720,271,Orobanche berthelotii Webb & Berthel.,,,,,,
+1170,271,Orobanche berthelotii Webb & Berthel.,,,,,,
+1620,271,Orobanche berthelotii Webb & Berthel.,,,,,,
+2070,271,Orobanche berthelotii Webb & Berthel.,,,,,,
+721,272,Osyris lanceolata Hochst. & Steud. ex A. DC.,2,10,1.35,0.53,0.053,392.5925926
+271,272,Osyris lanceolata Hochst. & Steud. ex A. DC.,2,20,3.55,1.31,0.0655,369.0140845
+1171,272,Osyris lanceolata Hochst. & Steud. ex A. DC.,2,,,,,
+1621,272,Osyris lanceolata Hochst. & Steud. ex A. DC.,2,,,,,
+2071,272,Osyris lanceolata Hochst. & Steud. ex A. DC.,2,,,,,
+1172,273,Pancratium canariense Ker-Gawl.,4,5,49.94,5.22,1.044,104.5254305
+1622,273,Pancratium canariense Ker-Gawl.,4,5,49.94,5.22,1.044,104.5254305
+722,273,Pancratium canariense Ker-Gawl.,4,5,58.95,5.72,1.144,97.03138253
+272,273,Pancratium canariense Ker-Gawl.,4,10,50.83,5.14,0.514,101.121385
+2072,273,Pancratium canariense Ker-Gawl.,4,,,,,
+273,274,Parietaria filamentosa Webb & Berthel.,3,30,0.23,0.08,0.002666667,347.826087
+1173,274,Parietaria filamentosa Webb & Berthel.,3,60,1.05,0.37,0.006166667,352.3809524
+723,274,Parietaria filamentosa Webb & Berthel.,3,70,1.05,0.42,0.006,400
+1623,274,Parietaria filamentosa Webb & Berthel.,3,,,,,
+2073,274,Parietaria filamentosa Webb & Berthel.,3,,,,,
+1174,275,Parolinia intermedia Svent. & Bramwell,3,50,1.21,0.33,0.0066,272.7272727
+274,275,Parolinia intermedia Svent. & Bramwell,3,50,1.46,0.32,0.0064,219.1780822
+724,275,Parolinia intermedia Svent. & Bramwell,3,50,1.49,0.27,0.0054,181.2080537
+1624,275,Parolinia intermedia Svent. & Bramwell,3,,,,,
+2074,275,Parolinia intermedia Svent. & Bramwell,3,,,,,
+1175,276,Paronychia canariensis (L. f.) Juss.,3,100,0.55,0.2,0.002,363.6363636
+725,276,Paronychia canariensis (L. f.) Juss.,3,100,0.6,0.16,0.0016,266.6666667
+275,276,Paronychia canariensis (L. f.) Juss.,3,20,0.24,,0,0
+1625,276,Paronychia canariensis (L. f.) Juss.,3,,,,,
+2075,276,Paronychia canariensis (L. f.) Juss.,3,,,,,
+276,277,"Patellifolia patellaris (Moq.) A. J. Scott, Ford-Lloyd & J. T. Williams",2,20,6.66,0.85,0.0425,127.6276276
+726,277,"Patellifolia patellaris (Moq.) A. J. Scott, Ford-Lloyd & J. T. Williams",2,20,29.48,2.65,0.1325,89.89145183
+1176,277,"Patellifolia patellaris (Moq.) A. J. Scott, Ford-Lloyd & J. T. Williams",2,,,,,
+1626,277,"Patellifolia patellaris (Moq.) A. J. Scott, Ford-Lloyd & J. T. Williams",2,,,,,
+2076,277,"Patellifolia patellaris (Moq.) A. J. Scott, Ford-Lloyd & J. T. Williams",2,,,,,
+277,278,"Patellifolia procumbens (C. Sm. ex Hornem.) A. J. Scott, Ford-Lloyd & J. T. Williams",1,10,8.93,0.6,0.06,67.18924972
+727,278,"Patellifolia procumbens (C. Sm. ex Hornem.) A. J. Scott, Ford-Lloyd & J. T. Williams",1,,,,,
+1177,278,"Patellifolia procumbens (C. Sm. ex Hornem.) A. J. Scott, Ford-Lloyd & J. T. Williams",1,,,,,
+1627,278,"Patellifolia procumbens (C. Sm. ex Hornem.) A. J. Scott, Ford-Lloyd & J. T. Williams",1,,,,,
+2077,278,"Patellifolia procumbens (C. Sm. ex Hornem.) A. J. Scott, Ford-Lloyd & J. T. Williams",1,,,,,
+278,279,"Patellifolia webbiana (Moq.) A. J. Scott, Ford-Lloyd & J. T. Williams",3,10,4.16,0.46,0.046,110.5769231
+1178,279,"Patellifolia webbiana (Moq.) A. J. Scott, Ford-Lloyd & J. T. Williams",3,10,5.27,0.43,0.043,81.59392789
+728,279,"Patellifolia webbiana (Moq.) A. J. Scott, Ford-Lloyd & J. T. Williams",3,10,3.63,0.23,0.023,63.36088154
+1628,279,"Patellifolia webbiana (Moq.) A. J. Scott, Ford-Lloyd & J. T. Williams",3,,,,,
+2078,279,"Patellifolia webbiana (Moq.) A. J. Scott, Ford-Lloyd & J. T. Williams",3,,,,,
+279,280,Pelletiera wildpretii Valdés,,,,,,
+729,280,Pelletiera wildpretii Valdés,,,,,,
+1179,280,Pelletiera wildpretii Valdés,,,,,,
+1629,280,Pelletiera wildpretii Valdés,,,,,,
+2079,280,Pelletiera wildpretii Valdés,,,,,,
+730,281,Pericallis appendiculata (L. f.) B. Nord.,3,10,9.99,1.99,0.199,199.1991992
+1180,281,Pericallis appendiculata (L. f.) B. Nord.,3,8,2.27,0.33,0.04125,145.3744493
+1630,281,Pericallis appendiculata (L. f.) B. Nord.,3,10,8.78,1.26,0.126,143.5079727
+280,281,Pericallis appendiculata (L. f.) B. Nord.,3,,,,,
+2080,281,Pericallis appendiculata (L. f.) B. Nord.,3,,,,,
+1181,282,Pericallis cruenta (L’Hér.) Bolle,3,4,10.18,1.27,0.3175,124.7544204
+731,282,Pericallis cruenta (L’Hér.) Bolle,3,4,11.79,1.26,0.315,106.870229
+281,282,Pericallis cruenta (L’Hér.) Bolle,3,8,17.58,2.05,0.25625,116.6097838
+1631,282,Pericallis cruenta (L’Hér.) Bolle,3,,,,,
+2081,282,Pericallis cruenta (L’Hér.) Bolle,3,,,,,
+732,283,Pericallis echinata (L. f.) B. Nord.,3,5,4.43,0.53,0.106,119.6388262
+1182,283,Pericallis echinata (L. f.) B. Nord.,3,5,4.05,0.48,0.096,118.5185185
+282,283,Pericallis echinata (L. f.) B. Nord.,3,5,4.28,0.47,0.094,109.8130841
+1632,283,Pericallis echinata (L. f.) B. Nord.,3,,,,,
+2082,283,Pericallis echinata (L. f.) B. Nord.,3,,,,,
+733,284,Pericallis lanata (L’Hér.) B. Nord.,3,10,1.27,0.2,0.02,157.480315
+1183,284,Pericallis lanata (L’Hér.) B. Nord.,3,10,1.43,0.17,0.017,118.8811189
+283,284,Pericallis lanata (L’Hér.) B. Nord.,3,10,1.64,0.19,0.019,115.8536585
+1633,284,Pericallis lanata (L’Hér.) B. Nord.,3,,,,,
+2083,284,Pericallis lanata (L’Hér.) B. Nord.,3,,,,,
+284,285,Pericallis multiflora (L’Hér.) B. Nord.,,,,,,
+734,285,Pericallis multiflora (L’Hér.) B. Nord.,,,,,,
+1184,285,Pericallis multiflora (L’Hér.) B. Nord.,,,,,,
+1634,285,Pericallis multiflora (L’Hér.) B. Nord.,,,,,,
+2084,285,Pericallis multiflora (L’Hér.) B. Nord.,,,,,,
+285,286,Pericallis tussilaginis (L’Hér.) D. Don in Sweet,3,5,51.05,4.09,0.818,80.11753183
+735,286,Pericallis tussilaginis (L’Hér.) D. Don in Sweet,3,5,23.05,1.78,0.356,77.22342733
+1185,286,Pericallis tussilaginis (L’Hér.) D. Don in Sweet,3,5,18.2,1.19,0.238,65.38461538
+1635,286,Pericallis tussilaginis (L’Hér.) D. Don in Sweet,3,,,,,
+2085,286,Pericallis tussilaginis (L’Hér.) D. Don in Sweet,3,,,,,
+286,287,Periploca laevigata Aiton,3,20,1.63,0.27,0.0135,165.6441718
+1186,287,Periploca laevigata Aiton,3,10,2.43,0.71,0.071,292.18107
+736,287,Periploca laevigata Aiton,3,10,3.23,0.81,0.081,250.7739938
+1636,287,Periploca laevigata Aiton,3,,,,,
+2086,287,Periploca laevigata Aiton,3,,,,,
+287,288,Persea indica (L.) C. K. Spreng.,1,9,18.48,8.14,0.904444444,440.4761905
+737,288,Persea indica (L.) C. K. Spreng.,1,,,,,
+1187,288,Persea indica (L.) C. K. Spreng.,1,,,,,
+1637,288,Persea indica (L.) C. K. Spreng.,1,,,,,
+2087,288,Persea indica (L.) C. K. Spreng.,1,,,,,
+288,289,Phagnalon umbelliforme DC.,1,50,0.53,0.17,0.0034,320.754717
+738,289,Phagnalon umbelliforme DC.,1,,,,,
+1188,289,Phagnalon umbelliforme DC.,1,,,,,
+1638,289,Phagnalon umbelliforme DC.,1,,,,,
+2088,289,Phagnalon umbelliforme DC.,1,,,,,
+289,290,Phelipanche lavandulacea (Rchb.),,,,,,
+739,290,Phelipanche lavandulacea (Rchb.),,,,,,
+1189,290,Phelipanche lavandulacea (Rchb.),,,,,,
+1639,290,Phelipanche lavandulacea (Rchb.),,,,,,
+2089,290,Phelipanche lavandulacea (Rchb.),,,,,,
+290,291,Phoenix canariensis Chabaud,1,,,,,
+740,291,Phoenix canariensis Chabaud,,,,,,
+1190,291,Phoenix canariensis Chabaud,,,,,,
+1640,291,Phoenix canariensis Chabaud,,,,,,
+2090,291,Phoenix canariensis Chabaud,,,,,,
+1191,292,Phyllis nobla L.,3,10,6.5,1.15,0.115,176.9230769
+741,292,Phyllis nobla L.,3,10,5.24,0.76,0.076,145.0381679
+291,292,Phyllis nobla L.,3,20,9.69,2.04,0.102,210.5263158
+1641,292,Phyllis nobla L.,3,,,,,
+2091,292,Phyllis nobla L.,3,,,,,
+742,293,Phyllis viscosa Webb ex Christ,3,10,2.04,0.86,0.086,421.5686275
+292,293,Phyllis viscosa Webb ex Christ,3,10,5.66,1.81,0.181,319.7879859
+1192,293,Phyllis viscosa Webb ex Christ,3,20,3.33,0.93,0.0465,279.2792793
+1642,293,Phyllis viscosa Webb ex Christ,3,,,,,
+2092,293,Phyllis viscosa Webb ex Christ,3,,,,,
+293,294,Picconia excelsa (Aiton) DC.,1,15,25.19,14.19,0.946,563.3187773
+743,294,Picconia excelsa (Aiton) DC.,1,,,,,
+1193,294,Picconia excelsa (Aiton) DC.,1,,,,,
+1643,294,Picconia excelsa (Aiton) DC.,1,,,,,
+2093,294,Picconia excelsa (Aiton) DC.,1,,,,,
+744,295,Pimpinella anagodendron Bolle,3,4,2.84,1.55,0.3875,545.7746479
+294,295,Pimpinella anagodendron Bolle,3,5,5.57,1.47,0.294,263.9138241
+1194,295,Pimpinella anagodendron Bolle,3,5,6.2,0.92,0.184,148.3870968
+1644,295,Pimpinella anagodendron Bolle,3,,,,,
+2094,295,Pimpinella anagodendron Bolle,3,,,,,
+745,296,Pimpinella cumbrae Link,3,10,4.83,1.36,0.136,281.573499
+295,296,Pimpinella cumbrae Link,3,10,5.76,1.61,0.161,279.5138889
+1195,296,Pimpinella cumbrae Link,3,10,3.75,1.02,0.102,272
+1645,296,Pimpinella cumbrae Link,3,,,,,
+2095,296,Pimpinella cumbrae Link,3,,,,,
+746,297,Pimpinella dendrotragium Webb,3,3,4.27,1.18,0.393333333,276.3466042
+296,297,Pimpinella dendrotragium Webb,3,4,3.95,1.04,0.26,263.2911392
+1196,297,Pimpinella dendrotragium Webb,3,5,1.21,0.32,0.064,264.4628099
+1646,297,Pimpinella dendrotragium Webb,3,,,,,
+2096,297,Pimpinella dendrotragium Webb,3,,,,,
+1197,298,Pimpinella rupicola Svent.,3,10,4.26,1.25,0.125,293.42723
+747,298,Pimpinella rupicola Svent.,3,10,6.5,1.81,0.181,278.4615385
+297,298,Pimpinella rupicola Svent.,3,30,1.31,0.32,0.010666667,244.2748092
+1647,298,Pimpinella rupicola Svent.,3,,,,,
+2097,298,Pimpinella rupicola Svent.,3,,,,,
+748,299,Pinus canariensis C. Sm. ex DC. in Buch,2,10,6.42,3.25,0.325,506.2305296
+298,299,Pinus canariensis C. Sm. ex DC. in Buch,2,30,4.99,2.94,0.098,589.1783567
+1198,299,Pinus canariensis C. Sm. ex DC. in Buch,2,,,,,
+1648,299,Pinus canariensis C. Sm. ex DC. in Buch,2,,,,,
+2098,299,Pinus canariensis C. Sm. ex DC. in Buch,2,,,,,
+1199,300,Pistacia atlantica Desf.,3,5,7.68,3.85,0.77,501.3020833
+749,300,Pistacia atlantica Desf.,3,10,15.24,6.84,0.684,448.8188976
+299,300,Pistacia atlantica Desf.,3,10,16.75,7.32,0.732,437.0149254
+1649,300,Pistacia atlantica Desf.,3,,,,,
+2099,300,Pistacia atlantica Desf.,3,,,,,
+300,301,Pistacia lentiscus L.,1,15,17.47,7.94,0.529333333,454.4934173
+750,301,Pistacia lentiscus L.,1,,,,,
+1200,301,Pistacia lentiscus L.,1,,,,,
+1650,301,Pistacia lentiscus L.,1,,,,,
+2100,301,Pistacia lentiscus L.,1,,,,,
+301,302,Plantago arborescens Poir.,3,20,0.18,0.04,0.002,222.2222222
+1201,302,Plantago arborescens Poir.,3,70,0.96,0.18,0.002571429,187.5
+751,302,Plantago arborescens Poir.,3,70,1.05,0.17,0.002428571,161.9047619
+1651,302,Plantago arborescens Poir.,3,,,,,
+2101,302,Plantago arborescens Poir.,3,,,,,
+752,303,Plantago asphodeloides Svent.,3,50,0.82,0.18,0.0036,219.5121951
+1202,303,Plantago asphodeloides Svent.,3,50,0.89,0.16,0.0032,179.7752809
+302,303,Plantago asphodeloides Svent.,3,50,0.29,0.05,0.001,172.4137931
+1652,303,Plantago asphodeloides Svent.,3,,,,,
+2102,303,Plantago asphodeloides Svent.,3,,,,,
+1653,304,Plantago webbii Barnéoud,4,70,0.67,0.21,0.003,313.4328358
+753,304,Plantago webbii Barnéoud,4,100,0.75,0.27,0.0027,360
+1203,304,Plantago webbii Barnéoud,4,100,0.84,0.27,0.0027,321.4285714
+303,304,Plantago webbii Barnéoud,4,100,1.3,0.39,0.0039,300
+2103,304,Plantago webbii Barnéoud,4,,,,,
+304,305,Pleiomeris canariensis (Willd.) A. DC.,1,10,34.5,13.61,1.361,394.4927536
+754,305,Pleiomeris canariensis (Willd.) A. DC.,1,,,,,
+1204,305,Pleiomeris canariensis (Willd.) A. DC.,1,,,,,
+1654,305,Pleiomeris canariensis (Willd.) A. DC.,1,,,,,
+2104,305,Pleiomeris canariensis (Willd.) A. DC.,1,,,,,
+1205,306,Plocama pendula Aiton,3,30,0.86,0.86,0.028666667,1000
+305,306,Plocama pendula Aiton,3,20,0.5,0.12,0.006,240
+755,306,Plocama pendula Aiton,3,30,1.21,0.26,0.008666667,214.8760331
+1655,306,Plocama pendula Aiton,3,,,,,
+2105,306,Plocama pendula Aiton,3,,,,,
+306,307,Poa bulbosa L.,,,,,,
+756,307,Poa bulbosa L.,,,,,,
+1206,307,Poa bulbosa L.,,,,,,
+1656,307,Poa bulbosa L.,,,,,,
+2106,307,Poa bulbosa L.,,,,,,
+307,308,Poa pitardiana H. Scholz,,,,,,
+757,308,Poa pitardiana H. Scholz,,,,,,
+1207,308,Poa pitardiana H. Scholz,,,,,,
+1657,308,Poa pitardiana H. Scholz,,,,,,
+2107,308,Poa pitardiana H. Scholz,,,,,,
+308,309,Polycarpaea aristata (Aiton) DC.,3,100,0.27,0.08,0.0008,296.2962963
+1208,309,Polycarpaea aristata (Aiton) DC.,3,100,0.21,0.06,0.0006,285.7142857
+758,309,Polycarpaea aristata (Aiton) DC.,3,100,0.19,0.05,0.0005,263.1578947
+1658,309,Polycarpaea aristata (Aiton) DC.,3,,,,,
+2108,309,Polycarpaea aristata (Aiton) DC.,3,,,,,
+309,310,Polycarpaea carnosa C. Sm. ex Buch,3,20,4.04,0.41,0.0205,101.4851485
+1209,310,Polycarpaea carnosa C. Sm. ex Buch,3,30,1.63,0.26,0.008666667,159.5092025
+759,310,Polycarpaea carnosa C. Sm. ex Buch,3,30,2.18,0.22,0.007333333,100.9174312
+1659,310,Polycarpaea carnosa C. Sm. ex Buch,3,,,,,
+2109,310,Polycarpaea carnosa C. Sm. ex Buch,3,,,,,
+310,311,Polycarpaea divaricata (Aiton) Poir.,3,20,0.37,0.08,0.004,216.2162162
+760,311,Polycarpaea divaricata (Aiton) Poir.,3,40,1.12,0.11,0.00275,98.21428571
+1210,311,Polycarpaea divaricata (Aiton) Poir.,3,40,0.76,0.07,0.00175,92.10526316
+1660,311,Polycarpaea divaricata (Aiton) Poir.,3,,,,,
+2110,311,Polycarpaea divaricata (Aiton) Poir.,3,,,,,
+311,312,Polycarpaea filifolia Webb ex Christ,,,,,,
+761,312,Polycarpaea filifolia Webb ex Christ,,,,,,
+1211,312,Polycarpaea filifolia Webb ex Christ,,,,,,
+1661,312,Polycarpaea filifolia Webb ex Christ,,,,,,
+2111,312,Polycarpaea filifolia Webb ex Christ,,,,,,
+312,313,Polycarpaea latifolia Willd.,3,40,2.02,0.3,0.0075,148.5148515
+762,313,Polycarpaea latifolia Willd.,3,30,1.11,0.11,0.003666667,99.0990991
+1212,313,Polycarpaea latifolia Willd.,3,40,1.07,0.13,0.00325,121.4953271
+1662,313,Polycarpaea latifolia Willd.,3,,,,,
+2112,313,Polycarpaea latifolia Willd.,3,,,,,
+313,314,Polycarpaea nivea (Aiton) Webb,3,30,0.81,0.16,0.005333333,197.5308642
+763,314,Polycarpaea nivea (Aiton) Webb,3,20,1.93,0.24,0.012,124.3523316
+1213,314,Polycarpaea nivea (Aiton) Webb,3,60,1.43,0.27,0.0045,188.8111888
+1663,314,Polycarpaea nivea (Aiton) Webb,3,,,,,
+2113,314,Polycarpaea nivea (Aiton) Webb,3,,,,,
+764,315,Polycarpaea tenuis Webb ex Christ,3,80,0.11,0.04,0.0005,363.6363636
+314,315,Polycarpaea tenuis Webb ex Christ,3,100,0.14,0.05,0.0005,357.1428571
+1214,315,Polycarpaea tenuis Webb ex Christ,3,80,0.1,0.02,0.00025,200
+1664,315,Polycarpaea tenuis Webb ex Christ,3,,,,,
+2114,315,Polycarpaea tenuis Webb ex Christ,3,,,,,
+315,316,Polygonum balansae Boiss.,,,,,,
+765,316,Polygonum balansae Boiss.,,,,,,
+1215,316,Polygonum balansae Boiss.,,,,,,
+1665,316,Polygonum balansae Boiss.,,,,,,
+2115,316,Polygonum balansae Boiss.,,,,,,
+316,317,Polygonum maritimum L.,,,,,,
+766,317,Polygonum maritimum L.,,,,,,
+1216,317,Polygonum maritimum L.,,,,,,
+1666,317,Polygonum maritimum L.,,,,,,
+2116,317,Polygonum maritimum L.,,,,,,
+317,318,Portulaca canariensis Danin & Reyes-Betancort,,,,,,
+767,318,Portulaca canariensis Danin & Reyes-Betancort,,,,,,
+1217,318,Portulaca canariensis Danin & Reyes-Betancort,,,,,,
+1667,318,Portulaca canariensis Danin & Reyes-Betancort,,,,,,
+2117,318,Portulaca canariensis Danin & Reyes-Betancort,,,,,,
+318,319,Prunus lusitanica L.,1,10,22.66,10.74,1.074,473.9629303
+768,319,Prunus lusitanica L.,1,,,,,
+1218,319,Prunus lusitanica L.,1,,,,,
+1668,319,Prunus lusitanica L.,1,,,,,
+2118,319,Prunus lusitanica L.,1,,,,,
+1219,320,Pterocephalus dumetorus (Brouss. ex Willd.) Coult.,3,10,5.25,1.63,0.163,310.4761905
+769,320,Pterocephalus dumetorus (Brouss. ex Willd.) Coult.,3,10,4.68,1.45,0.145,309.8290598
+319,320,Pterocephalus dumetorus (Brouss. ex Willd.) Coult.,3,10,8.65,1.99,0.199,230.0578035
+1669,320,Pterocephalus dumetorus (Brouss. ex Willd.) Coult.,3,,,,,
+2119,320,Pterocephalus dumetorus (Brouss. ex Willd.) Coult.,3,,,,,
+1220,321,Pterocephalus lasiospermus Link ex Buch,3,10,1.47,0.36,0.036,244.8979592
+320,321,Pterocephalus lasiospermus Link ex Buch,3,10,2.59,0.6,0.06,231.6602317
+770,321,Pterocephalus lasiospermus Link ex Buch,3,10,11.22,0.5,0.05,44.56327986
+1670,321,Pterocephalus lasiospermus Link ex Buch,3,,,,,
+2120,321,Pterocephalus lasiospermus Link ex Buch,3,,,,,
+1221,322,Pterocephalus virens Webb & Berthel.,3,10,1.09,0.33,0.033,302.7522936
+321,322,Pterocephalus virens Webb & Berthel.,3,20,3.04,0.64,0.032,210.5263158
+771,322,Pterocephalus virens Webb & Berthel.,3,30,5.92,1.36,0.045333333,229.7297297
+1671,322,Pterocephalus virens Webb & Berthel.,3,,,,,
+2121,322,Pterocephalus virens Webb & Berthel.,3,,,,,
+1222,323,Ranunculus cortusifolius Willd.,4,3,32.34,4.33,1.443333333,133.8899196
+772,323,Ranunculus cortusifolius Willd.,4,3,25.71,3.23,1.076666667,125.6320498
+1672,323,Ranunculus cortusifolius Willd.,4,5,110.18,11.05,2.21,100.2904338
+322,323,Ranunculus cortusifolius Willd.,4,15,57.5,7.37,0.491333333,128.173913
+2122,323,Ranunculus cortusifolius Willd.,4,,,,,
+1223,324,Reichardia crystallina (Sch. Bip.) Bramwell,3,10,3.77,0.47,0.047,124.668435
+773,324,Reichardia crystallina (Sch. Bip.) Bramwell,3,10,2.3,0.28,0.028,121.7391304
+323,324,Reichardia crystallina (Sch. Bip.) Bramwell,3,20,3.02,0.3,0.015,99.33774834
+1673,324,Reichardia crystallina (Sch. Bip.) Bramwell,3,,,,,
+2123,324,Reichardia crystallina (Sch. Bip.) Bramwell,3,,,,,
+1224,325,Reichardia ligulata (Vent.) G. Kunkel & Sunding,3,10,11.82,1.72,0.172,145.5160745
+774,325,Reichardia ligulata (Vent.) G. Kunkel & Sunding,3,10,10.79,0.63,0.063,58.38739574
+324,325,Reichardia ligulata (Vent.) G. Kunkel & Sunding,3,10,14.56,0.84,0.084,57.69230769
+1674,325,Reichardia ligulata (Vent.) G. Kunkel & Sunding,3,,,,,
+2124,325,Reichardia ligulata (Vent.) G. Kunkel & Sunding,3,,,,,
+325,326,Reseda scoparia Brouss. ex Willd.,3,50,0.84,0.18,0.0036,214.2857143
+775,326,Reseda scoparia Brouss. ex Willd.,3,100,1.82,0.5,0.005,274.7252747
+1225,326,Reseda scoparia Brouss. ex Willd.,3,100,1.28,0.3,0.003,234.375
+1675,326,Reseda scoparia Brouss. ex Willd.,3,,,,,
+2125,326,Reseda scoparia Brouss. ex Willd.,3,,,,,
+326,327,Retama rhodorhizoides Webb & Berthel.,1,10,2.48,1.14,0.114,459.6774194
+776,327,Retama rhodorhizoides Webb & Berthel.,1,,,,,
+1226,327,Retama rhodorhizoides Webb & Berthel.,1,,,,,
+1676,327,Retama rhodorhizoides Webb & Berthel.,1,,,,,
+2126,327,Retama rhodorhizoides Webb & Berthel.,1,,,,,
+1677,328,Rhamnus crenulata Aiton,4,10,1.99,0.9,0.09,452.2613065
+1227,328,Rhamnus crenulata Aiton,4,10,2.28,1.02,0.102,447.3684211
+777,328,Rhamnus crenulata Aiton,4,10,1.55,0.57,0.057,367.7419355
+327,328,Rhamnus crenulata Aiton,4,30,1.46,0.71,0.023666667,486.3013699
+2127,328,Rhamnus crenulata Aiton,4,,,,,
+328,329,Rhamnus glandulosa Aiton,2,10,13.19,5.34,0.534,404.8521607
+778,329,Rhamnus glandulosa Aiton,2,10,9.19,3.59,0.359,390.6420022
+1228,329,Rhamnus glandulosa Aiton,2,,,,,
+1678,329,Rhamnus glandulosa Aiton,2,,,,,
+2128,329,Rhamnus glandulosa Aiton,2,,,,,
+329,330,Rhamnus integrifolia DC.,3,10,2.77,1.29,0.129,465.7039711
+779,330,Rhamnus integrifolia DC.,3,10,1.86,0.79,0.079,424.7311828
+1229,330,Rhamnus integrifolia DC.,3,20,5.57,2.54,0.127,456.0143627
+1679,330,Rhamnus integrifolia DC.,3,,,,,
+2129,330,Rhamnus integrifolia DC.,3,,,,,
+780,331,Rhus coriaria L.,3,10,19.06,7.91,0.791,415.0052466
+1230,331,Rhus coriaria L.,3,10,24.01,9.26,0.926,385.6726364
+330,331,Rhus coriaria L.,3,10,25.27,9.63,0.963,381.0842897
+1680,331,Rhus coriaria L.,3,,,,,
+2130,331,Rhus coriaria L.,3,,,,,
+781,332,Romulea columnae Sebast. & Mauri,4,3,1.13,0.3,0.1,265.4867257
+1681,332,Romulea columnae Sebast. & Mauri,4,3,0.81,0.21,0.07,259.2592593
+1231,332,Romulea columnae Sebast. & Mauri,4,3,1.14,0.26,0.086666667,228.0701754
+331,332,Romulea columnae Sebast. & Mauri,4,3,1.16,0.26,0.086666667,224.137931
+2131,332,Romulea columnae Sebast. & Mauri,4,,,,,
+332,333,Rubia fruticosa Aiton,3,10,1.04,0.18,0.018,173.0769231
+782,333,Rubia fruticosa Aiton,3,30,1.72,0.38,0.012666667,220.9302326
+1232,333,Rubia fruticosa Aiton,3,30,1.33,0.29,0.009666667,218.0451128
+1682,333,Rubia fruticosa Aiton,3,,,,,
+2132,333,Rubia fruticosa Aiton,3,,,,,
+333,334,Rubia peregrina L.,1,30,1.92,0.51,0.017,265.625
+783,334,Rubia peregrina L.,1,,,,,
+1233,334,Rubia peregrina L.,1,,,,,
+1683,334,Rubia peregrina L.,1,,,,,
+2133,334,Rubia peregrina L.,1,,,,,
+334,335,Rubus bollei Focke,3,5,28.03,8.2,1.64,292.5437032
+1234,335,Rubus bollei Focke,3,5,12.29,3.22,0.644,262.0016273
+784,335,Rubus bollei Focke,3,5,30.48,6.61,1.322,216.8635171
+1684,335,Rubus bollei Focke,3,,,,,
+2134,335,Rubus bollei Focke,3,,,,,
+335,336,Rubus palmensis A. Hansen,3,5,20.81,5.77,1.154,277.270543
+785,336,Rubus palmensis A. Hansen,3,5,29.42,7.94,1.588,269.8844324
+1235,336,Rubus palmensis A. Hansen,3,5,36.24,9.5,1.9,262.1412804
+1685,336,Rubus palmensis A. Hansen,3,,,,,
+2135,336,Rubus palmensis A. Hansen,3,,,,,
+1236,337,Rumex bucephalophorus L.,3,20,0.41,0.05,0.0025,121.9512195
+786,337,Rumex bucephalophorus L.,3,16,0.54,0.04,0.0025,74.07407407
+336,337,Rumex bucephalophorus L.,3,30,1.04,0.07,0.002333333,67.30769231
+1686,337,Rumex bucephalophorus L.,3,,,,,
+2136,337,Rumex bucephalophorus L.,3,,,,,
+337,338,Rumex lunaria L.,3,15,3.27,1.35,0.09,412.8440367
+787,338,Rumex lunaria L.,3,10,13.04,1.68,0.168,128.8343558
+1237,338,Rumex lunaria L.,3,10,15.58,1.86,0.186,119.3838254
+1687,338,Rumex lunaria L.,3,,,,,
+2137,338,Rumex lunaria L.,3,,,,,
+338,339,Rumex maderensis Lowe,3,5,5.78,0.69,0.138,119.3771626
+788,339,Rumex maderensis Lowe,3,5,7.81,0.81,0.162,103.7131882
+1238,339,Rumex maderensis Lowe,3,10,17.23,2.63,0.263,152.6407429
+1688,339,Rumex maderensis Lowe,3,,,,,
+2138,339,Rumex maderensis Lowe,3,,,,,
+339,340,Ruppia maritima L.,,,,,,
+789,340,Ruppia maritima L.,,,,,,
+1239,340,Ruppia maritima L.,,,,,,
+1689,340,Ruppia maritima L.,,,,,,
+2139,340,Ruppia maritima L.,,,,,,
+790,341,Ruta pinnata L. f.,3,10,3.19,1.09,0.109,341.69279
+1240,341,Ruta pinnata L. f.,3,10,2.99,0.95,0.095,317.7257525
+340,341,Ruta pinnata L. f.,3,10,4.1,0.97,0.097,236.5853659
+1690,341,Ruta pinnata L. f.,3,,,,,
+2140,341,Ruta pinnata L. f.,3,,,,,
+791,342,Salix canariensis C. Sm. ex Link,2,10,5.71,2.19,0.219,383.5376532
+341,342,Salix canariensis C. Sm. ex Link,2,15,3.59,1.59,0.106,442.8969359
+1241,342,Salix canariensis C. Sm. ex Link,2,,,,,
+1691,342,Salix canariensis C. Sm. ex Link,2,,,,,
+2141,342,Salix canariensis C. Sm. ex Link,2,,,,,
+342,343,Salsola divaricata Masson ex Link in Buch,3,20,1.26,0.23,0.0115,182.5396825
+1242,343,Salsola divaricata Masson ex Link in Buch,3,20,1.03,0.15,0.0075,145.631068
+792,343,Salsola divaricata Masson ex Link in Buch,3,30,2.03,0.2,0.006666667,98.52216749
+1692,343,Salsola divaricata Masson ex Link in Buch,3,,,,,
+2142,343,Salsola divaricata Masson ex Link in Buch,3,,,,,
+343,344,Salsola vermiculata L.,,,,,,
+793,344,Salsola vermiculata L.,,,,,,
+1243,344,Salsola vermiculata L.,,,,,,
+1693,344,Salsola vermiculata L.,,,,,,
+2143,344,Salsola vermiculata L.,,,,,,
+1244,345,Salvia aegyptiaca L.,3,20,0.29,0.06,0.003,206.8965517
+344,345,Salvia aegyptiaca L.,3,50,0.96,0.27,0.0054,281.25
+794,345,Salvia aegyptiaca L.,3,50,1.1,0.29,0.0058,263.6363636
+1694,345,Salvia aegyptiaca L.,3,,,,,
+2144,345,Salvia aegyptiaca L.,3,,,,,
+1245,346,Salvia broussonetii Benth.,3,5,59.6,15.91,3.182,266.9463087
+345,346,Salvia broussonetii Benth.,3,5,31.58,8.13,1.626,257.4414186
+795,346,Salvia broussonetii Benth.,3,5,51.94,,0,0
+1695,346,Salvia broussonetii Benth.,3,,,,,
+2145,346,Salvia broussonetii Benth.,3,,,,,
+796,347,Salvia canariensis L.,3,5,26.89,5.94,1.188,220.8999628
+1246,347,Salvia canariensis L.,3,6,23.01,5.48,0.913333333,238.1573229
+346,347,Salvia canariensis L.,3,10,20.25,5.61,0.561,277.037037
+1696,347,Salvia canariensis L.,3,,,,,
+2146,347,Salvia canariensis L.,3,,,,,
+797,348,Sambucus nigra L,2,5,26.21,5.8,1.16,221.2895841
+347,348,Sambucus nigra L,2,5,23.59,3.78,0.756,160.2373887
+1247,348,Sambucus nigra L,2,,,,,
+1697,348,Sambucus nigra L,2,,,,,
+2147,348,Sambucus nigra L,2,,,,,
+348,349,Sanguisorba megacarpa (Lowe) Muñoz Garm. & C. Navarro,3,10,2.52,0.65,0.065,257.9365079
+1248,349,Sanguisorba megacarpa (Lowe) Muñoz Garm. & C. Navarro,3,10,3.38,0.79,0.079,233.7278107
+798,349,Sanguisorba megacarpa (Lowe) Muñoz Garm. & C. Navarro,3,20,1.8,0.56,0.028,311.1111111
+1698,349,Sanguisorba megacarpa (Lowe) Muñoz Garm. & C. Navarro,3,,,,,
+2148,349,Sanguisorba megacarpa (Lowe) Muñoz Garm. & C. Navarro,3,,,,,
+349,350,Schizogyne glaberrima DC.,,,,,,
+799,350,Schizogyne glaberrima DC.,,,,,,
+1249,350,Schizogyne glaberrima DC.,,,,,,
+1699,350,Schizogyne glaberrima DC.,,,,,,
+2149,350,Schizogyne glaberrima DC.,,,,,,
+350,351,Schizogyne sericea (L. f.) DC.,3,10,1.51,0.2,0.02,132.4503311
+800,351,Schizogyne sericea (L. f.) DC.,3,20,0.61,0.12,0.006,196.7213115
+1250,351,Schizogyne sericea (L. f.) DC.,3,20,1.04,0.18,0.009,173.0769231
+1700,351,Schizogyne sericea (L. f.) DC.,3,,,,,
+2150,351,Schizogyne sericea (L. f.) DC.,3,,,,,
+351,352,Scilla dasyantha Webb & Berthel.,,,,,,
+801,352,Scilla dasyantha Webb & Berthel.,,,,,,
+1251,352,Scilla dasyantha Webb & Berthel.,,,,,,
+1701,352,Scilla dasyantha Webb & Berthel.,,,,,,
+2151,352,Scilla dasyantha Webb & Berthel.,,,,,,
+802,353,Scilla haemorrhoidalis Webb & Berthel.,3,2,4.28,0.24,0.12,56.07476636
+1252,353,Scilla haemorrhoidalis Webb & Berthel.,3,3,1.66,0.09,0.03,54.21686747
+352,353,Scilla haemorrhoidalis Webb & Berthel.,3,10,20.61,1.42,0.142,68.89859292
+1702,353,Scilla haemorrhoidalis Webb & Berthel.,3,,,,,
+2152,353,Scilla haemorrhoidalis Webb & Berthel.,3,,,,,
+353,354,Scilla latifolia Willd.,,,,,,
+803,354,Scilla latifolia Willd.,,,,,,
+1253,354,Scilla latifolia Willd.,,,,,,
+1703,354,Scilla latifolia Willd.,,,,,,
+2153,354,Scilla latifolia Willd.,,,,,,
+1254,355,Scrophularia arguta Sol. ex Aiton,3,8,0.91,0.11,0.01375,120.8791209
+354,355,Scrophularia arguta Sol. ex Aiton,3,8,1.37,0.16,0.02,116.7883212
+804,355,Scrophularia arguta Sol. ex Aiton,3,8,0.83,0.08,0.01,96.38554217
+1704,355,Scrophularia arguta Sol. ex Aiton,3,,,,,
+2154,355,Scrophularia arguta Sol. ex Aiton,3,,,,,
+1255,356,Scrophularia glabrata Aiton,3,10,1.4,0.44,0.044,314.2857143
+805,356,Scrophularia glabrata Aiton,3,10,2.08,0.56,0.056,269.2307692
+355,356,Scrophularia glabrata Aiton,3,10,1.12,0.29,0.029,258.9285714
+1705,356,Scrophularia glabrata Aiton,3,,,,,
+2155,356,Scrophularia glabrata Aiton,3,,,,,
+806,357,Scrophularia smithii Hornem.,3,5,12.29,1.75,0.35,142.3921888
+1256,357,Scrophularia smithii Hornem.,3,5,13.92,1.94,0.388,139.3678161
+356,357,Scrophularia smithii Hornem.,3,10,24.85,3,0.3,120.7243461
+1706,357,Scrophularia smithii Hornem.,3,,,,,
+2156,357,Scrophularia smithii Hornem.,3,,,,,
+1257,358,Semele androgyna (L.) Kunth,3,10,7.13,2.12,0.212,297.3352034
+807,358,Semele androgyna (L.) Kunth,3,10,12.47,3.49,0.349,279.8716921
+357,358,Semele androgyna (L.) Kunth,3,20,13.47,4.09,0.2045,303.6377134
+1707,358,Semele androgyna (L.) Kunth,3,,,,,
+2157,358,Semele androgyna (L.) Kunth,3,,,,,
+1258,359,Senecio palmensis (C. Sm. in Buch) Link,3,10,1.49,0.55,0.055,369.1275168
+358,359,Senecio palmensis (C. Sm. in Buch) Link,3,10,1.51,0.47,0.047,311.2582781
+808,359,Senecio palmensis (C. Sm. in Buch) Link,3,10,1.36,0.34,0.034,250
+1708,359,Senecio palmensis (C. Sm. in Buch) Link,3,,,,,
+2158,359,Senecio palmensis (C. Sm. in Buch) Link,3,,,,,
+359,360,Senecio teneriffae Sch. Bip.,2,10,1.48,0.19,0.019,128.3783784
+809,360,Senecio teneriffae Sch. Bip.,2,10,2.57,0.27,0.027,105.0583658
+1259,360,Senecio teneriffae Sch. Bip.,2,,,,,
+1709,360,Senecio teneriffae Sch. Bip.,2,,,,,
+2159,360,Senecio teneriffae Sch. Bip.,2,,,,,
+360,361,"Serapias mascaensis H. Kretzschmar, G. Kretzschmar & Kreutz",,,,,,
+810,361,"Serapias mascaensis H. Kretzschmar, G. Kretzschmar & Kreutz",,,,,,
+1260,361,"Serapias mascaensis H. Kretzschmar, G. Kretzschmar & Kreutz",,,,,,
+1710,361,"Serapias mascaensis H. Kretzschmar, G. Kretzschmar & Kreutz",,,,,,
+2160,361,"Serapias mascaensis H. Kretzschmar, G. Kretzschmar & Kreutz",,,,,,
+1261,362,Seseli webbii Coss.,3,3,10.12,1.12,0.373333333,110.6719368
+361,362,Seseli webbii Coss.,3,10,1.26,0.16,0.016,126.984127
+811,362,Seseli webbii Coss.,3,10,2.84,0.35,0.035,123.2394366
+1711,362,Seseli webbii Coss.,3,,,,,
+2161,362,Seseli webbii Coss.,3,,,,,
+362,363,Sideritis brevicaulis Mend.-Heuer,2,10,1.92,0.79,0.079,411.4583333
+812,363,Sideritis brevicaulis Mend.-Heuer,2,10,2.51,0.74,0.074,294.8207171
+1262,363,Sideritis brevicaulis Mend.-Heuer,2,,,,,
+1712,363,Sideritis brevicaulis Mend.-Heuer,2,,,,,
+2162,363,Sideritis brevicaulis Mend.-Heuer,2,,,,,
+1263,364,Sideritis canariensis L.,3,4,3.5,0.76,0.19,217.1428571
+813,364,Sideritis canariensis L.,3,6,12.27,2.35,0.391666667,191.5240424
+363,364,Sideritis canariensis L.,3,10,5.87,1.64,0.164,279.3867121
+1713,364,Sideritis canariensis L.,3,,,,,
+2163,364,Sideritis canariensis L.,3,,,,,
+814,365,Sideritis cretica L.,3,10,3.54,1.41,0.141,398.3050847
+1264,365,Sideritis cretica L.,3,10,2.14,0.69,0.069,322.4299065
+364,365,Sideritis cretica L.,3,10,11.02,2.49,0.249,225.9528131
+1714,365,Sideritis cretica L.,3,,,,,
+2164,365,Sideritis cretica L.,3,,,,,
+365,366,Sideritis cystosiphon Svent.,,,,,,
+815,366,Sideritis cystosiphon Svent.,,,,,,
+1265,366,Sideritis cystosiphon Svent.,,,,,,
+1715,366,Sideritis cystosiphon Svent.,,,,,,
+2165,366,Sideritis cystosiphon Svent.,,,,,,
+816,367,Sideritis dendro-chahorra Bolle,3,10,5.18,1.58,0.158,305.019305
+1266,367,Sideritis dendro-chahorra Bolle,3,10,6.2,1.74,0.174,280.6451613
+366,367,Sideritis dendro-chahorra Bolle,3,20,4.39,1.69,0.0845,384.9658314
+1716,367,Sideritis dendro-chahorra Bolle,3,,,,,
+2166,367,Sideritis dendro-chahorra Bolle,3,,,,,
+1267,368,Sideritis eriocephala Marrero Rodr. ex Negrín & P. Pérez,3,10,1.8,0.62,0.062,344.4444444
+367,368,Sideritis eriocephala Marrero Rodr. ex Negrín & P. Pérez,3,10,2.04,0.69,0.069,338.2352941
+817,368,Sideritis eriocephala Marrero Rodr. ex Negrín & P. Pérez,3,20,4.62,2.17,0.1085,469.6969697
+1717,368,Sideritis eriocephala Marrero Rodr. ex Negrín & P. Pérez,3,,,,,
+2167,368,Sideritis eriocephala Marrero Rodr. ex Negrín & P. Pérez,3,,,,,
+818,369,Sideritis infernalis Bolle,3,10,1.64,0.56,0.056,341.4634146
+1268,369,Sideritis infernalis Bolle,3,10,1.59,0.54,0.054,339.6226415
+368,369,Sideritis infernalis Bolle,3,10,3.4,1.12,0.112,329.4117647
+1718,369,Sideritis infernalis Bolle,3,,,,,
+2168,369,Sideritis infernalis Bolle,3,,,,,
+1269,370,Sideritis kuegleriana Bornm.,3,6,2.58,1.33,0.221666667,515.503876
+369,370,Sideritis kuegleriana Bornm.,3,10,5.67,1.39,0.139,245.1499118
+819,370,Sideritis kuegleriana Bornm.,3,10,8.78,1.85,0.185,210.7061503
+1719,370,Sideritis kuegleriana Bornm.,3,,,,,
+2169,370,Sideritis kuegleriana Bornm.,3,,,,,
+370,371,Sideritis lotsyi (Pit.) Bornm.,,,,,,
+820,371,Sideritis lotsyi (Pit.) Bornm.,,,,,,
+1270,371,Sideritis lotsyi (Pit.) Bornm.,,,,,,
+1720,371,Sideritis lotsyi (Pit.) Bornm.,,,,,,
+2170,371,Sideritis lotsyi (Pit.) Bornm.,,,,,,
+1271,372,Sideritis macrostachys Poir.,3,5,5.34,1.24,0.248,232.2097378
+821,372,Sideritis macrostachys Poir.,3,5,8.79,1.86,0.372,211.6040956
+371,372,Sideritis macrostachys Poir.,3,20,28.63,7.24,0.362,252.8815927
+1721,372,Sideritis macrostachys Poir.,3,,,,,
+2171,372,Sideritis macrostachys Poir.,3,,,,,
+885,436,Sideritis mascaensis ,2,20,1.78,1.04,0.052,584.2696629
+435,436,Sideritis mascaensis ,2,10,2.81,0.35,0.035,124.5551601
+1335,436,Sideritis mascaensis ,2,,,,,
+1785,436,Sideritis mascaensis ,2,,,,,
+2235,436,Sideritis mascaensis ,2,,,,,
+822,373,Sideritis nervosa (Christ) Linding.,3,10,5.55,1.91,0.191,344.1441441
+372,373,Sideritis nervosa (Christ) Linding.,3,10,4.03,1.37,0.137,339.9503722
+1272,373,Sideritis nervosa (Christ) Linding.,3,10,2.59,0.84,0.084,324.3243243
+1722,373,Sideritis nervosa (Christ) Linding.,3,,,,,
+2172,373,Sideritis nervosa (Christ) Linding.,3,,,,,
+823,374,Sideritis oroteneriffae Negrín & P. Pérez,2,10,3.02,0.94,0.094,311.2582781
+1273,374,Sideritis oroteneriffae Negrín & P. Pérez,2,10,4.89,0.72,0.072,147.2392638
+373,374,Sideritis oroteneriffae Negrín & P. Pérez,2,,,,,
+1723,374,Sideritis oroteneriffae Negrín & P. Pérez,2,,,,,
+2173,374,Sideritis oroteneriffae Negrín & P. Pérez,2,,,,,
+1336,437,Sideritis santosii,4,10,2.18,0.57,0.057,261.4678899
+886,437,Sideritis santosii,4,10,2.28,0.59,0.059,258.7719298
+436,437,Sideritis santosii,4,10,1.88,0.46,0.046,244.6808511
+1786,437,Sideritis santosii,4,20,1.7,0.67,0.0335,394.1176471
+2236,437,Sideritis santosii,4,,,,,
+374,375,Sideritis soluta Clos,3,10,1.13,0.41,0.041,362.8318584
+824,375,Sideritis soluta Clos,3,10,1.48,0.52,0.052,351.3513514
+1274,375,Sideritis soluta Clos,3,10,3.13,0.9,0.09,287.5399361
+1724,375,Sideritis soluta Clos,3,,,,,
+2174,375,Sideritis soluta Clos,3,,,,,
+375,376,Sideroxylon mirmulano R. Br. in Buch,1,14,16.33,7.65,0.546428571,468.4629516
+825,376,Sideroxylon mirmulano R. Br. in Buch,1,,,,,
+1275,376,Sideroxylon mirmulano R. Br. in Buch,1,,,,,
+1725,376,Sideroxylon mirmulano R. Br. in Buch,1,,,,,
+2175,376,Sideroxylon mirmulano R. Br. in Buch,1,,,,,
+376,377,Silene berthelotiana Webb,3,10,2.48,0.55,0.055,221.7741935
+1276,377,Silene berthelotiana Webb,3,20,1.27,0.4,0.02,314.9606299
+826,377,Silene berthelotiana Webb,3,20,1.22,0.32,0.016,262.295082
+1726,377,Silene berthelotiana Webb,3,,,,,
+2176,377,Silene berthelotiana Webb,3,,,,,
+1277,378,Silene lagunensis C. Sm. ex Christ,3,10,1.67,0.29,0.029,173.6526946
+827,378,Silene lagunensis C. Sm. ex Christ,3,10,2.8,0.46,0.046,164.2857143
+377,378,Silene lagunensis C. Sm. ex Christ,3,10,2.52,0.33,0.033,130.952381
+1727,378,Silene lagunensis C. Sm. ex Christ,3,,,,,
+2177,378,Silene lagunensis C. Sm. ex Christ,3,,,,,
+378,379,Silene nocteolens Webb & Berthel.,1,7,1.34,0.19,0.027142857,141.7910448
+828,379,Silene nocteolens Webb & Berthel.,1,,,,,
+1278,379,Silene nocteolens Webb & Berthel.,1,,,,,
+1728,379,Silene nocteolens Webb & Berthel.,1,,,,,
+2178,379,Silene nocteolens Webb & Berthel.,1,,,,,
+829,380,Smilax aspera L.,3,10,16.08,5.97,0.597,371.2686567
+1279,380,Smilax aspera L.,3,10,8.04,2.49,0.249,309.7014925
+379,380,Smilax aspera L.,3,20,48.09,17.3,0.865,359.7421501
+1729,380,Smilax aspera L.,3,,,,,
+2179,380,Smilax aspera L.,3,,,,,
+830,381,Smilax canariensis Willd.,3,5,21.76,6.89,1.378,316.6360294
+1280,381,Smilax canariensis Willd.,3,5,11.16,3.48,0.696,311.827957
+380,381,Smilax canariensis Willd.,3,10,19.41,6.05,0.605,311.6950026
+1730,381,Smilax canariensis Willd.,3,,,,,
+2180,381,Smilax canariensis Willd.,3,,,,,
+381,382,Solanum vespertilio Aiton,4,10,15.19,5.56,0.556,366.0302831
+1281,382,Solanum vespertilio Aiton,4,10,3.87,1.21,0.121,312.6614987
+1731,382,Solanum vespertilio Aiton,4,10,6.29,1.92,0.192,305.2464229
+831,382,Solanum vespertilio Aiton,4,10,3.14,0.66,0.066,210.1910828
+2181,382,Solanum vespertilio Aiton,1,,,,,
+1282,383,Sonchus acaulis Dum. Cours.,3,2,157.82,13.61,6.805,86.23748574
+832,383,Sonchus acaulis Dum. Cours.,3,3,69.15,6.12,2.04,88.5032538
+382,383,Sonchus acaulis Dum. Cours.,3,5,214.65,18.91,3.782,88.09690193
+1732,383,Sonchus acaulis Dum. Cours.,3,,,,,
+2182,383,Sonchus acaulis Dum. Cours.,3,,,,,
+383,384,Sonchus canariensis (Sch. Bip.) Boulos,3,5,12.9,3.17,0.634,245.7364341
+833,384,Sonchus canariensis (Sch. Bip.) Boulos,3,5,14.13,3.44,0.688,243.4536447
+1283,384,Sonchus canariensis (Sch. Bip.) Boulos,3,5,5.32,1,0.2,187.9699248
+1733,384,Sonchus canariensis (Sch. Bip.) Boulos,3,,,,,
+2183,384,Sonchus canariensis (Sch. Bip.) Boulos,3,,,,,
+1734,385,Sonchus congestus Willd.,4,10,12.16,1.39,0.139,114.3092105
+1284,385,Sonchus congestus Willd.,4,10,16.93,1.87,0.187,110.4548139
+834,385,Sonchus congestus Willd.,4,10,91.91,9.06,0.906,98.57469263
+384,385,Sonchus congestus Willd.,4,20,49.5,6.25,0.3125,126.2626263
+2184,385,Sonchus congestus Willd.,4,,,,,
+385,386,Sonchus fauces-orci Knoche,3,4,2.3,0.43,0.1075,186.9565217
+835,386,Sonchus fauces-orci Knoche,3,5,7.68,1.4,0.28,182.2916667
+1285,386,Sonchus fauces-orci Knoche,3,8,4.07,0.72,0.09,176.9041769
+1735,386,Sonchus fauces-orci Knoche,3,,,,,
+2185,386,Sonchus fauces-orci Knoche,3,,,,,
+1286,387,Sonchus gummifer Link,4,5,18.82,3.17,0.634,168.4378321
+836,387,Sonchus gummifer Link,4,5,22.88,3.61,0.722,157.7797203
+1736,387,Sonchus gummifer Link,4,5,15.35,2.01,0.402,130.9446254
+386,387,Sonchus gummifer Link,4,10,45,7.84,0.784,174.2222222
+2186,387,Sonchus gummifer Link,4,,,,,
+1287,388,Sonchus radicatus Aiton,3,10,13.86,1.48,0.148,106.7821068
+837,388,Sonchus radicatus Aiton,3,10,22.76,1.94,0.194,85.23725835
+387,388,Sonchus radicatus Aiton,3,20,136.53,14.84,0.742,108.6940599
+1737,388,Sonchus radicatus Aiton,3,,,,,
+2187,388,Sonchus radicatus Aiton,3,,,,,
+1288,389,Sonchus tectifolius Svent.,3,5,18.22,3.77,0.754,206.9154775
+838,389,Sonchus tectifolius Svent.,3,5,35,6.04,1.208,172.5714286
+388,389,Sonchus tectifolius Svent.,3,10,33.09,6.12,0.612,184.950136
+1738,389,Sonchus tectifolius Svent.,3,,,,,
+2188,389,Sonchus tectifolius Svent.,3,,,,,
+389,390,Sonchus tuberifer Svent.,,,,,,
+839,390,Sonchus tuberifer Svent.,,,,,,
+1289,390,Sonchus tuberifer Svent.,,,,,,
+1739,390,Sonchus tuberifer Svent.,,,,,,
+2189,390,Sonchus tuberifer Svent.,,,,,,
+390,391,Spartocytisus filipes Webb & Berthel.,3,20,0.28,0.09,0.0045,321.4285714
+840,391,Spartocytisus filipes Webb & Berthel.,3,20,0.34,0.08,0.004,235.2941176
+1290,391,Spartocytisus filipes Webb & Berthel.,3,30,0.2,0.04,0.001333333,200
+1740,391,Spartocytisus filipes Webb & Berthel.,3,,,,,
+2190,391,Spartocytisus filipes Webb & Berthel.,3,,,,,
+841,392,Spartocytisus supranubius (L. f.) Christ ex G. Kunkel,3,10,6.43,3.3,0.33,513.2192846
+391,392,Spartocytisus supranubius (L. f.) Christ ex G. Kunkel,3,10,5.31,2.43,0.243,457.6271186
+1291,392,Spartocytisus supranubius (L. f.) Christ ex G. Kunkel,3,,,,,
+1741,392,Spartocytisus supranubius (L. f.) Christ ex G. Kunkel,3,,,,,
+2191,392,Spartocytisus supranubius (L. f.) Christ ex G. Kunkel,3,,,,,
+842,393,Stachys germanica L.,3,10,12.14,2.33,0.233,191.9275124
+392,393,Stachys germanica L.,3,10,9.15,1.59,0.159,173.7704918
+1292,393,Stachys germanica L.,3,10,16.85,2.81,0.281,166.7655786
+1742,393,Stachys germanica L.,3,,,,,
+2192,393,Stachys germanica L.,3,,,,,
+393,394,Stemmacantha cynaroides (C. Sm. in Buch) Dittrich,,,,,,
+843,394,Stemmacantha cynaroides (C. Sm. in Buch) Dittrich,,,,,,
+1293,394,Stemmacantha cynaroides (C. Sm. in Buch) Dittrich,,,,,,
+1743,394,Stemmacantha cynaroides (C. Sm. in Buch) Dittrich,,,,,,
+2193,394,Stemmacantha cynaroides (C. Sm. in Buch) Dittrich,,,,,,
+394,395,Suaeda maritima (L.) Dumort.,,,,,,
+844,395,Suaeda maritima (L.) Dumort.,,,,,,
+1294,395,Suaeda maritima (L.) Dumort.,,,,,,
+1744,395,Suaeda maritima (L.) Dumort.,,,,,,
+2194,395,Suaeda maritima (L.) Dumort.,,,,,,
+395,396,Suaeda mollis Delile,,,,,,
+845,396,Suaeda mollis Delile,,,,,,
+1295,396,Suaeda mollis Delile,,,,,,
+1745,396,Suaeda mollis Delile,,,,,,
+2195,396,Suaeda mollis Delile,,,,,,
+396,397,Suaeda vera Forssk. ex J. F. Gmel.,3,40,0.8,0.09,0.00225,112.5
+846,397,Suaeda vera Forssk. ex J. F. Gmel.,3,50,1.08,0.11,0.0022,101.8518519
+1296,397,Suaeda vera Forssk. ex J. F. Gmel.,3,100,1.51,0.3,0.003,198.6754967
+1746,397,Suaeda vera Forssk. ex J. F. Gmel.,3,,,,,
+2196,397,Suaeda vera Forssk. ex J. F. Gmel.,3,,,,,
+397,398,Tamarix africana Poir.,,,,,,
+847,398,Tamarix africana Poir.,,,,,,
+1297,398,Tamarix africana Poir.,,,,,,
+1747,398,Tamarix africana Poir.,,,,,,
+2197,398,Tamarix africana Poir.,,,,,,
+398,399,Tamarix canariensis Willd.,3,,,,,
+848,399,Tamarix canariensis Willd.,3,,,,,
+1298,399,Tamarix canariensis Willd.,3,,,,,
+1748,399,Tamarix canariensis Willd.,3,,,,,
+2198,399,Tamarix canariensis Willd.,3,,,,,
+399,400,Tamus edulis Lowe,1,10,7.31,0.92,0.092,125.8549932
+849,400,Tamus edulis Lowe,1,,,,,
+1299,400,Tamus edulis Lowe,1,,,,,
+1749,400,Tamus edulis Lowe,1,,,,,
+2199,400,Tamus edulis Lowe,1,,,,,
+1750,401,Teline canariensis (L.) Webb & Berthel.,3,70,0.44,0.2,0.002857143,454.5454545
+1300,401,Teline canariensis (L.) Webb & Berthel.,3,60,0.36,0.12,0.002,333.3333333
+850,401,Teline canariensis (L.) Webb & Berthel.,3,100,0.47,0.17,0.0017,361.7021277
+400,401,Teline canariensis (L.) Webb & Berthel.,3,,,,,
+2200,401,Teline canariensis (L.) Webb & Berthel.,3,,,,,
+401,402,Teline osyrioides (Svent.) P. E. Gibbs & Dingwall,2,100,0.6,0.24,0.0024,400
+851,402,Teline osyrioides (Svent.) P. E. Gibbs & Dingwall,2,100,0.16,0.05,0.0005,312.5
+1301,402,Teline osyrioides (Svent.) P. E. Gibbs & Dingwall,2,,,,,
+1751,402,Teline osyrioides (Svent.) P. E. Gibbs & Dingwall,2,,,,,
+2201,402,Teline osyrioides (Svent.) P. E. Gibbs & Dingwall,2,,,,,
+446,447,Teline osyrioides ssp. sericea,1,50,0.54,0.18,0.0036,333.3333333
+896,447,Teline osyrioides ssp. sericea,1,,,,,
+1346,447,Teline osyrioides ssp. sericea,1,,,,,
+1796,447,Teline osyrioides ssp. sericea,1,,,,,
+2246,447,Teline osyrioides ssp. sericea,1,,,,,
+402,403,Teline pallida (Poir.) G. Kunkel,1,20,1.58,0.42,0.021,265.8227848
+852,403,Teline pallida (Poir.) G. Kunkel,1,,,,,
+1302,403,Teline pallida (Poir.) G. Kunkel,1,,,,,
+1752,403,Teline pallida (Poir.) G. Kunkel,1,,,,,
+2202,403,Teline pallida (Poir.) G. Kunkel,1,,,,,
+403,404,Teline salsoloides del Arco & Acebes,,,,,,
+853,404,Teline salsoloides del Arco & Acebes,,,,,,
+1303,404,Teline salsoloides del Arco & Acebes,,,,,,
+1753,404,Teline salsoloides del Arco & Acebes,,,,,,
+2203,404,Teline salsoloides del Arco & Acebes,,,,,,
+854,405,Teline stenopetala (Webb & Berthel.) Webb & Berthel.,2,10,1.41,0.44,0.044,312.0567376
+404,405,Teline stenopetala (Webb & Berthel.) Webb & Berthel.,2,25,1.91,0.71,0.0284,371.7277487
+1304,405,Teline stenopetala (Webb & Berthel.) Webb & Berthel.,2,,,,,
+1754,405,Teline stenopetala (Webb & Berthel.) Webb & Berthel.,2,,,,,
+2204,405,Teline stenopetala (Webb & Berthel.) Webb & Berthel.,2,,,,,
+855,406,Tetraena fontanesii (Webb & Berthel.) Beier & Thulin,3,10,4.75,0.48,0.048,101.0526316
+1305,406,Tetraena fontanesii (Webb & Berthel.) Beier & Thulin,3,20,3.64,0.38,0.019,104.3956044
+405,406,Tetraena fontanesii (Webb & Berthel.) Beier & Thulin,3,50,5.67,0.69,0.0138,121.6931217
+1755,406,Tetraena fontanesii (Webb & Berthel.) Beier & Thulin,3,,,,,
+2205,406,Tetraena fontanesii (Webb & Berthel.) Beier & Thulin,3,,,,,
+856,407,Teucrium heterophyllum L’Hér.,3,10,2.15,0.65,0.065,302.3255814
+1306,407,Teucrium heterophyllum L’Hér.,3,10,2.66,0.8,0.08,300.7518797
+406,407,Teucrium heterophyllum L’Hér.,3,20,1.88,0.65,0.0325,345.7446809
+1756,407,Teucrium heterophyllum L’Hér.,3,,,,,
+2206,407,Teucrium heterophyllum L’Hér.,3,,,,,
+1307,408,Tinguarra cervariaefolia (DC.) Parl.,3,3,12.26,2.33,0.776666667,190.0489396
+407,408,Tinguarra cervariaefolia (DC.) Parl.,3,5,38.9,7.99,1.598,205.3984576
+857,408,Tinguarra cervariaefolia (DC.) Parl.,3,6,40.82,8.33,1.388333333,204.066634
+1757,408,Tinguarra cervariaefolia (DC.) Parl.,3,,,,,
+2207,408,Tinguarra cervariaefolia (DC.) Parl.,3,,,,,
+1308,409,Todaroa aurea Parl.,3,6,6.73,1.63,0.271666667,242.1991085
+858,409,Todaroa aurea Parl.,3,10,16.46,3.59,0.359,218.1044957
+408,409,Todaroa aurea Parl.,3,10,30.35,6.13,0.613,201.9769357
+1758,409,Todaroa aurea Parl.,3,,,,,
+2208,409,Todaroa aurea Parl.,3,,,,,
+409,410,Todaroa montana Webb ex Christ,3,3,80.34,15.53,5.176666667,193.3034603
+1309,410,Todaroa montana Webb ex Christ,3,3,77.97,13.92,4.64,178.5302039
+859,410,Todaroa montana Webb ex Christ,3,3,118.35,19.65,6.55,166.0329531
+1759,410,Todaroa montana Webb ex Christ,3,,,,,
+2209,410,Todaroa montana Webb ex Christ,3,,,,,
+410,411,Tolpis crassiuscula Svent.,,,,,,
+860,411,Tolpis crassiuscula Svent.,,,,,,
+1310,411,Tolpis crassiuscula Svent.,,,,,,
+1760,411,Tolpis crassiuscula Svent.,,,,,,
+2210,411,Tolpis crassiuscula Svent.,,,,,,
+411,412,Tolpis glabrescens Kämmer,,,,,,
+861,412,Tolpis glabrescens Kämmer,,,,,,
+1311,412,Tolpis glabrescens Kämmer,,,,,,
+1761,412,Tolpis glabrescens Kämmer,,,,,,
+2211,412,Tolpis glabrescens Kämmer,,,,,,
+412,413,Tolpis laciniata (Sch. Bip. ex Webb & Berthel.) Webb,,,,,,
+862,413,Tolpis laciniata (Sch. Bip. ex Webb & Berthel.) Webb,,,,,,
+1312,413,Tolpis laciniata (Sch. Bip. ex Webb & Berthel.) Webb,,,,,,
+1762,413,Tolpis laciniata (Sch. Bip. ex Webb & Berthel.) Webb,,,,,,
+2212,413,Tolpis laciniata (Sch. Bip. ex Webb & Berthel.) Webb,,,,,,
+1313,414,Tolpis lagopoda C. Sm. in Buch,2,10,13.34,1.43,0.143,107.1964018
+863,414,Tolpis lagopoda C. Sm. in Buch,2,10,1.98,0.2,0.02,101.010101
+413,414,Tolpis lagopoda C. Sm. in Buch,2,,,,,
+1763,414,Tolpis lagopoda C. Sm. in Buch,2,,,,,
+2213,414,Tolpis lagopoda C. Sm. in Buch,2,,,,,
+414,415,Tolpis webbii Sch. Bip. ex Webb & Berthel.,3,14,5.7,0.84,0.06,147.3684211
+1314,415,Tolpis webbii Sch. Bip. ex Webb & Berthel.,3,15,5.54,0.69,0.046,124.5487365
+864,415,Tolpis webbii Sch. Bip. ex Webb & Berthel.,3,15,7.36,0.9,0.06,122.2826087
+1764,415,Tolpis webbii Sch. Bip. ex Webb & Berthel.,3,,,,,
+2214,415,Tolpis webbii Sch. Bip. ex Webb & Berthel.,3,,,,,
+415,416,Traganum moquinii Webb ex Moq. in DC.,,,,,,
+865,416,Traganum moquinii Webb ex Moq. in DC.,,,,,,
+1315,416,Traganum moquinii Webb ex Moq. in DC.,,,,,,
+1765,416,Traganum moquinii Webb ex Moq. in DC.,,,,,,
+2215,416,Traganum moquinii Webb ex Moq. in DC.,,,,,,
+2216,417,Tricholaena teneriffae (L. f.) Link,5,10,0.21,0.08,0.008,380.952381
+1766,417,Tricholaena teneriffae (L. f.) Link,5,10,0.19,0.07,0.007,368.4210526
+866,417,Tricholaena teneriffae (L. f.) Link,5,10,0.2,0.07,0.007,350
+1316,417,Tricholaena teneriffae (L. f.) Link,5,10,0.21,0.07,0.007,333.3333333
+416,417,Tricholaena teneriffae (L. f.) Link,5,20,0.29,0.09,0.0045,310.3448276
+417,418,Trigonella stellata Forssk.,,,,,,
+867,418,Trigonella stellata Forssk.,,,,,,
+1317,418,Trigonella stellata Forssk.,,,,,,
+1767,418,Trigonella stellata Forssk.,,,,,,
+2217,418,Trigonella stellata Forssk.,,,,,,
+418,419,Urtica morifolia Poir.,1,10,10.06,2.54,0.254,252.4850895
+868,419,Urtica morifolia Poir.,1,,,,,
+1318,419,Urtica morifolia Poir.,1,,,,,
+1768,419,Urtica morifolia Poir.,1,,,,,
+2218,419,Urtica morifolia Poir.,1,,,,,
+419,420,Urtica stachyoides Webb & Berthel.,3,10,6.99,1.38,0.138,197.4248927
+1319,420,Urtica stachyoides Webb & Berthel.,3,10,2.02,0.35,0.035,173.2673267
+869,420,Urtica stachyoides Webb & Berthel.,3,10,1.23,0.19,0.019,154.4715447
+1769,420,Urtica stachyoides Webb & Berthel.,3,,,,,
+2219,420,Urtica stachyoides Webb & Berthel.,3,,,,,
+420,421,Viburnum rigidum Vent.,1,10,17.71,7.47,0.747,421.7955957
+870,421,Viburnum rigidum Vent.,1,,,,,
+1320,421,Viburnum rigidum Vent.,1,,,,,
+1770,421,Viburnum rigidum Vent.,1,,,,,
+2220,421,Viburnum rigidum Vent.,1,,,,,
+1321,422,Vicia cirrhosa C. Sm. ex Webb & Berthel.,3,10,2.6,0.83,0.083,319.2307692
+421,422,Vicia cirrhosa C. Sm. ex Webb & Berthel.,3,10,0.58,0.12,0.012,206.8965517
+871,422,Vicia cirrhosa C. Sm. ex Webb & Berthel.,3,30,0.57,0.16,0.005333333,280.7017544
+1771,422,Vicia cirrhosa C. Sm. ex Webb & Berthel.,3,,,,,
+2221,422,Vicia cirrhosa C. Sm. ex Webb & Berthel.,3,,,,,
+422,423,Vicia scandens R. P. Murray,1,10,2.01,0.36,0.036,179.1044776
+872,423,Vicia scandens R. P. Murray,1,,,,,
+1322,423,Vicia scandens R. P. Murray,1,,,,,
+1772,423,Vicia scandens R. P. Murray,1,,,,,
+2222,423,Vicia scandens R. P. Murray,1,,,,,
+1323,424,Vieria laevigata (Brouss. ex Willd.) Webb,3,10,13.81,2.42,0.242,175.2353367
+423,424,Vieria laevigata (Brouss. ex Willd.) Webb,3,10,15.85,2.37,0.237,149.5268139
+873,424,Vieria laevigata (Brouss. ex Willd.) Webb,3,10,3.87,0.47,0.047,121.4470284
+1773,424,Vieria laevigata (Brouss. ex Willd.) Webb,3,,,,,
+2223,424,Vieria laevigata (Brouss. ex Willd.) Webb,3,,,,,
+1324,425,Viola anagae Gilli,3,10,0.97,0.3,0.03,309.2783505
+424,425,Viola anagae Gilli,3,10,1.16,0.3,0.03,258.6206897
+874,425,Viola anagae Gilli,3,10,0.99,0.24,0.024,242.4242424
+1774,425,Viola anagae Gilli,3,,,,,
+2224,425,Viola anagae Gilli,3,,,,,
+447,448,Viola arvensis,3,10,0.25,0.05,0.005,200
+1347,448,Viola arvensis,3,10,0.29,0.04,0.004,137.9310345
+897,448,Viola arvensis,3,10,0.24,0.03,0.003,125
+1797,448,Viola arvensis,3,,,,,
+2247,448,Viola arvensis,3,,,,,
+1325,426,Viola cheiranthifolia Humb. & Bonpl.,3,10,0.74,0.23,0.023,310.8108108
+875,426,Viola cheiranthifolia Humb. & Bonpl.,3,10,0.41,0.1,0.01,243.902439
+425,426,Viola cheiranthifolia Humb. & Bonpl.,3,10,1,0.21,0.021,210
+1775,426,Viola cheiranthifolia Humb. & Bonpl.,3,,,,,
+2225,426,Viola cheiranthifolia Humb. & Bonpl.,3,,,,,
+426,427,Viola kitaibeliana Schult. in Roem. & Schult.,,,,,,
+876,427,Viola kitaibeliana Schult. in Roem. & Schult.,,,,,,
+1326,427,Viola kitaibeliana Schult. in Roem. & Schult.,,,,,,
+1776,427,Viola kitaibeliana Schult. in Roem. & Schult.,,,,,,
+2226,427,Viola kitaibeliana Schult. in Roem. & Schult.,,,,,,
+427,428,Viola odorata L.,,,,,,
+877,428,Viola odorata L.,,,,,,
+1327,428,Viola odorata L.,,,,,,
+1777,428,Viola odorata L.,,,,,,
+2227,428,Viola odorata L.,,,,,,
+1328,429,Visnea mocanera L. f.,3,10,4.88,2.74,0.274,561.4754098
+878,429,Visnea mocanera L. f.,3,10,4.24,2.25,0.225,530.6603774
+428,429,Visnea mocanera L. f.,3,10,4.12,1.84,0.184,446.6019417
+1778,429,Visnea mocanera L. f.,3,,,,,
+2228,429,Visnea mocanera L. f.,3,,,,,
+1329,430,Volutaria canariensis Wagenitz,3,10,2.71,0.32,0.032,118.0811808
+429,430,Volutaria canariensis Wagenitz,3,10,4.99,0.51,0.051,102.2044088
+879,430,Volutaria canariensis Wagenitz,3,20,1.5,0.23,0.0115,153.3333333
+1779,430,Volutaria canariensis Wagenitz,3,,,,,
+2229,430,Volutaria canariensis Wagenitz,3,,,,,
+1330,431,Wahlenbergia lobelioides (L. f.) Link,3,15,0.36,0.11,0.007333333,305.5555556
+880,431,Wahlenbergia lobelioides (L. f.) Link,3,20,0.38,0.07,0.0035,184.2105263
+430,431,Wahlenbergia lobelioides (L. f.) Link,3,20,1.1,0.17,0.0085,154.5454545
+1780,431,Wahlenbergia lobelioides (L. f.) Link,3,,,,,
+2230,431,Wahlenbergia lobelioides (L. f.) Link,3,,,,,
+881,432,Withania aristata (Aiton) Pauquy,2,10,12.41,2.67,0.267,215.1490733
+431,432,Withania aristata (Aiton) Pauquy,2,10,6.47,1.19,0.119,183.9258114
+1331,432,Withania aristata (Aiton) Pauquy,2,,,,,
+1781,432,Withania aristata (Aiton) Pauquy,2,,,,,
+2231,432,Withania aristata (Aiton) Pauquy,2,,,,,
