@@ -1,0 +1,432 @@
+IDmaster,Species,Amount of seeds,Seeds dry mass (g),Seeds fresh mass (g),Source of seed mass information,Gran Canaria Botanical Garten Seed Bank ,La Orotava Seed Bank ,Collection date,Amount of seeds Type II,Seeds dry mass (g) Type II (flósculos),Date,Species1
+1,Adenocarpus foliolosus (Aiton) DC.,100,0.42,0.44,La Orotava Seed Bank,,YES,06.07.2017,,,,Adenocarpus foliolosus
+2,Adenocarpus viscosus (Willd.) Webb & Berthel.,100,0.59,0.61,La Orotava Seed Bank,,YES,20.07.2017,,,,Adenocarpus viscosus
+3,Aeonium arboreum (L.) Webb & Berthel.,100,0.0013,,GC seed bank,YES,,,,,12.02.2018,Aeonium arboreum
+4,Aeonium canariense (L.) Webb & Berthel.,200,0.0053,,GC seed bank,YES,,,,,12.02.2018,Aeonium canariense
+5,Aeonium ciliatum (Willd.) Webb & Berthel.,50,0.005,,GC seed bank,YES,,,,,22.01.2018,Aeonium ciliatum
+6,Aeonium cuneatum Webb & Berthel.,200,0.0046,,La Orotava Seed Bank,,YES,,,,01.02.2018,Aeonium cuneatum
+7,Aeonium decorum Webb ex Bolle,200,0.0051,,GC seed bank,YES,,,,,25.01.2018,Aeonium decorum
+8,Aeonium haworthii (Salm-Dyck ex Webb & Berthel.) Webb & Berthel.,200,0.0017,,GC seed bank,YES,,,,,08.02.2018,Aeonium haworthii
+9,Aeonium lindleyi Webb & Berthel.,,,,KEW,,,,,,,Aeonium lindleyi
+10,Aeonium pseudourbicum A. Bañares,200,0.0039,,GC seed bank,YES,,,,,12.02.2018,Aeonium pseudourbicum
+11,Aeonium sedifolium (Webb ex Bolle) Pit. & Proust,100,0.0026,,GC seed bank,YES,,,,,19.12.2017,Aeonium sedifolium
+12,Aeonium smithii (Sims) Webb & Berthel.,200,0.0178,,GC seed bank,YES,,,,,29.01.2018,Aeonium smithii
+13,Aeonium spathulatum (Hornem.) Praeger,200,0.0128,,GC seed bank,YES,,,,,19.12.2017,Aeonium spathulatum
+14,Aeonium tabulaeforme (Haw.) Webb & Berthel.,1000,0.0276,,KEW,,,,,,,Aeonium tabulaeforme
+15,Aeonium urbicum (C. Sm. ex Buch) Webb & Berthel.,200,0.0116,,GC seed bank,YES,,,,,23.01.2018,Aeonium urbicum
+16,Aeonium volkerii Hernández & A. Bañares,200,0.0071,,La Orotava Seed Bank,,YES,,,,01.02.2018,Aeonium volkerii
+17,Aichryson laxum (Haw.) Bramwell,200,0.0017,,GC seed bank,YES,,,,,14.02.2018,Aichryson laxum
+18,Aichryson pachycaulon Bolle,,,,,,,,,,,Aichryson pachycaulon
+19,Aichryson parlatorei Bolle,,,,,,,,,,,Aichryson parlatorei
+20,Aichryson porphyrogennetos Bolle,,,,,,,,,,,Aichryson porphyrogennetos
+21,Aichryson punctatum (C. Sm. ex Buch) Webb & Berthel.,1000,0.0774,,GC seed bank,YES,,,,,18.12.2017,Aichryson punctatum
+22,Aichryson tortuosum (Aiton) Webb & Berthel.,,,,,,,,,,,Aichryson tortuosum
+23,Aizoon canariense L.,1,0.01196,,TRY,,,,,,,Aizoon canariense
+24,Allagopappus canariensis (Willd.) Greuter,1000,0.6464,,KEW,,,,,,,Allagopappus canariensis
+25,Ammodaucus nanocarpus (Beltrán-Tej.) P. Pérez & A. Velasco,35,0.2101,,GC seed bank,YES,,,,,12.02.2018,Ammodaucus nanocarpus
+26,Anagyris latifolia Brouss. ex Willd.,20,4.3173,,GC seed bank,YES,,,,,09.02.2018,Anagyris latifolia
+27,Andryala pinnatifida Aiton,100,0.0127,,GC seed bank,YES,,,,,08.02.2018,Andryala pinnatifida
+28,Anisantha rubens (L.),,,,,,,,,,,Anisantha rubens
+29,Apollonias barbujana (Cav.) Bornm.,5,2.5247,,GC seed bank,YES,,,,,14.02.2018,Apollonias barbujana
+30,Arbutus canariensis Veill.,50,0.1655,,GC seed bank,YES,,,,,29.01.2018,Arbutus canariensis
+31,Argyranthemum adauctum (Link) Humphries,50,0.2668,,GC seed bank,YES,,,100,0.0584,16.10.2017,Argyranthemum adauctum
+32,Argyranthemum broussonetii (Pers.) Humphries,50,0.0965,,GC seed bank,YES,,,SEMILLAS ABORTADAS,SEMILLAS ABORTADAS,29.01.2018,Argyranthemum broussonetii
+33,Argyranthemum coronopifolium (Willd.) Humphries,50,0.5233,,La Orotava Seed Bank,,YES,,SEMILLAS ABORTADAS,SEMILLAS ABORTADAS,01.02.2018,Argyranthemum coronopifolium
+34,Argyranthemum foeniculaceum (Willd.) Webb ex Sch. Bip.,40,0.0956,,GC seed bank,YES,,,SEMILLAS ABORTADAS,SEMILLAS ABORTADAS,22.01.2018,Argyranthemum foeniculaceum
+35,Argyranthemum frutescens (L.) Sch. Bip.,50,0.1611,,GC seed bank,YES,,,100,0.0211,23.01.2018,Argyranthemum frutescens
+36,Argyranthemum gracile Sch. Bip.,50,0.1747,,GC seed bank,YES,,,100,0.0247,23.01.2018,Argyranthemum gracile
+37,Argyranthemum lemsii Humphries,50,0.2611,,La Orotava Seed Bank,,YES,,SEMILLAS ABORTADAS,SEMILLAS ABORTADAS,01.02.2018,Argyranthemum lemsii
+38,Argyranthemum sundingii L. Borgen,1000,0.6,,KEW,YES,,,,,,Argyranthemum sundingii
+39,Argyranthemum tenerifae Humphries,50,0.1495,,GC seed bank,YES,,,SEMILLAS AUSENTES,SEMILLAS AUSENTES,08.02.2018,Argyranthemum tenerifae
+40,Arisarum simorrhinum Durieu in Duch.,,,,,,,,,,,Arisarum simorrhinum
+41,Aristida adscensionis L.,1,0.001048,,TRY,,,,,,,Aristida adscensionis
+42,Arrhenatherum calderae A. Hansen,100,0.3802,,GC seed bank,YES,,,,,22.01.2018,Arrhenatherum calderae
+43,Artemisia ramosa C. Sm. in Buch,,,,,YES,,,,,,Artemisia ramosa
+44,Artemisia reptans C. Sm. in Buch,,,,,,,,,,,Artemisia reptans
+45,Artemisia thuscula Cav.,100,0.007,,field,,,17.07.2017,,,08.10.2017,Artemisia thuscula
+46,Arthrocnemum macrostachyum (Moric.) Moris in Moris & Delponte,1000,0.195,,KEW,,,,,,,Arthrocnemum macrostachyum
+47,Asparagus arborescens Willd.,35,0.6189,,GC seed bank,YES,,,,,15.02.2018,Asparagus arborescens
+48,Asparagus fallax Svent.,17,0.8913,,GC seed bank,YES,,,,,18.12.2017,Asparagus fallax
+49,Asparagus pastorianus Webb & Berthel.,35,0.7359,,GC seed bank,YES,,,,,14.02.2018,Asparagus pastorianus
+50,Asparagus plocamoides Webb ex Svent.,35,0.7812,,GC seed bank,YES,,,,,08.02.2018,Asparagus plocamoides
+51,Asparagus scoparius Lowe,35,0.9063,,GC seed bank,YES,,,,,14.02.2018,Asparagus scoparius
+52,Asparagus umbellatus Link,35,0.9369,,GC seed bank,YES,,,,,14.02.2018,Asparagus umbellatus
+53,Astragalus hamosus L.,50,0.0903,,La Orotava Seed Bank,,YES,,,,01.02.2018,Astragalus hamosus
+54,Astydamia latifolia (L. f.) Baill.,50,0.1932,,GC seed bank,YES,,,,,23.01.2018,Astydamia latifolia
+55,Atalanthus arboreus (DC.) Sw.,,,,,,,,,,,Atalanthus arboreus
+56,Atalanthus capillaris (Svent.) A. Hansen & Sunding,,,,,,,,,,,Atalanthus capillaris
+57,Atalanthus microcarpus (Boulos) A. Hansen & Sunding,,,,,,,,,,,Atalanthus microcarpus
+58,Atalanthus pinnatus (L. f.) D. Don,,,,,,,,,,,Atalanthus pinnatus
+59,Atalanthus regis-jubae (Pit.) A. Hansen & Sunding,,,,,,,,,,,Atalanthus regis-jubae
+60,Atractylis preauxiana Sch. Bip.,,,,,YES,,,,,,Atractylis preauxiana
+61,"Avena canariensis R. Baum, Rajhathy & D. R. Sampson",20,0.3313,,GC seed bank,YES,,,,,12.02.2018,Avena  canariensis
+62,Avena fatua L.,1,0.01699,,TRY,,,,,,,Avena fatua
+63,Bencomia caudata (Aiton) Webb & Berthel.,50,0.2616,,GC seed bank,YES,,,,,16.10.2017,Bencomia caudata
+64,Bencomia exstipulata Svent.,50,0.6294,,GC seed bank,YES,,,,,22.01.2018,Bencomia exstipulata
+65,Bosea yervamora L.,50,0.8317,,GC seed bank,YES,,,,,25.01.2018,Bosea yervamora
+66,Brachypodium arbuscula Knoche,50,0.1661,,GC seed bank,YES,,,,,23.01.2018,Brachypodium arbuscula
+67,Brassica bourgeaui (Webb ex Christ) Kuntze,50,0.2558,,GC seed bank,YES,,,,,15.02.2018,Brassica bourgeaui
+68,Bryonia verrucosa Dryand.,35,0.6467,,GC seed bank,YES,,,,,12.02.2018,Bryonia verrucosa
+69,Bufonia paniculata F. Dubois ex Delarbre,,,,,,,,,,,Bufonia paniculata
+70,Bupleurum salicifolium R. Br. in Buch,50,0.1146,,GC seed bank,YES,,,,,08.02.2018,Bupleurum salicifolium
+71,Bupleurum semicompositum L.,100,0.0177,,GC seed bank,YES,,,,,09.02.2018,Bupleurum semicompositum
+72,Bystropogon canariensis (L.) L’Hér.,100,0.0131,,GC seed bank,YES,,,,,15.02.2018,Bystropogon canariensis
+73,Bystropogon odoratissimus Bolle,,,,,YES,,,,,,Bystropogon odoratissimus
+74,Bystropogon origanifolius L’Hér.,100,0.0215,,GC seed bank,YES,,,,,18.12.2017,Bystropogon origanifolius
+75,Bystropogon plumosus (L. f.) L’Hér.,,,,,,,,,,,Bystropogon plumosus
+76,Campanula dichotoma L.,,,,,,,,,,,Campanula dichotoma
+77,Campylanthus salsoloides (L. f.) Roth,100,0.0106,,GC seed bank,YES,,,,,23.01.2018,Campylanthus salsoloides
+78,Canarina canariensis (L.) Vatke,100,0.429,,GC seed bank,YES,,,,,26.01.2018,Canarina canariensis
+79,Carduus clavulatus Link,,,,,,,,,,,Carduus clavulatus
+80,Carduus volutarioides Reyes-Betancort,,,,,,,,,,,Carduus volutarioides
+81,Carex canariensis Kük.,1000,1.4876,,KEW,,,,,,,Carex canariensis
+82,Carex paniculata L.,50,0.0221,,GC seed bank,YES,,,,,26.01.2018,Carex paniculata
+83,Carex perraudieriana Gay ex Bornm.,29,0.0969,,GC seed bank,YES,,,,,12.02.2018,Carex perraudieriana
+84,Carlina salicifolia (L. f.) Cav.,50,0.031,,GC seed bank,YES,,,,,29.01.2018,Carlina salicifolia
+85,Carlina xeranthemoides L. f.,3,0.0051,,GC seed bank,YES,,,,,14.02.2018,Carlina xeranthemoides
+86,Ceballosia fruticosa (L. f.) G. Kunkel,50,0.4356,,GC seed bank,YES,,,,,22.01.2018,Ceballosia fruticosa
+87,Cedronella canariensis (L.) Webb & Berthel.,100,0.1416,,GC seed bank,YES,,,,,16.10.2017,Cedronella canariensis
+88,Cerastium sventenii Jalas,100,0.0257,,GC seed bank,YES,,,,,12.02.2018,Cerastium sventenii
+89,Ceropegia dichotoma Haw.,35,0.1555,,GC seed bank,YES,,,,,12.02.2018,Ceropegia dichotoma
+90,Ceropegia fusca Bolle,35,0.2341,,GC seed bank,YES,,,,,15.02.2018,Ceropegia fusca
+91,Chamaecytisus proliferus (L. f.) Link,35,0.7282,,La Orotava Seed Bank,,YES,,,,01.02.2018,Chamaecytisus proliferus
+92,Cheirolophus burchardii Susanna,50,0.2247,,GC seed bank,YES,,,,,19.12.2017,Cheirolophus burchardii
+93,Cheirolophus canariensis (Brouss. ex Willd.) Holub,50,0.2415,,GC seed bank,YES,,,,,14.02.2018,Cheirolophus canariensis
+94,Cheirolophus metlesicsii Montelongo,100,0.3867,,GC seed bank,YES,,,,,19.12.2017,Cheirolophus metlesicsii
+95,Cheirolophus tagananensis (Svent.) Holub,,,,,,,,,,,Cheirolophus tagananensis
+96,Cheirolophus teydis (C. Sm. in Buch) G. López,50,0.2669,,GC seed bank,YES,,,,,25.01.2018,Cheirolophus teydis
+97,Cheirolophus webbianus (Sch. Bip.) Holub,50,0.1623,,GC seed bank,YES,,,,,08.02.2018,Cheirolophus webbianus
+98,Chelidonium majus L.,1,0.0007449,,TRY,,,,,,,Chelidonium majus
+99,Chenoleoides tomentosa (Lowe) Botsch.,,,,,,,,,,,Chenoleoides tomentosa
+100,Chenopodium coronopus Moq. in DC.,,,,,,,,,,,Chenopodium coronopus
+101,Cicer canariense A. Santos & G. P. Lewis,35,1.1567,,GC seed bank,YES,,,,,15.02.2018,Cicer canariense
+102,Cistus chinamadensis A. Bañares & P. Romero,100,0.0435,,GC seed bank,YES,,,,,18.12.2017,Cistus chinamadensis
+103,Cistus osbaeckiaefolius Webb ex Christ,100,0.0346,,GC seed bank,YES,,,,,09.02.2018,Cistus osbaeckiaefolius
+104,Cistus symphytifolius Lam.,100,0.0371,,GC seed bank,YES,,,,,16.10.2017,Cistus symphytifolius
+105,Convolvulus canariensis L.,50,0.2567,,GC seed bank,YES,,,,,16.10.2017,Convolvulus canariensis
+106,Convolvulus floridus L. f.,50,0.2494,,GC seed bank,YES,,,,,29.01.2018,Convolvulus floridus
+107,Convolvulus fruticulosus Desr.,100,0.4519,,GC seed bank,YES,,,,,23.01.2018,Convolvulus fruticulosus
+108,Convolvulus perraudieri Coss.,50,0.3098,,GC seed bank,YES,,,,,15.02.2018,Convolvulus perraudieri
+109,Convolvulus scoparius L. f.,50,0.2405,,GC seed bank,YES,,,,,08.02.2018,Convolvulus scoparius
+110,Convolvulus volubilis Link in Buch,,,,,,,,,,,Convolvulus volubilis
+111,Crambe arborea Webb ex Christ,100,0.1345,,GC seed bank,YES,,,,,25.01.2018,Crambe arborea
+112,Crambe laevigata DC. ex Christ,100,0.1503,,GC seed bank,YES,,,,,19.12.2017,Crambe laevigata
+113,Crambe scaberrima Webb ex Bramwell,100,0.2142,,GC seed bank,YES,,,,,25.01.2018,Crambe scaberrima
+114,Crambe strigosa L’Hér.,50,0.0825,,GC seed bank,YES,,,,,18.12.2017,Crambe strigosa
+115,Crithmum maritimum L.,35,0.0325,,GC seed bank,YES,,,,,09.02.2018,Crithmum maritimum
+116,Cryptotaenia elegans Webb ex Bolle,50,0.0692,,GC seed bank,YES,,,,,08.02.2018,Cryptotaenia elegans
+117,Cynara cardunculus L.,20,0.0712,0.2054,LaPalma Table (1 ind.),,,,,,,Cynara cardunculus
+118,Cyperus capitatus Vand.,50,0.0546,,GC seed bank,YES,,,,,09.02.2018,Cyperus capitatus
+119,Cyperus teneriffae Poir.,,,,,,,,,,,Cyperus teneriffae
+120,Dactylis metlesicsii Schönfelder & Ludwig,,,,,,,,,,,Dactylis metlesicsii
+121,Dactylis smithii Link,50,0.0199,,GC seed bank,YES,,,,,16.02.2018,Dactylis smithii
+122,Descurainia bourgeauana (E. Fourn.) O. E. Schulz,200,0.0303,,GC seed bank,YES,,,,,22.01.2018,Descurainia bourgeauana
+123,Descurainia gonzalesii Svent.,,,,,,,,,,,Descurainia gonzalesii
+124,Descurainia lemsii Bramwell,200,0.0249,,GC seed bank,YES,,,,,08.02.2018,Descurainia lemsii
+125,Descurainia millefolia (Jacq.)  Webb & Berthel.,200,0.0494,,GC seed bank,YES,,,,,22.01.2018,Descurainia millefolia
+126,Dicheranthus plocamoides Webb,,,,,YES,,,,,,Dicheranthus plocamoides
+127,Dorycnium broussonetii (Choisy ex Ser. in DC.) Webb & Berthel.,50,0.0825,,GC seed bank,YES,,,,,29.01.2018,Dorycnium broussonetii
+128,Dorycnium eriophthalmum Webb & Berthel.,100,0.1642,0.3615,"GC seed bank, LaPalma Table (1 ind.)",YES,,,,,23.01.2018,Dorycnium eriophthalmum
+129,Dorycnium spectabile (Choisy ex Ser. in DC.) Webb & Berthel.,100,0.1487,,GC seed bank,YES,,,,,16.10.2017,Dorycnium spectabile
+130,Dracaena draco L.,10,2.3572,,GC seed bank,YES,,,,,16.02.2018,Dracaena draco
+131,Dracunculus canariensis Kunth,50,2.0295,,GC seed bank,YES,,,,,25.01.2018,Dracunculus canariensis
+132,Drimia maritima (L.) Stearn,1,0.00598,,TRY,,,,,,,Drimia maritima
+133,Drusa glandulosa (Poir.) Bornm.,,,,,,,,,,,Drusa glandulosa
+134,Ebingeria elegans (Lowe) Chrtek & Krísa,,,,,,,,,,,Ebingeria elegans
+135,Echium aculeatum Poir.,50,0.1547,,GC seed bank,YES,,,,,22.01.2018,Echium aculeatum
+136,Echium auberianum Webb & Berthel.,50,0.0441,,GC seed bank,YES,,,,,09.02.2018,Echium auberianum
+137,Echium bonnetii Coincy,,,,,,,,,,,Echium bonnetii
+138,Echium giganteum L. f.,50,0.1197,,GC seed bank,YES,,,,,14.02.2018,Echium giganteum
+139,Echium leucophaeum Webb ex Sprague & Hutch.,50,0.1631,,GC seed bank,YES,,,,,23.01.2018,Echium leucophaeum
+140,Echium simplex DC.,50,0.1583,,GC seed bank,YES,,,,,14.02.2018,Echium simplex
+141,Echium strictum L. f.,50,0.0991,,GC seed bank,YES,,,,,26.01.2018,Echium strictum
+142,Echium sventenii Bramwell,,,,,,,,,,,Echium sventenii
+143,Echium triste Svent.,,,,,,,,,,,Echium triste
+144,Echium virescens DC.,100,0.2392,,GC seed bank,YES,,,,,22.01.2018,Echium virescens
+145,Echium wildpretii Pearson ex Hook. f.,50,0.1323,,GC seed bank,YES,,,,,26.01.2018,Echium wildpretii
+146,Ephedra altissima Desf.,,,,,,,,,,,Ephedra altissima
+147,Ephedra fragilis Desf.,35,0.2791,,GC seed bank,YES,,,,,15.02.2018,Ephedra fragilis
+148,Ephedra major Host,1000,9.3652,,KEW,,,,,,,Ephedra major
+149,Erica arborea L.,350,0.0067,,GC seed bank,YES,,,,,16.10.2017,Erica arborea
+150,Erica platycodon (Webb & Berthel.) Rivas-Mart. & al.,,,,,YES,,,,,,Erica platycodon
+151,Erigeron calderae A. Hansen,100,0.0163,,GC seed bank,YES,,,,,22.01.2018,Erigeron calderae
+152,Erucastrum canariense Webb & Berthel.,100,0.0138,,GC seed bank,YES,,,,,12.02.2018,Erucastrum canariense
+153,Erucastrum cardaminoides (Webb ex Christ) O. E. Schulz,100,0.0214,,GC seed bank,YES,,,,,26.01.2018,Erucastrum cardaminoides
+154,Erysimum bicolor (Hornem.) DC.,100,0.1306,,GC seed bank,YES,,,,,22.01.2018,Erysimum bicolor
+155,Erysimum scoparium (Brouss. ex Willd.) Wettst.,50,0.0507,,GC seed bank,YES,,,,,29.01.2018,Erysimum scoparium
+156,Euphorbia aphylla Brouss. ex Willd.,50,0.1046,,GC seed bank,YES,,,,,15.02.2018,Euphorbia aphylla
+157,Euphorbia atropurpurea (Brouss.) Webb & Berthel.,50,0.2444,,GC seed bank,YES,,,,,16.02.2018,Euphorbia atropurpurea
+158,Euphorbia balsamifera Aiton,50,0.2928,,GC seed bank,YES,,,,,15.02.2018,Euphorbia balsamifera
+159,Euphorbia bourgeauana Gay ex Boiss. in DC.,50,0.9672,,GC seed bank,YES,,,,,15.02.2018,Euphorbia bourgeauana
+160,Euphorbia canariensis L.,50,0.4759,,GC seed bank,YES,,,,,25.01.2018,Euphorbia canariensis
+161,Euphorbia lamarckii Sweet,1,0.002588301,0.338333333,LaPalma Table (3 ind.),,,,,,,Euphorbia lamarckii
+162,Euphorbia mellifera Aiton,50,1.0246,,GC seed bank,YES,,,,,14.02.2018,Euphorbia mellifera
+163,Ferula linkii Webb,20,0.6287,,GC seed bank,YES,,,,,12.02.2018,Ferula linkii
+164,Festuca agustinii Linding.,,,,,,,,,,,Festuca agustinii
+165,Forsskaolea angustifolia Retz.,,,,,YES,,,,,,Forsskaolea angustifolia
+166,Frankenia capitata Webb & Berthel.,,,,,,,,,,,Frankenia capitata
+167,Frankenia ericifolia C. Sm. ex DC.,,,,,YES,,,,,,Frankenia ericifolia
+168,Fumaria coccinea Lowe ex Pugsley,,,,,,,,,,,Fumaria coccinea
+169,Fumaria montana Schmidt,,,,,,,,,,,Fumaria montana
+170,Geranium reuteri Aedo & Muñoz Garm.,35,0.0784,,GC seed bank,YES,,,,,14.02.2018,Geranium reuteri
+171,Gesnouinia arborea (L. f.) Gaudich.,100,0.0192,,GC seed bank,YES,,,,,19.12.2017,Gesnouinia arborea
+172,Globularia salicina Lam.,100,0.0011,,GC seed bank,YES,,,,,08.02.2018,Globularia salicina
+173,Gonospermum fruticosum (Buch) Less.,100,0.0152,,GC seed bank,YES,,,,,23.01.2018,Gonospermum fruticosum
+174,Gonospermum revolutum (C. Sm in Buch) Sch. Bip.,100,0.0227,,GC seed bank,YES,,,,,25.01.2018,Gonospermum revolutum
+175,Greenovia aizoon Bolle,,,,,,,,,,,Greenovia aizoon
+176,Greenovia aurea (C. Sm. ex Hornem.) Webb & Berthel.,200,0.0113,,GC seed bank,YES,,,,,25.01.2018,Greenovia aurea
+177,Greenovia dodrentalis (Willd.) Webb & Berthel.,100,0.0033,,GC seed bank,YES,,,,,19.12.2017,Greenovia dodrentalis
+178,Gymnocarpos decandrus Forssk.,200,0.0036,,GC seed bank,YES,,,,,14.02.2018,Gymnocarpos decandrus
+179,Habenaria tridactylites Lindl.,,,,,,,,,,,Habenaria tridactylites
+180,Heberdenia excelsa (Aiton) Banks ex DC.,11,0.5313,,GC seed bank,YES,,,,,09.02.2018,Heberdenia excelsa
+181,Hedera canariensis Willd.,20,1.2422,,GC seed bank,YES,,,,,19.12.2017,Hedera canariensis
+182,Helianthemum broussonetii Dunal ex DC.,100,0.0696,,GC seed bank,YES,,,,,26.01.2018,Helianthemum broussonetii
+183,Helianthemum canariense (Jacq.) Pers.,100,0.0225,,GC seed bank,YES,,,,,16.10.2017,Helianthemum canariense
+184,Helianthemum juliae Wildpret,100,0.0844,,GC seed bank,YES,,,,,09.02.2018,Helianthemum juliae
+185,Helianthemum teneriffae Coss.,100,0.1033,,GC seed bank,YES,,,,,22.01.2018,Helianthemum teneriffae
+186,Heliotropium ramosissimum (Lehm.) DC.,,,,,,,,,,,Heliotropium ramosissimum
+187,Herniaria canariensis Chaudhri,,,,,,,,,,,Herniaria canariensis
+188,Himantoglossum metlesicsianum (W. P. Teschner) P. Delforge,3000,0.0082,,GC seed bank,YES,,,,,18.12.2017,Himantoglossum metlesicsianum
+189,Hyparrhenia hirta (L.) Stapf in Prain,50,0.0171,,GC seed bank,YES,,,,,26.01.2018,Hyparrhenia hirta
+190,Hypericum canariense L.,200,0.016,,GC seed bank,YES,,,,,22.01.2018,Hypericum canariense
+191,Hypericum glandulosum Aiton,300,0.0073,,GC seed bank,YES,,,,,23.01.2018,Hypericum glandulosum
+192,Hypericum grandifolium Choisy,200,0.0078,,GC seed bank,YES,,,,,16.10.2017,Hypericum grandifolium
+193,Hypericum reflexum L. f.,200,0.0045,,GC seed bank,YES,,,,,16.10.2017,Hypericum reflexum
+194,Hypochoeris oligocephala (Svent. & Bramwell) Lack,50,0.0211,,GC seed bank,YES,,,,,18.12.2017,Hypochoeris oligocephala
+195,Ilex canariensis Poir.,20,3.5937,,GC seed bank,YES,,,,,22.01.2018,Ilex canariensis
+196,Ilex perado Aiton,5,0.9312,,GC seed bank,YES,,,,,15.02.2018,Ilex perado
+197,Isoplexis canariensis (L.) J. W. Loudon,100,0.0108,,GC seed bank,YES,,,,,09.02.2018,Isoplexis canariensis
+198,Ixanthus viscosus (Sm.) Griseb.,200,0.0041,,GC seed bank,YES,,,,,08.02.2018,Ixanthus viscosus
+199,Jasminum odoratissimum L.,5,1.493,,GC seed bank,YES,,,,,16.10.2017,Jasminum odoratissimum
+200,Juniperus cedrus Webb & Berthel.,35,1.0209,,GC seed bank,YES,,,,,12.02.2018,Juniperus cedrus
+201,Juniperus turbinata Guss.,20,1.4016,,GC seed bank,YES,,,,,09.02.2018,Juniperus turbinata
+202,Justicia hyssopifolia L.,20,0.5268,,GC seed bank,YES,,,,,16.10.2017,Justicia hyssopifolia
+203,Kickxia sagittata (Poir.) Rothm.,,,,,,,,,,,Kickxia sagittata
+204,Kickxia scoparia (Brouss. ex Spreng.) G. Kunkel & Sunding,100,0.0049,,GC seed bank,YES,,,,,14.02.2018,Kickxia scoparia
+205,Kleinia neriifolia Haw.,50,0.081,,GC seed bank,YES,,,,,16.10.2017,Kleinia neriifolia
+206,Kunkeliella psilotoclada (Svent.) Stearn,,,,,,,,,,,Kunkeliella psilotoclada
+207,Kunkeliella retamoides A. Santos,50,1.0735,,GC seed bank,YES,,,,,18.12.2017,Kunkeliella retamoides
+208,Kunkeliella subsucculenta Kämmer,,,,,,,,,,,Kunkeliella subsucculenta
+209,Laphangium teydeum Wildpret & Greuter,,,,,,,,,,,Laphangium teydeum
+210,Launaea arborescens (Batt.) Murb.,50,0.0181,,GC seed bank,YES,,,,,14.02.2018,Launaea arborescens
+211,"Laurus novocanariensis Rivas-Mart., Lousa, Fern. Prieto, E. Días, J.C. Costa & C. Aguiar",20,11.7596,,GC seed bank,YES,,,,,26.01.2018,Laurus  novocanariensis 
+212,Lavandula buchii Webb,50,0.0104,,GC seed bank,YES,,,,,09.02.2018,Lavandula buchii
+213,Lavandula canariensis Mill.,50,0.0052,,GC seed bank,YES,,,,,19.12.2017,Lavandula canariensis
+214,Lavandula minutolii Bolle,100,0.0167,,GC seed bank,YES,,,,,14.02.2018,Lavandula minutolii
+215,Lavatera acerifolia Cav.,35,0.3045,,GC seed bank,YES,,,,,29.01.2018,Lavatera acerifolia
+216,Limonium arborescens (Brouss.) Kuntze,20,0.0197,,GC seed bank,YES,,,,,14.02.2018,Limonium arborescens
+217,Limonium fruticans (Webb) Kuntze,20,0.0205,,GC seed bank,YES,,,,,29.01.2018,Limonium fruticans
+218,Limonium imbricatum (Webb ex Girard) C. F. Hubb.,9,0.0078,,GC seed bank,YES,,,,,29.01.2018,Limonium imbricatum
+219,Limonium macrophyllum (Brouss.) Kuntze,100,0.1952,,GC seed bank,YES,,,,,18.12.2017,Limonium macrophyllum
+220,Limonium pectinatum (Aiton) Kuntze,22,0.0037,,GC seed bank,YES,,,,,19.12.2017,Limonium pectinatum
+221,Limonium perezii (Stapf) C. F. Hubb.,100,0.1055,,GC seed bank,YES,,,,,16.10.2017,Limonium perezii
+222,Limonium spectabile (Svent.) G. Kunkel & Sunding,12,0.0065,,GC seed bank,YES,,,,,12.02.2018,Limonium spectabile
+223,Lobularia canariensis (DC.) L. Borgen ,50,0.0233,,GC seed bank,YES,,,,,08.02.2018,Lobularia canariensis
+224,Lolium canariense Steud.,,,,,,,,,,,Lolium canariense
+225,"Lolium edwardii H. Scholz, Stierstorfer & v.Gaisberg",,,,,,,,,,,Lolium  edwardii 
+226,Lolium lowei Menezes,,,,,,,,,,,Lolium lowei
+227,Lotus berthelotii Masf.,1,0.0023,,GC seed bank,YES,,,,,19.12.2017,Lotus berthelotii
+228,Lotus campylocladus Webb & Berthel.,100,0.1216,,GC seed bank,YES,,,,,09.02.2018,Lotus campylocladus
+229,Lotus dumetorum Webb ex R. P. Murray,100,0.1177,,La Orotava Seed Bank,,YES,,,,01.02.2018,Lotus dumetorum
+230,Lotus glaucus Dryand. in Aiton,100,0.0846,,GC seed bank,YES,,,,,09.02.2018,Lotus glaucus
+231,Lotus maculatus Breitf.,100,0.1284,,GC seed bank,YES,,,,,16.02.2018,Lotus maculatus
+232,Lotus mascaensis Burchard,83,0.1138,,GC seed bank,YES,,,,,08.02.2018,Lotus mascaensis
+233,Lotus sessilifolius DC.,100,0.0996,,GC seed bank,YES,,,,,14.02.2018,Lotus sessilifolius
+234,"Lotus tenellus (Lowe) Sandral, A. Santos & D.D. Sokoloff",100,0.1351,,La Orotava Seed Bank,,YES,,,,01.02.2018,Lotus  tenellus 
+235,Luzula canariensis Poir.,1000,0.4804,,KEW,,,,,,,Luzula canariensis
+236,Lycium intricatum Boiss.,50,0.0888,,GC seed bank,YES,,,,,12.02.2018,Lycium intricatum
+237,Mairetis microsperma (Boiss.) I. M. Johnst.,,,,,,,,,,,Mairetis microsperma
+238,Marcetella moquiniana (Webb & Berthel.) Svent.,25,0.0557,,GC seed bank,YES,,,,,19.12.2017,Marcetella moquiniana
+239,Maytenus canariensis (Loes.) G. Kunkel & Sunding,10,0.1634,,GC seed bank,YES,,,,,16.10.2017,Maytenus canariensis
+240,Medicago laciniata (L.) Mill.,77,0.1113,,La Orotava Seed Bank,,YES,,,,01.02.2018,Medicago laciniata
+241,Medicago littoralis Rohde ex Loisel.,49,0.0591,,La Orotava Seed Bank,,YES,,,,01.02.2018,Medicago littoralis
+242,Melica ciliata L.,100,0.0298,,GC seed bank,YES,,,,,23.01.2018,Melica ciliata
+243,Melica minuta L.,,,,,,,,,,,Melica minuta
+244,Mercurialis canariensis Obbard & S.A. Harris,,,,,,,,,,,Mercurialis canariensis
+245,Micromeria glomerata P. Pérez,,,,,,,,,,,Micromeria glomerata
+246,Micromeria hyssopifolia Webb & Berthel.,,,,,YES,,,,,,Micromeria hyssopifolia
+247,Micromeria lachnophylla Webb & Berthel.,100,0.0044,,La Orotava Seed Bank,,YES,,,,01.02.2018,Micromeria lachnophylla
+248,Micromeria lasiophylla Webb & Berthel.,,,,,,,,,,,Micromeria lasiophylla
+249,Micromeria rivas-martinezii Wildpret,,,,,,,,,,,Micromeria rivas-martinezii
+250,Micromeria teneriffae (Poir.) Benth.,,,,,,,,,,,Micromeria teneriffae
+251,Micromeria varia Benth.,100,0.0051,,GC seed bank,YES,,,,,29.01.2018,Micromeria varia
+252,Minuartia webbii McNeill & Bramwell,100,0.0151,,GC seed bank,YES,,,,,16.10.2017,Minuartia webbii
+253,Monanthes anagensis Praeger,100,0.0029,,La Orotava Seed Bank,,YES,,,,01.02.2018,Monanthes anagensis
+254,Monanthes brachycaulos (Webb in Webb & Berthel.) Lowe,,,,,,,,,,,Monanthes brachycaulos
+255,Monanthes icterica (Webb ex Bolle) Christ,,,,,,,,,,,Monanthes icterica
+256,Monanthes laxiflora (DC.) Bolle ex Börnm.,,,,,,,,,,,Monanthes laxiflora
+257,Monanthes minima (Bolle) Christ,,,,,,,,,,,Monanthes minima
+258,Monanthes pallens (Webb ex Christ) Christ,100,0.0035,,La Orotava Seed Bank,,YES,,,,01.02.2018,Monanthes pallens
+259,Monanthes polyphylla Haw.,,,,,,,,,,,Monanthes polyphylla
+260,Monanthes wildpretii A. Bañares & S. Scholz,,,,,,,,,,,Monanthes wildpretii
+261,Myrica faya Aiton,35,0.9091,,GC seed bank,YES,,,,,16.02.2018,Myrica faya
+263,Navaea phoenicea (Vent.) Webb & Berthel.,,,,,,,,,,,Navaea phoenicea
+264,Nepeta teydea Webb & Berthel.,50,0.0141,,GC seed bank,YES,,,,,09.02.2018,Nepeta teydea
+265,Ocotea foetens (Aiton) Baill.,10,4.8592,,GC seed bank,YES,,,,,18.12.2017,Ocotea foetens
+266,Olea cerasiformis Rivas-Mart. & del Arco ,5,0.5798,,GC seed bank,YES,,,,,16.10.2017,Olea cerasiformis
+267,Oligomeris linifolia (Vahl) J. F. Macbr.,200,0.0109,,GC seed bank,YES,,,,,09.02.2018,Oligomeris linifolia
+268,Ononis angustissima Lam.,50,0.1511,,GC seed bank,YES,,,,,15.02.2018,Ononis angustissima
+269,Ononis hesperia (Maire) H. Förther & D. Podlech,50,0.1217,,GC seed bank,YES,,,,,12.02.2018,Ononis hesperia
+270,Orchis patens Desf.,,,,,,,,,,,Orchis patens
+271,Orobanche berthelotii Webb & Berthel.,,,,,,,,,,,Orobanche berthelotii
+272,Osyris lanceolata Hochst. & Steud. ex A. DC.,1,0.1024,,TRY,,,,,,,Osyris lanceolata
+273,Pancratium canariense Ker-Gawl.,35,0.6586,,GC seed bank,YES,,,,,16.02.2018,Pancratium canariense
+274,Parietaria filamentosa Webb & Berthel.,,,,,,,,,,,Parietaria filamentosa
+275,Parolinia intermedia Svent. & Bramwell,100,0.0283,,GC seed bank,YES,,,,,08.02.2018,Parolinia intermedia
+276,Paronychia canariensis (L. f.) Juss.,50,0.0078,,GC seed bank,YES,,,,,22.01.2018,Paronychia canariensis
+277,"Patellifolia patellaris (Moq.) A. J. Scott, Ford-Lloyd & J. T. Williams",50,0.341,,La Orotava Seed Bank,,YES,,,,01.02.2018,Patellifolia  patellaris 
+278,"Patellifolia procumbens (C. Sm. ex Hornem.) A. J. Scott, Ford-Lloyd & J. T. Williams",50,0.5879,,La Orotava Seed Bank,,YES,,,,01.02.2018,Patellifolia  procumbens 
+279,"Patellifolia webbiana (Moq.) A. J. Scott, Ford-Lloyd & J. T. Williams",,,,,,,,,,,Patellifolia  webbiana 
+280,Pelletiera wildpretii Valdés,100,0.0178,,GC seed bank,YES,,,,,09.02.2018,Pelletiera wildpretii
+281,Pericallis appendiculata (L. f.) B. Nord.,100,1.06,,field,,,19.07.2017,,,,Pericallis appendiculata
+282,Pericallis cruenta (L’Hér.) Bolle,1,0.00019,,TRY,,,,,,,Pericallis cruenta
+283,Pericallis echinata (L. f.) B. Nord.,100,0.0148,,GC seed bank,YES,,,,,08.02.2018,Pericallis echinata
+284,Pericallis lanata (L’Hér.) B. Nord.,100,0.0496,,GC seed bank,YES,,,,,16.10.2017,Pericallis lanata
+285,Pericallis multiflora (L’Hér.) B. Nord.,50,0.0036,,GC seed bank,YES,,,,,25.01.2018,Pericallis multiflora
+286,Pericallis tussilaginis (L’Hér.) D. Don in Sweet,100,0.0223,,GC seed bank,YES,,,,,26.01.2018,Pericallis tussilaginis
+287,Periploca laevigata Aiton,35,0.4422,,GC seed bank,YES,,,,,25.01.2018,Periploca laevigata
+288,Persea indica (L.) C. K. Spreng.,1,0.025166667,29.8776,LaPalma Table (3 ind.),,,,,,,Persea indica
+289,Phagnalon umbelliforme DC.,100,0.0037,,GC seed bank,YES,,,,,09.02.2018,Phagnalon umbelliforme
+290,Phelipanche lavandulacea (Rchb.),,,,,,,,,,,Phelipanche lavandulacea
+291,Phoenix canariensis Chabaud,5,2.8669,,GC seed bank,YES,,,,,09.02.2018,Phoenix canariensis
+292,Phyllis nobla L.,100,0.1,0.12,field,,,13.07.2017,,,,Phyllis nobla
+293,Phyllis viscosa Webb ex Christ,50,0.0508,,GC seed bank,YES,,,,,23.01.2018,Phyllis viscosa
+294,Picconia excelsa (Aiton) DC.,10,2.7041,,GC seed bank,YES,,,,,16.10.2017,Picconia excelsa
+295,Pimpinella anagodendron Bolle,50,0.0825,,GC seed bank,YES,,,,,12.02.2018,Pimpinella anagodendron
+296,Pimpinella cumbrae Link,50,0.0807,,GC seed bank,YES,,,,,29.01.2018,Pimpinella cumbrae
+297,Pimpinella dendrotragium Webb,50,0.0922,,GC seed bank,YES,,,,,12.02.2018,Pimpinella dendrotragium
+298,Pimpinella rupicola Svent.,,,,,,,,,,,Pimpinella rupicola
+299,Pinus canariensis C. Sm. ex DC. in Buch,10,1.1401,,GC seed bank,YES,,,,,09.02.2018,Pinus canariensis
+300,Pistacia atlantica Desf.,30,1.4395,,GC seed bank,YES,,,,,23.01.2018,Pistacia atlantica
+301,Pistacia lentiscus L.,35,0.5324,,GC seed bank,YES,,,,,14.02.2018,Pistacia lentiscus
+302,Plantago arborescens Poir.,50,0.0524,,GC seed bank,YES,,,,,08.02.2018,Plantago arborescens
+303,Plantago asphodeloides Svent.,,,,,,,,,,,Plantago asphodeloides
+304,Plantago webbii Barnéoud,50,0.1476,,GC seed bank,YES,,,,,22.01.2018,Plantago webbii
+305,Pleiomeris canariensis (Willd.) A. DC.,20,1.4863,,GC seed bank,YES,,,,,16.02.2018,Pleiomeris canariensis
+306,Plocama pendula Aiton,50,0.39,,field,,,09.07.2017,,,,Plocama pendula
+307,Poa bulbosa L.,1,0.0008097,,TRY,,,,,,,Poa bulbosa
+308,Poa pitardiana H. Scholz,,,,,,,,,,,Poa pitardiana
+309,Polycarpaea aristata (Aiton) DC.,100,0.0034,,GC seed bank,YES,,,,,09.02.2018,Polycarpaea aristata
+310,Polycarpaea carnosa C. Sm. ex Buch,100,0.0048,,La Orotava Seed Bank,,YES,,,,01.02.2018,Polycarpaea carnosa
+311,Polycarpaea divaricata (Aiton) Poir.,100,0.0036,,GC seed bank,YES,,,,,09.02.2018,Polycarpaea divaricata
+312,Polycarpaea filifolia Webb ex Christ,50,0.0033,,GC seed bank,YES,,,,,14.02.2018,Polycarpaea filifolia
+313,Polycarpaea latifolia Willd.,100,0.0043,,GC seed bank,YES,,,,,09.02.2018,Polycarpaea latifolia
+314,Polycarpaea nivea (Aiton) Webb,100,0.0437,,GC seed bank,YES,,,,,16.10.2017,Polycarpaea nivea
+315,Polycarpaea tenuis Webb ex Christ,,,,,,,,,,,Polycarpaea tenuis
+316,Polygonum balansae Boiss.,,,,,,,,,,,Polygonum balansae
+317,Polygonum maritimum L.,50,0.1117,,GC seed bank,YES,,,,,12.02.2018,Polygonum maritimum
+318,Portulaca canariensis Danin & Reyes-Betancort,,,,,,,,,,,Portulaca canariensis
+319,Prunus lusitanica L.,5,0.9596,,GC seed bank,YES,,,,,12.02.2018,Prunus lusitanica
+320,Pterocephalus dumetorus (Brouss. ex Willd.) Coult.,20,0.0537,,GC seed bank,YES,,,,,16.10.2017,Pterocephalus dumetorus
+321,Pterocephalus lasiospermus Link ex Buch,,,,,,,,,,,Pterocephalus lasiospermus
+322,Pterocephalus virens Webb & Berthel.,50,0.1266,,GC seed bank,YES,,,,,16.10.2017,Pterocephalus virens
+323,Ranunculus cortusifolius Willd.,100,0.0607,,GC seed bank,YES,,,,,08.02.2018,Ranunculus cortusifolius
+324,Reichardia crystallina (Sch. Bip.) Bramwell,50,0.0319,,GC seed bank,YES,,,,,15.02.2018,Reichardia crystallina
+325,Reichardia ligulata (Vent.) G. Kunkel & Sunding,50,0.0285,,GC seed bank,YES,,,,,29.01.2018,Reichardia ligulata
+326,Reseda scoparia Brouss. ex Willd.,100,0.0174,,GC seed bank,YES,,,,,09.02.2018,Reseda scoparia
+327,Retama rhodorhizoides Webb & Berthel.,20,0.9526,,GC seed bank,YES,,,,,12.02.2018,Retama rhodorhizoides
+328,Rhamnus crenulata Aiton,20,0.3439,,GC seed bank,YES,,,,,08.02.2018,Rhamnus crenulata
+329,Rhamnus glandulosa Aiton,50,1.5314,,GC seed bank,YES,,,,,19.12.2017,Rhamnus glandulosa
+330,Rhamnus integrifolia DC.,,,,,,,,,,,Rhamnus integrifolia
+331,Rhus coriaria L.,35,0.2425,,GC seed bank,YES,,,,,15.02.2018,Rhus coriaria
+332,Romulea columnae Sebast. & Mauri,1000,1.749,,KEW,,,,,,,Romulea columnae
+333,Rubia fruticosa Aiton,50,0.4512,,GC seed bank,YES,,,,,19.12.2017,Rubia fruticosa
+334,Rubia peregrina L.,50,1.3389,,GC seed bank,YES,,,,,18.12.2017,Rubia peregrina
+335,Rubus bollei Focke,,,,,,,,,,,Rubus bollei
+336,Rubus palmensis A. Hansen,,,,,,,,,,,Rubus palmensis
+337,Rumex bucephalophorus L.,1,0.000944,,TRY,,,,,,,Rumex bucephalophorus
+338,Rumex lunaria L.,10,0.006,,field,,,05.07.2017,,,08.10.2017,Rumex lunaria
+339,Rumex maderensis Lowe,100,0.0446,,GC seed bank,YES,,,,,08.02.2018,Rumex maderensis
+340,Ruppia maritima L.,1000,1.22,,KEW,,,,,,,Ruppia maritima
+341,Ruta pinnata L. f.,30,1.6689,,GC seed bank,YES,,,,,26.01.2018,Ruta pinnata
+342,Salix canariensis C. Sm. ex Link,,,,,,,,,,,Salix canariensis
+343,Salsola divaricata Masson ex Link in Buch,,,,,YES,,,,,,Salsola divaricata
+344,Salsola vermiculata L.,50,0.1069,,La Orotava Seed Bank,,YES,,,,01.02.2018,Salsola vermiculata
+345,Salvia aegyptiaca L.,100,0.0256,,GC seed bank,YES,,,,,09.02.2018,Salvia aegyptiaca
+346,Salvia broussonetii Benth.,50,0.1035,,GC seed bank,YES,,,,,15.02.2018,Salvia broussonetii
+347,Salvia canariensis L.,50,0.1062,,GC seed bank,YES,,,,,16.10.2017,Salvia canariensis
+348,Sambucus nigra L,35,0.6508,,La Orotava Seed Bank,,YES,,,,01.02.2018,Sambucus nigra
+349,Sanguisorba megacarpa (Lowe) Muñoz Garm. & C. Navarro,,,,,,,,,,,Sanguisorba megacarpa
+350,Schizogyne glaberrima DC.,100,0.0067,,GC seed bank,YES,,,,,25.01.2018,Schizogyne glaberrima
+351,Schizogyne sericea (L. f.) DC.,100,0.013,,GC seed bank,YES,,,,,23.01.2018,Schizogyne sericea
+352,Scilla dasyantha Webb & Berthel.,,,,,,,,,,,Scilla dasyantha
+353,Scilla haemorrhoidalis Webb & Berthel.,50,0.2473,,GC seed bank,YES,,,,,08.02.2018,Scilla haemorrhoidalis
+354,Scilla latifolia Willd.,50,0.2053,,GC seed bank,YES,,,,,12.02.2018,Scilla latifolia
+355,Scrophularia arguta Sol. ex Aiton,100,0.0073,,GC seed bank,YES,,,,,25.01.2018,Scrophularia arguta
+356,Scrophularia glabrata Aiton,100,0.0095,,GC seed bank,YES,,,,,08.02.2018,Scrophularia glabrata
+357,Scrophularia smithii Hornem.,100,0.0078,,GC seed bank,YES,,,,,29.01.2018,Scrophularia smithii
+358,Semele androgyna (L.) Kunth,50,4.4622,,GC seed bank,YES,,,,,18.12.2017,Semele androgyna
+359,Senecio palmensis (C. Sm. in Buch) Link,,,,,,,,,,,Senecio palmensis
+360,Senecio teneriffae Sch. Bip.,,,,,,,,,,,Senecio teneriffae
+361,"Serapias mascaensis H. Kretzschmar, G. Kretzschmar & Kreutz",,,,,,,,,,,Serapias  mascaensis 
+362,Seseli webbii Coss.,50,0.0491,,GC seed bank,YES,,,,,08.02.2018,Seseli webbii
+363,Sideritis brevicaulis Mend.-Heuer,50,0.0102,,GC seed bank,YES,,,,,19.12.2017,Sideritis brevicaulis
+364,Sideritis canariensis L.,50,0.0453,,GC seed bank,YES,,,,,14.02.2018,Sideritis canariensis
+365,Sideritis cretica L.,,,,,,,,,,,Sideritis cretica
+366,Sideritis cystosiphon Svent.,100,0.0927,,GC seed bank,YES,,,,,19.12.2017,Sideritis cystosiphon
+367,Sideritis dendro-chahorra Bolle,45,0.0377,,GC seed bank,YES,,,,,09.02.2018,Sideritis dendro-chahorra
+368,Sideritis eriocephala Marrero Rodr. ex Negrín & P. Pérez,50,0.0372,,GC seed bank,YES,,,,,09.02.2018,Sideritis eriocephala
+369,Sideritis infernalis Bolle,,,,,,,,,,,Sideritis infernalis
+370,Sideritis kuegleriana Bornm.,,,,,,,,,,,Sideritis kuegleriana
+371,Sideritis lotsyi (Pit.) Bornm.,50,0.042,,GC seed bank,YES,,,,,12.02.2018,Sideritis lotsyi
+372,Sideritis macrostachys Poir.,50,0.0307,,GC seed bank,YES,,,,,09.02.2018,Sideritis macrostachys
+373,Sideritis nervosa (Christ) Linding.,,,,,,,,,,,Sideritis nervosa
+374,Sideritis oroteneriffae Negrín & P. Pérez,50,0.043,,GC seed bank,YES,,,,,26.01.2018,Sideritis oroteneriffae
+375,Sideritis soluta Clos,50,0.0441,,GC seed bank,YES,,,,,19.12.2017,Sideritis soluta
+376,Sideroxylon mirmulano R. Br. in Buch,5,1.5019,,GC seed bank,YES,,,,,09.02.2018,Sideroxylon mirmulano
+377,Silene berthelotiana Webb,13,0.0061,,GC seed bank,YES,,,,,19.12.2017,Silene berthelotiana
+378,Silene lagunensis C. Sm. ex Christ,100,0.0313,,GC seed bank,YES,,,,,25.01.2018,Silene lagunensis
+379,Silene nocteolens Webb & Berthel.,50,0.0409,,GC seed bank,YES,,,,,09.02.2018,Silene nocteolens
+380,Smilax aspera L.,50,3.19,13.19,field,,,19.07.2017,,,,Smilax aspera
+381,Smilax canariensis Willd.,,,,,,,,,,,Smilax canariensis
+382,Solanum vespertilio Aiton,50,0.6718,,GC seed bank,YES,,,,,16.10.2017,Solanum vespertilio
+383,Sonchus acaulis Dum. Cours.,100,0.0873,,GC seed bank,YES,,,,,16.10.2017,Sonchus acaulis
+384,Sonchus canariensis (Sch. Bip.) Boulos,50,0.0901,,GC seed bank,YES,,,,,12.02.2018,Sonchus canariensis
+385,Sonchus congestus Willd.,100,0.0486,,GC seed bank,YES,,,,,22.01.2018,Sonchus congestus
+386,Sonchus fauces-orci Knoche,,,,,,,,,,,Sonchus fauces-orci
+387,Sonchus gummifer Link,50,0.0188,,La Orotava Seed Bank,,YES,,,,01.02.2018,Sonchus gummifer
+388,Sonchus radicatus Aiton,50,0.0184,,GC seed bank,YES,,,,,29.01.2018,Sonchus radicatus
+389,Sonchus tectifolius Svent.,,,,,,,,,,,Sonchus tectifolius
+390,Sonchus tuberifer Svent.,,,,,,,,,,,Sonchus tuberifer
+391,Spartocytisus filipes Webb & Berthel.,35,0.4512,,GC seed bank,YES,,,,,09.02.2018,Spartocytisus filipes
+392,Spartocytisus supranubius (L. f.) Christ ex G. Kunkel,35,0.4683,,GC seed bank,YES,,,,,09.02.2018,Spartocytisus supranubius
+393,Stachys germanica L.,1,0.001426,,TRY,,,,,,,Stachys germanica
+394,Stemmacantha cynaroides (C. Sm. in Buch) Dittrich,35,1.1701,,GC seed bank,YES,,,,,12.02.2018,Stemmacantha cynaroides
+395,Suaeda maritima (L.) Dumort.,1,0.0005725,,TRY,,,,,,,Suaeda maritima
+396,Suaeda mollis Delile,100,0.0171,,La Orotava Seed Bank,,YES,,,,01.02.2018,Suaeda mollis
+397,Suaeda vera Forssk. ex J. F. Gmel.,100,0.0287,,GC seed bank,YES,,,,,18.12.2017,Suaeda vera
+398,Tamarix africana Poir.,1000,0.1228,,KEW,,,,,,,Tamarix africana
+399,Tamarix canariensis Willd.,100,0.0342,,GC seed bank,YES,,,,,22.01.2018,Tamarix canariensis
+400,Tamus edulis Lowe,1,0.0229,1.167,LaPalma Table (2 ind.),,,,,,,Tamus edulis
+401,Teline canariensis (L.) Webb & Berthel.,50,0.1881,,GC seed bank,YES,,,,,09.02.2018,Teline canariensis
+402,Teline osyrioides (Svent.) P. E. Gibbs & Dingwall,50,0.3886,,La Orotava Seed Bank,,YES,,,,01.02.2018,Teline osyrioides
+403,Teline pallida (Poir.) G. Kunkel,50,0.3589,,GC seed bank,YES,,,,,29.01.2018,Teline pallida
+404,Teline salsoloides del Arco & Acebes,37,0.2523,,GC seed bank,YES,,,,,15.02.2018,Teline salsoloides
+405,Teline stenopetala (Webb & Berthel.) Webb & Berthel.,50,0.6342,,GC seed bank,YES,,,,,14.02.2018,Teline stenopetala
+406,Tetraena fontanesii (Webb & Berthel.) Beier & Thulin,35,0.3752,,GC seed bank,YES,,,,,08.02.2018,Tetraena fontanesii
+407,Teucrium heterophyllum L’Hér.,50,0.1267,,GC seed bank,YES,,,,,16.10.2017,Teucrium heterophyllum
+408,Tinguarra cervariaefolia (DC.) Parl.,,,,,,,,,,,Tinguarra cervariaefolia
+409,Todaroa aurea Parl.,30,0.2116,,GC seed bank,YES,,,,,26.01.2018,Todaroa aurea
+410,Todaroa montana Webb ex Christ,,,,,,,,,,,Todaroa montana
+411,Tolpis crassiuscula Svent.,75,0.0147,,GC seed bank,YES,,,,,18.12.2017,Tolpis crassiuscula
+412,Tolpis glabrescens Kämmer,,,,,,,,,,,Tolpis glabrescens
+413,Tolpis laciniata (Sch. Bip. ex Webb & Berthel.) Webb,,,,,,,,,,,Tolpis laciniata
+414,Tolpis lagopoda C. Sm. in Buch,,,,,,,,,,,Tolpis lagopoda
+415,Tolpis webbii Sch. Bip. ex Webb & Berthel.,100,0.0181,,GC seed bank,YES,,,,,16.02.2018,Tolpis webbii
+416,Traganum moquinii Webb ex Moq. in DC.,,,,,YES,,,,,,Traganum moquinii
+417,Tricholaena teneriffae (L. f.) Link,50,0.0109,,GC seed bank,YES,,,,,16.02.2018,Tricholaena teneriffae
+418,Trigonella stellata Forssk.,1,0.0006,,TRY,,,,,,,Trigonella stellata
+419,Urtica morifolia Poir.,,,,,,,,,,,Urtica morifolia
+420,Urtica stachyoides Webb & Berthel.,,,,,,,,,,,Urtica stachyoides
+421,Viburnum rigidum Vent.,35,1.8327,,GC seed bank,YES,,,,,25.01.2018,Viburnum rigidum
+422,Vicia cirrhosa C. Sm. ex Webb & Berthel.,50,0.3709,,La Orotava Seed Bank,,YES,,,,01.02.2018,Vicia cirrhosa
+423,Vicia scandens R. P. Murray,35,0.9879,,La Orotava Seed Bank,,YES,,,,01.02.2018,Vicia scandens
+424,Vieria laevigata (Brouss. ex Willd.) Webb,50,0.0074,,La Orotava Seed Bank,,YES,,,,01.02.2018,Vieria laevigata
+425,Viola anagae Gilli,,,,,,,,,,,Viola anagae
+426,Viola cheiranthifolia Humb. & Bonpl.,,,,,,,,,,,Viola cheiranthifolia
+427,Viola kitaibeliana Schult. in Roem. & Schult.,1,0.0004814,,TRY,,,,,,,Viola kitaibeliana
+428,Viola odorata L.,1,0.003428,,TRY,,,,,,,Viola odorata
+429,Visnea mocanera L. f.,,,,,,,,,,,Visnea mocanera
+430,Volutaria canariensis Wagenitz,50,0.0554,,GC seed bank,YES,,,,,12.02.2018,Volutaria canariensis
+431,Wahlenbergia lobelioides (L. f.) Link,300,0.0051,,GC seed bank,YES,,,,,09.02.2018,Wahlenbergia lobelioides
+432,Withania aristata (Aiton) Pauquy,35,0.2219,,GC seed bank,YES,,,,,12.02.2018,Withania aristata
